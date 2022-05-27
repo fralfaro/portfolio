@@ -38,6 +38,9 @@ markdown_extensions:
 theme:
   name: material
   language: es
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default

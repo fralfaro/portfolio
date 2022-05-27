@@ -1,26 +1,9 @@
 # Collaboration 
 
-## [polars-book](https://github.com/pola-rs/polars-book)
+## [Polars-Book](https://github.com/pola-rs/polars-book)
+<a href="https://github.com/pola-rs/polars"><img alt="Link" src="https://img.shields.io/badge/Polars-package-blue" style="float:left; padding-right:10px" ></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/pola-rs/polars?style=social)
 
-<table align="center"><tr><td align="center">
-<img src="https://raw.githubusercontent.com/fralfaro/ds_blog/master/images/polars.PNG" align="center" width="200" alt="Project icon">
+_**Book documentation of the Polars DataFrame library**_
 
-Book documentation of the Polars DataFrame library                                                     
-</td></tr></table>
-
-<table align="center"><tr><td align="center">
-<img src="https://raw.githubusercontent.com/fralfaro/ds_blog/master/images/polars.PNG" align="center" width="150" alt="Project icon">
-
-Book documentation of the 
-</td></tr></table>
-
-<body>
-<table>
-   <tr width="100%;">
-      <td width="50%;" valign="bottom">
-      <img src="https://raw.githubusercontent.com/fralfaro/ds_blog/master/images/polars.PNG" align="center" width="150" alt="Project icon">
-    </td>
-      <td width="50%;" align="center" valign="center">  text dddddddddddd  </td>
-   </tr>
-</table>
-</body>
+This repo contains the User Guide for the Polars DataFrame library.
