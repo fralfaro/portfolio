@@ -16,8 +16,6 @@ jobs:
         run: pip install poetry
       - name: Activate venv
         run: poetry install
-      - name: Notebook to markdown
-        run: poetry run jupyter nbconvert --to markdown  */*/*.ipynb
       - name: Build the book
         run: poetry run mkdocs build --site-dir public
       - name: GitHub Pages action
