@@ -37,7 +37,7 @@ markdown_extensions:
 # Theme
 theme:
   name: material
-  language: es
+  language: en
   font:
     text: Roboto
     code: Roboto Mono
