@@ -15,4 +15,5 @@
 
 - MAT021 - Calculus and Algebra I (UTFSM).
 - MAT022 - Calculus and Algebra II (UTFSM).
+- DEEPLEARNING_001V - Introduction to Deep Learning (DUOC-UC).
 
