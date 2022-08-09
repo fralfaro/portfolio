@@ -38,24 +38,23 @@ markdown_extensions:
 theme:
   name: material
   language: en
-  font:
-    text: Roboto
-    code: Roboto Mono
+  logo: images/logo.bmp
+  favicon: images/faam_logo.gif
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default
     primary: blue grey
     accent: amber
     toggle:
-      icon: material/lightbulb
-      name: Switch to light mode
+      icon: material/brightness-7
+      name: Switch to dark mode
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
     primary: blue grey
     accent: amber
     toggle:
-      icon: material/lightbulb-outline
-      name: Switch to dark mode
+      icon: material/brightness-4
+      name: Switch to light mode
   features:
     - content.code.annotate
     # - content.tabs.link
@@ -88,6 +87,8 @@ extra:
       link: https://www.kaggle.com/faamds
     - icon: fontawesome/brands/medium
       link: https://medium.com/@fralfaro
+    - icon: fontawesome/solid/globe
+      link: https://fralfaro.github.io/portfolio/
 
 
  #TOC
@@ -99,6 +100,7 @@ nav:
     - Software:
       - Python Packages: software/software.md
       - Collaboration: software/collaboration.md
+      - Books: software/book.md
     - Teaching:
       - Universities Courses: teaching/universities.md
       - Personal  Courses: teaching/personal.md
