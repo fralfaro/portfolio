@@ -1,10 +1,10 @@
 # Books
 
 
-## [python4ds-book](https://github.com/fralfaro/PythonDataScienceHandbook)
+## [python4ds-book](https://fralfaro.github.io/PythonDataScienceHandbook/)
 
 [<img src="https://raw.githubusercontent.com/fralfaro/PythonDataScienceHandbook/master/docs/notebooks/figures/PDSH-cover.png" alt="img R" 
-     width="150" height="200"  align="right" >](https://fralfaro.github.io/r4ds-book/)
+     width="150" height="200"  align="right" >](https://fralfaro.github.io/PythonDataScienceHandbook/)
 This is the Jupyter notebook version of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas; the content is available [on GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).
 The text is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode), and code is released under the [MIT license](https://opensource.org/licenses/MIT). 
 > **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/python4ds-book](https://github.com/fralfaro/PythonDataScienceHandbook).
