@@ -22,11 +22,11 @@
 
 
 ## Personal Information
-🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching 
+🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
 
-Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist at Walmart (Chile).
-I enjoy programming, learning about different topics and teaching about maths and computer science. 
-
+Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist  <br> 
+at Walmart (Chile). I enjoy programming, learning about different topics and   <br> 
+teaching about maths and computer science. 
 
 
 🔍 **Interests**:
