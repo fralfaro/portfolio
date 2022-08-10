@@ -1,4 +1,4 @@
-# Universities Courses
+# University Courses
 
 ## MAT281 - Applications of Mathematics in Engineering
 
