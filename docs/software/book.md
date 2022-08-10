@@ -1,7 +1,7 @@
 # Books
 
 
-## [PythonDataScienceHandbook-book](https://github.com/fralfaro/PythonDataScienceHandbook)
+## [python4ds-book](https://github.com/fralfaro/PythonDataScienceHandbook)
 
 [<img src="https://raw.githubusercontent.com/fralfaro/PythonDataScienceHandbook/master/docs/notebooks/figures/PDSH-cover.png" alt="img R" 
      width="150" height="200"  align="right" >](https://fralfaro.github.io/r4ds-book/)
