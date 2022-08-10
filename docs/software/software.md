@@ -23,7 +23,7 @@ Yet another R package for matrices. It contains a small set of functions to fast
 
 ## HEAVY
 
-<a href="https://gitlab.com/FAAM"><img alt="Link" src="https://img.shields.io/badge/HEAVY-package-blue" style="float:left; padding-right:10px" ></a>
+<img alt="Link" src="https://img.shields.io/badge/HEAVY-package-blue" style="float:left; padding-right:10px" ></a>
 <a href="https://www.python.org/downloads/release/python-380/"><img alt="Link" src="https://img.shields.io/badge/python-3.8-blue.svg" style="float:left; padding-right:10px" ></a>
 <img alt="Link" src="https://img.shields.io/badge/project-paused-yellow" style="float:left; padding-right:10px" >
 &nbsp;
@@ -35,7 +35,7 @@ Functions to perform robust estimation considering heavy-tailed distributions. C
  
 
 ## L1pack
-<a href="https://gitlab.com/FAAM"><img alt="Link" src="https://img.shields.io/badge/L1pack-package-blue" style="float:left; padding-right:10px" ></a>
+<img alt="Link" src="https://img.shields.io/badge/L1pack-package-blue" style="float:left; padding-right:10px" ></a>
 <a href="https://www.python.org/downloads/release/python-380/"><img alt="Link" src="https://img.shields.io/badge/python-3.8-blue.svg" style="float:left; padding-right:10px" ></a>
 <img alt="Link" src="https://img.shields.io/badge/project-paused-yellow" style="float:left; padding-right:10px" >
 &nbsp;
@@ -46,7 +46,7 @@ Provides routines to perform L1 estimation for linear regression, evaluation of 
  
 
 ## MVT
-<a href="https://gitlab.com/FAAM"><img alt="Link" src="https://img.shields.io/badge/MVT-package-blue" style="float:left; padding-right:10px" ></a>
+<img alt="Link" src="https://img.shields.io/badge/MVT-package-blue" style="float:left; padding-right:10px" ></a>
 <a href="https://www.python.org/downloads/release/python-380/"><img alt="Link" src="https://img.shields.io/badge/python-3.8-blue.svg" style="float:left; padding-right:10px" ></a>
 <img alt="Link" src="https://img.shields.io/badge/project-paused-yellow" style="float:left; padding-right:10px" >
 &nbsp;
@@ -57,7 +57,7 @@ This package contains a set of routines to perform estimation and inference unde
  
 
 ## SpatialPack
-<a href="https://gitlab.com/FAAM"><img alt="Link" src="https://img.shields.io/badge/SpatialPack-package-blue" style="float:left; padding-right:10px" ></a>
+<img alt="Link" src="https://img.shields.io/badge/SpatialPack-package-blue" style="float:left; padding-right:10px" ></a>
 <a href="https://www.python.org/downloads/release/python-380/"><img alt="Link" src="https://img.shields.io/badge/python-3.8-blue.svg" style="float:left; padding-right:10px" ></a>
 <img alt="Link" src="https://img.shields.io/badge/project-paused-yellow" style="float:left; padding-right:10px" >
 &nbsp;
