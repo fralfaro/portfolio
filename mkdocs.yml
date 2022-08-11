@@ -97,6 +97,7 @@ nav:
     - Activities:
       - Research: research/research.md
       - Talks: research/talks.md
+      - Students: research/students.md
     - Software:
       - Python Packages: software/software.md
       - Collaboration: software/collaboration.md
