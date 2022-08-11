@@ -1,5 +1,5 @@
 # Research
-- [🧾](https://github.com/fralfaro/portfolio/blob/main/docs/files/researches/tesis_master.pdf) Alfaro,F. (2019). Estimation of the reciprocal effects between Happiness and Job Performance in Chile. Master thesis. 
+- [🧾](https://github.com/fralfaro/portfolio/blob/main/docs/files/researches/tesis_master.pdf) Alfaro,F. (2019). Reciprocal effects: Happiness and Job Performance. Master thesis. 
 - 🧾 Alfaro,F. (2019). Spatial Relationships Between Two Georeferenced Variables. Reviewer. 
 - 🧾 Alfaro,F. (2018/2019). University Retention - Construction Engineering. Research. 
 - 🧾 Alfaro,F. (2018). Spatial-Statistics for 3D Kriging (laboratory tests for tailings). Research. 
