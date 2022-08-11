@@ -66,6 +66,17 @@ teaching about maths and computer science.
 <img alt="Link" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="float:left; padding-right:10px" >
 <img alt="Link" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="float:left; padding-right:10px" >
 &nbsp;
+&nbsp;
+&nbsp;
+
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+
 
 ### Cloud
 
@@ -89,7 +100,7 @@ teaching about maths and computer science.
 
 <p>
 <img src="https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=1668038400&amp;v=beta&amp;t=enubU60FCBPNoLOTtMcGv8OedOOLOgz7QsXWBxyOnPM" alt="Smiley face image" 
-style="float:left; width:55px; height:55px;">
+style="float:left; width:45px; height:45px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Microsoft Certified: Azure Fundamentals</strong> <br>
 &nbsp Microsoft
