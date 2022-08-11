@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/fralfaro/portfolio/research/students/</loc>
+         <lastmod>2022-08-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/fralfaro/portfolio/research/talks/</loc>
          <lastmod>2022-08-11</lastmod>
          <changefreq>daily</changefreq>
