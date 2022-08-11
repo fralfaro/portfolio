@@ -67,15 +67,6 @@ teaching about maths and computer science.
 <img alt="Link" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="float:left; padding-right:10px" >
 &nbsp;
 &nbsp;
-&nbsp;
-
-
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-&nbsp;
 
 
 ### Cloud
