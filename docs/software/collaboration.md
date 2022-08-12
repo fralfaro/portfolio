@@ -6,7 +6,7 @@
 
 
 
-[<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg"  width="150" height="120" align="left">](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
+[<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg"  width="150" height="120" align="left">](https://github.com/pola-rs/polars-book)
 _**Book documentation of the Polars DataFrame library**_
 
 This repo contains the User Guide for the Polars DataFrame library.
