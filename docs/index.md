@@ -4,9 +4,9 @@
 
 <a href="https://github.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
 <a href="https://gitlab.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
 <a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://medium.com/@fralfaro"><img alt="Link" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBv5TDSvKQ3cNaabIo74RoHjszQOQraWkCltivNIzelpt8mnVH6TvHB74jM9kmFfHweI&usqp=CAU" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://medium.com/@fralfaro"><img alt="Link" src="images/medium.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
 &nbsp;
 &nbsp;
 

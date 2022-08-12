@@ -2,7 +2,7 @@
 
 # Python Packages
 
-[<img src="https://raw.githubusercontent.com/fralfaro/ds_blog/master/images/python.png"  width="90" height="90" align="left">](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"  width="90" height="90" align="left">](https://www.python.org/)
 
 Python is an interpreted high-level general-purpose programming language. Python is used for web development, AI, machine learning, operating systems, 
 mobile application development, and video games. I contribute as developer/maintainer of the following Python packages:
