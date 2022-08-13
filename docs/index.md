@@ -90,7 +90,7 @@ teaching about maths and computer science.
 
 
 <p>
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=1668038400&amp;v=beta&amp;t=enubU60FCBPNoLOTtMcGv8OedOOLOgz7QsXWBxyOnPM" alt="Smiley face image" 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png" alt="Smiley face image" 
 style="float:left; width:55px; height:55px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Microsoft Certified: Azure Fundamentals</strong> <br>
@@ -100,7 +100,7 @@ style="float:left; width:55px; height:55px;">
 
 
 <p>
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=1668038400&amp;v=beta&amp;t=enubU60FCBPNoLOTtMcGv8OedOOLOgz7QsXWBxyOnPM" alt="Smiley face image" 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png" alt="Smiley face image" 
 style="float:left; width:55px; height:55px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Microsoft Certified: Azure Data Engineer Associate</strong> <br>
@@ -127,7 +127,7 @@ style="float:left; width:55px; height:55px;">
 </p>
 
 <p>
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_100_100/0/1626275253364?e=1668038400&v=beta&t=h6rzvaDtLEW-d01kE4do1SaS_NAzJ1jfT6QN7LZFwCc" alt="Smiley face image" 
+<img src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" alt="Smiley face image" 
 style="float:left; width:55px; height:55px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Docker Mastery: with Kubernetes + Swarm from a Docker Captain </strong> <br>
@@ -136,7 +136,7 @@ style="float:left; width:55px; height:55px;">
 </p>
 
 <p>
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_100_100/0/1626275253364?e=1668038400&v=beta&t=h6rzvaDtLEW-d01kE4do1SaS_NAzJ1jfT6QN7LZFwCc" alt="Smiley face image" 
+<img src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" alt="Smiley face image" 
 style="float:left; width:55px; height:55px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Taming Big Data with Apache Spark and Python - Hands On!</strong> <br>
