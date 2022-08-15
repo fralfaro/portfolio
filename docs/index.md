@@ -1,5 +1,14 @@
 # About me
 
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+ <img alt="Link" src="images/yo.png"  width="200" height="200" >
+
+🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
+
+Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist  <br> 
+at Walmart (Chile). I enjoy programming, learning about different topics and   <br> 
+teaching about maths and computer science. 
+
 ## Contact Information
 
 <a href="https://github.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
@@ -21,19 +30,12 @@
 
 
 
-## Personal Information
-🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
-
-Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist  <br> 
-at Walmart (Chile). I enjoy programming, learning about different topics and   <br> 
-teaching about maths and computer science. 
+## Interests
 
 
-🔍 **Interests**:
-
-* Software Development.
-* Statistical Modelling, Time Series.
-* Machine/Deep Learning ,Cloud computing, Big Data.
+✅ Software Development.  <br>
+✅ Statistical Modelling, Time Series. <br> 
+✅ Machine/Deep Learning ,Cloud computing, Big Data.
 
 
 ## My Tech Stack
