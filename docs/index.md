@@ -1,7 +1,7 @@
 # About me
 
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
- <img alt="Link" src="images/yo.png"  width="200" height="200" >
+<img alt="Link" src="images/yo.png"  width="250" height="250" >
+
 
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
 
