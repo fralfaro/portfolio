@@ -1,13 +1,16 @@
 # About me
-
-<img alt="Link" src="images/yo.png"  width="250" height="250" >
-
-
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
 
-Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist  <br> 
-at Walmart (Chile). I enjoy programming, learning about different topics and   <br> 
-teaching about maths and computer science. 
+<img alt="Link" src="images/yo.png"  width="200" height="200"  align="left" >
+&nbsp;
+
+Associate Lecturer at Universidad Santa María (USM)  <br>
+and Senior Data Scientist  at Walmart (Chile).  <br>
+I enjoy programming, learning about different  <br>
+topics and teaching about maths and computer science. 
+
+&nbsp;
+&nbsp;
 
 ## Contact Information
 
