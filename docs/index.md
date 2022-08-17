@@ -1,5 +1,4 @@
 # About me
-🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
 
 <img alt="Link" src="images/yo.png"  width="180" height="180"  align="left" >
 &nbsp;
@@ -11,6 +10,7 @@ topics and teaching about maths and computer science.
 &nbsp;
 
 ## Interests
+🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
 
 ✅ Software Development.  <br>
 ✅ Statistical Modelling, Time Series. <br> 
