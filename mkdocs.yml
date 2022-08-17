@@ -56,23 +56,8 @@ theme:
       icon: material/brightness-4
       name: Switch to light mode
   features:
-    - content.code.annotate
-    # - content.tabs.link
-    - content.tooltips
-    # - header.autohide
-    # - navigation.expand
-    - navigation.indexes
-    # - navigation.instant
-    # - navigation.prune
-    - navigation.sections
     - navigation.tabs
-    # - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
-    - search.highlight
-    - search.share
-    - search.suggest
-    - toc.follow
+    - navigation.tabs.sticky
 
 # Customization
 extra:
@@ -93,8 +78,11 @@ extra:
 
  #TOC
 nav:
-    - Home: index.md
-    - Activities:
+    - Home:
+      - index.md
+      - Tech Stack:  about_me/stack.md
+      - Certifications:  about_me/certification.md
+    - Activity:
       - Research: research/research.md
       - Talks: research/talks.md
       - Students: research/students.md
