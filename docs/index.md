@@ -4,14 +4,11 @@
 <img alt="Link" src="images/yo.png"  width="200" height="200"  align="left" > 
 <br> <br>
 Associate Lecturer at Universidad Santa María  <br>
-and Senior Data Scientist  at Walmart (Chile). <br>
+and Senior Data Scientist  at Walmart. <br>
 I like programming, learning and teaching <br>
 about different topics.
 </div>
-
 <br>
-&nbsp;
-
 
 ## Interests
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
