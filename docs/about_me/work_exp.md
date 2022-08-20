@@ -95,7 +95,7 @@ area) applied techniques of Natural Language Processing.
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Researcher</strong> <br>
-&nbsp Pontificia Universidad Catolica de Valparaiso, Valparaiso, Chile. <br>
+&nbsp PUCV, Valparaiso, Chile. <br>
 &nbsp 2017 – 2018
 </span>
 </p>
