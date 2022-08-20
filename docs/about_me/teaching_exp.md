@@ -12,7 +12,7 @@ style="float:left; width:55px; height:55px;">
 * **Co-Adviser**. Juan Briceño. Prediction and classification of course of a bank benefit.
 * **Lecturer**. Algebra, Calculus and Applied Mathematics ( Introduction
 to Machine Learning).
-* **Support Teacher**. Work on the exercises, quizzes and tests of the Algebra and Calculus courses.
+* **Support Teacher**. Design the material related to the exercises, quizzes and tests of the Algebra and Calculus courses.
 * **Course Assistant**: Algebra, Calculus, Statistical Inference, Regression
 Analysis, Time Series, Statistical Methods, Real Analysis.
 <hr size="30">
