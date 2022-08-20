@@ -1,12 +1,18 @@
 # About me
-<div style="text-align: left;">
-<img alt="Link" src="images/yo.png"  width="200" height="200"  align="left" > 
-<br> <br>
-Associate Lecturer at Universidad Santa María  <br>
-and Senior Data Scientist  at Walmart (Chile). <br>
-I like programming, learning and teaching <br>
-about different topics.
-</div>
+
+<p>
+<img src="images/yo.png" alt="Smiley face image"
+style="float:left; width:200px; height:200px;">
+<span style="vertical-align:bottom"> <br>
+&nbsp <strong> Mathematical Engineer </strong> <br>
+&nbsp Associate Lecturer at Universidad Santa María  <br>
+&nbsp and Senior Data Scientist  at Walmart (Chile). <br>
+&nbsp I like programming, learning and teaching <br>
+&nbsp about different topics.
+</span>
+</p>
+
+
 <br>
 ## Interests
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching

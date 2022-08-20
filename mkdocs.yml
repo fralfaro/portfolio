@@ -81,6 +81,9 @@ nav:
       - index.md
       - Tech Stack:  about_me/stack.md
       - Certifications:  about_me/certification.md
+      - Education:  about_me/education.md
+      - Work Experience:  about_me/work_exp.md
+      - Teaching Experience:  about_me/teaching_exp.md
     - Activity:
       - Research: research/research.md
       - Talks: research/talks.md
