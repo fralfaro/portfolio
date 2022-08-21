@@ -4,7 +4,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logosochifi.png/593px-Logosochifi.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Participation - National Physics Olympics</strong> <br>
+&nbsp <strong> Participation - National Physics Olympiad</strong> <br>
 &nbsp SOCHIFI, Santiago. <br>
 &nbsp 2009
 </span>
@@ -14,7 +14,7 @@ style="float:left; width:65px; height:65px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logosochifi.png/593px-Logosochifi.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Participation - National Physics Olympics</strong> <br>
+&nbsp <strong> Participation - National Physics Olympiad</strong> <br>
 &nbsp SOCHIFI, Santiago. <br>
 &nbsp 2010
 </span>
