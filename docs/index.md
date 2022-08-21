@@ -2,7 +2,7 @@
 
 <p>
 <img src="images/yo.png" alt="Smiley face image"
-style="float:center; width:200px; height:200px;">
+style="float:left; width:200px; height:200px;">
 <span style="vertical-align:bottom"> <br>
 &nbsp &nbsp <strong> Mathematical Engineer </strong> <br>
 &nbsp &nbsp Associate Lecturer at Universidad Santa María  <br>
@@ -11,6 +11,7 @@ style="float:center; width:200px; height:200px;">
 &nbsp &nbsp about different topics.
 </span>
 </p>
+&nbsp;
 
 ## Interests
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
