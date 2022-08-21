@@ -34,7 +34,7 @@ style="float:left; width:75px; height:60px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_SOMACHI.png" alt="Smiley face image"
 style="float:left; width:65px; height:52px;">
 <span style="vertical-align:bottom">
-&nbsp <strong>Participation - National Mathematics Olympiad</strong> <br>
+&nbsp <strong>Participation - National Mathematical Olympiad</strong> <br>
 &nbsp SOMACHI, Santiago. <br>
 &nbsp 2010
 </span>
@@ -44,7 +44,7 @@ style="float:left; width:65px; height:52px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_SOMACHI.png" alt="Smiley face image"
 style="float:left; width:65px; height:52px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Bronze Medal - National Mathematics Olympiad</strong> <br>
+&nbsp <strong> Bronze Medal - National Mathematical Olympiad</strong> <br>
 &nbsp SOMACHI, Santiago. <br>
 &nbsp 2010
 </span>
