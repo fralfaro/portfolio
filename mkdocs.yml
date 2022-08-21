@@ -84,7 +84,7 @@ nav:
       - Education:  about_me/education.md
       - Work Experience:  about_me/work_exp.md
       - Teaching Experience:  about_me/teaching_exp.md
-      - Honors & awards:  about_me/awards.md
+      - Honors & Awards:  about_me/awards.md
     - Activity:
       - Research: research/research.md
       - Talks: research/talks.md
@@ -95,7 +95,7 @@ nav:
       - Books: software/book.md
     - Teaching:
       - University Courses: teaching/universities.md
-      - Personal  Courses: teaching/personal.md
+      - Personal Courses: teaching/personal.md
     - Blog:
       - 2022: blog/2022.md
       - 2021: blog/2021.md
