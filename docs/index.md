@@ -4,11 +4,11 @@
 <img src="images/yo.png" alt="Smiley face image"
 style="float:center; width:200px; height:200px;">
 <span style="vertical-align:bottom"> <br>
-<strong> Mathematical Engineer </strong> <br>
-Associate Lecturer at Universidad Santa María  <br>
-and Senior Data Scientist  at Walmart (Chile). <br>
-I like programming, learning and teaching <br>
-about different topics.
+&nbsp &nbsp <strong> Mathematical Engineer </strong> <br>
+&nbsp &nbsp Associate Lecturer at Universidad Santa María  <br>
+&nbsp &nbsp and Senior Data Scientist  at Walmart (Chile). <br>
+&nbsp &nbsp I like programming, learning and teaching <br>
+&nbsp &nbsp about different topics.
 </span>
 </p>
 
