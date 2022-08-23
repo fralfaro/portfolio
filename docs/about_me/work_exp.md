@@ -5,7 +5,7 @@
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Senior Data Scientist</strong> <br>
-&nbsp  Walmart, Santiago, Chile.  <br>
+&nbsp  Walmart Chile  <br>
 &nbsp 2021 – Present
 </span>
 </p>
@@ -23,7 +23,7 @@ Walmart Commercial Department:
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Senior Data Scientist</strong> <br>
-&nbsp  Banco Itau, Santiago, Chile. <br>
+&nbsp  Banco Itaú <br>
 &nbsp 2020 – 2021
 </span>
 </p>
@@ -42,7 +42,7 @@ Bank).
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
-&nbsp   Cencosud S.A., Santiago, Chile. <br>
+&nbsp   Cencosud S.A. <br>
 &nbsp 2019 - 2020
 </span>
 </p>
@@ -63,7 +63,7 @@ within the distribution centers.
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
-&nbsp  U-Planner, Santiago, Chile. <br>
+&nbsp  U-Planner <br>
 &nbsp 2018 – 2019
 </span>
 </p>
@@ -81,7 +81,7 @@ company:
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
-&nbsp  IConstruye, Santiago, Chile. <br>
+&nbsp  IConstruye <br>
 &nbsp 2018 – 2019
 </span>
 </p>
@@ -95,7 +95,7 @@ area) applied techniques of Natural Language Processing.
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Researcher</strong> <br>
-&nbsp PUCV, Valparaiso, Chile. <br>
+&nbsp PUCV <br>
 &nbsp 2017 – 2018
 </span>
 </p>
@@ -111,7 +111,7 @@ Researcher in charge of the following projects:
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
-&nbsp  U-Planner, Santiago, Chile. <br>
+&nbsp  U-Planner <br>
 &nbsp 2016 – 2017
 </span>
 </p>
