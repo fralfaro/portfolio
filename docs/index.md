@@ -35,7 +35,8 @@ style="float:left; width:200px; height:200px;">
 - **Name**: Francisco Antonio Alfaro Medina
 - **Phone**: +56 9 94541139
 - **Email**: francisco.alfaro.496@gmail.com
-- **Curriculum Vitae**: [link](https://gitlab.com/fralfaro/cv/-/jobs/artifacts/main/browse?job=generate_pdf)
 - **Personal Portfolio**: [link](https://fralfaro.github.io/portfolio/)
 - **Personal Blog**: [link](https://fralfaro.github.io/ds_blog/)
-
+- **Curriculum Vitae**: 
+    - English: [link](https://gitlab.com/fralfaro/cv/-/jobs/2912367658/artifacts/file/cv_english.pdf)
+    - Spanish: [link](https://gitlab.com/fralfaro/cv/-/jobs/2912367658/artifacts/file/cv_spanish.pdf)
