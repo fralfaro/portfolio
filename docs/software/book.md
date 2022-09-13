@@ -29,4 +29,15 @@ This is the website for the work-in-progress 2nd edition of "R for Data Science"
 
 &nbsp;
 
+## [kaggle-courses](https://fralfaro.github.io/kaggle-courses/)
 
+[<img src="../kaggle3.png" alt="img python" 
+     width="150" height="180"  align="right" >](https://fralfaro.github.io/kaggle-courses/)
+
+Gain the skills you need to do independent data science projects.
+
+We pare down complex topics to their key practical components, so you gain usable skills in a few hours (instead of weeks or months).
+
+The courses are provided at **no cost to you**, and you can now [earn certificates](https://www.kaggle.com/learn-course-certificates).
+
+> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/kaggle-courses](https://github.com/fralfaro/kaggle-courses).

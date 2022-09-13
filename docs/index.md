@@ -40,3 +40,5 @@ style="float:left; width:200px; height:200px;">
 - **Curriculum Vitae**: 
     - English: [link](https://gitlab.com/fralfaro/cv/-/jobs/2912367658/artifacts/file/cv_english.pdf)
     - Spanish: [link](https://gitlab.com/fralfaro/cv/-/jobs/2912367658/artifacts/file/cv_spanish.pdf)
+
+
