@@ -1,9 +1,8 @@
 # About me
-
 <p>
 <img src="images/yo.png" alt="Smiley face image"
 style="float:left; width:200px; height:200px;">
-<span style="vertical-align:bottom"> <br>
+<span style="vertical-align:bottom"><br>
 &nbsp &nbsp <strong> Mathematical Engineer </strong> <br>
 &nbsp &nbsp Associate Lecturer at Universidad Santa María  <br>
 &nbsp &nbsp and Senior Data Scientist  at Walmart (Chile). <br>

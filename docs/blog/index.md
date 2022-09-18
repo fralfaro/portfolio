@@ -12,7 +12,7 @@ Esta sección busca dar señales de cómo abordar el desarrollo de software para
 [Continue reading ➔](posts/2022/2021-07-15-tdd.ipynb)
 <hr size="30">
 
-### [Polars](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
+### Polars
 :fontawesome-brands-python: FastPages
 :octicons-calendar-24: Mar 16, 2022
 :octicons-clock-24: 5 min read
@@ -24,7 +24,7 @@ Polars es una librería de DataFrames increíblemente rápida implementada en Ru
 
 ## 2021
 
-### [Impact on Digital Learning](https://www.kaggle.com/code/faamds/basic-analysis-impact-on-digital-learning)
+### Impact on Digital Learning
 :fontawesome-brands-kaggle: Kaggle
 :octicons-calendar-24: Aug 31, 2021
 :octicons-clock-24: 10 min read
@@ -36,7 +36,7 @@ COVID-19 Impact on Digital Learning proposed by Kaggle.<br>
 <br><br>
 <hr size="30">
 
-### [Fastpages](https://fralfaro.github.io/ds_blog/jupyter/2021/08/20/fastpages.html)
+### Fastpages
 
 :fontawesome-brands-python: FastPages
 :octicons-calendar-24: Aug 20, 2021
@@ -49,7 +49,7 @@ con muchas funciones útiles. <br>
 <br><br>
 <hr size="30">
 
-### [Buenas Prácticas](https://fralfaro.github.io/ds_blog/pep8/documentation/tdd/2021/08/31/buenas_practicas.html)
+### Buenas Prácticas
 
 :fontawesome-brands-python: FastPages
 :octicons-calendar-24: Aug 15, 2021
@@ -61,7 +61,7 @@ Una pregunta que surgue a menudo cuando uno se encuentra programando es saber cu
 <hr size="30">
 
 
-### [Jupyter Book](https://fralfaro.github.io/ds_blog/jupyter/2021/08/11/jb.html)
+### Jupyter Book
 
 :fontawesome-brands-python: FastPages
 :octicons-calendar-24: Aug 11, 2021
@@ -74,7 +74,7 @@ documentos mediante Jupyter Notebooks y/o Markdown.<br>
 <br>
 <hr size="30">
 
-### [RISE](https://fralfaro.github.io/ds_blog/jupyter/2021/08/05/rise.html)
+### RISE
 
 :fontawesome-brands-python: FastPages
 :octicons-calendar-24:  Aug 5, 2021
@@ -87,7 +87,7 @@ RISE es una extensión a los jupyter notebooks que permite transformar
 <br>
 <hr size="30">
 
-### [Jupyter Noteboook](https://fralfaro.github.io/ds_blog/jupyter/2021/07/31/jupyter.html)
+### Jupyter Noteboook
 
 :fontawesome-brands-python: FastPages
 :octicons-calendar-24: Jul 31, 2021

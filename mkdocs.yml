@@ -74,6 +74,11 @@ extra:
     - icon: fontawesome/solid/globe
       link: https://fralfaro.github.io/portfolio/
 
+# Plugins
+plugins:
+  - mkdocs-jupyter:
+      kernel_name: python3
+  - search
 
  #TOC
 nav:
@@ -98,5 +103,19 @@ nav:
       - University Courses: teaching/universities.md
       - Personal Courses: teaching/personal.md
     - Blog:
-      - 2022: blog/2022.md
-      - 2021: blog/2021.md
+      - Posts: blog/index.md
+      - 2022:
+        - blog/posts/2022/2021-07-15-tdd.ipynb
+        - blog/posts/2022/2022-03-16-polars.ipynb
+      - 2021:
+        - blog/posts/2021/basic-analysis-impact-on-digital-learning.ipynb
+        - blog/posts/2021/2021-08-20-fastpages.ipynb
+        - blog/posts/2021/2021-08-31-buenas_practicas.ipynb
+        - blog/posts/2021/2021-08-11-jb.ipynb
+        - blog/posts/2021/2021-08-05-rise.ipynb
+        - blog/posts/2021/2021-07-31-jupyter.ipynb
+
+
+
+
+
