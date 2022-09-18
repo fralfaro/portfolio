@@ -2,97 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/fralfaro/portfolio/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/about_me/awards/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/about_me/certification/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/about_me/education/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/about_me/stack/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/about_me/teaching_exp/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/about_me/volunteering/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/about_me/work_exp/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/fralfaro/portfolio/blog/</loc>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/blog/2021/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/blog/2022/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/blog/demo/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/research/research/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/research/students/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/research/talks/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/software/book/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/software/collaboration/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/software/software/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/teaching/personal/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/portfolio/teaching/universities/</loc>
-         <lastmod>2022-09-13</lastmod>
+         <lastmod>2022-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
