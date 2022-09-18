@@ -2,7 +2,7 @@
 
 ## [kaggle-courses](https://fralfaro.github.io/kaggle-courses/)
 
-[<img src="../kaggle3.png" alt="img python"
+[<img src="../images/kaggle3.png" alt="img python"
      width="150" height="180"  align="right" >](https://fralfaro.github.io/kaggle-courses/)
 
 Gain the skills you need to do independent data science projects.
