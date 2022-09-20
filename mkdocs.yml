@@ -96,9 +96,9 @@ nav:
       - Talks: research/talks.md
       - Students: research/students.md
     - Software:
-      - Python Packages: software/software.md
-      - Collaboration: software/collaboration.md
       - Books: software/book.md
+      - Collaboration: software/collaboration.md
+      - Python Packages: software/software.md
     - Teaching:
       - University Courses: teaching/universities.md
       - Personal Courses: teaching/personal.md
