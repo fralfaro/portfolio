@@ -2,6 +2,17 @@
 
 ## MAT281 - Applications of Mathematics in Engineering
 
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Universidad Federico Santa Maria</strong> <br>
+&nbsp Valparaiso-Santiago, Chile. <br>
+&nbsp 2019 - 2022
+</span>
+</p>
+
+
 - **University**: Universidad Técnica Federico Santa María (UTFSM).
 - **Course**: Applications of Mathematics in Engineering.
 - **Course abbreviation**: MAT281.
@@ -13,7 +24,35 @@
 
 ## Previous Courses
 
-- MAT021 - Calculus and Algebra I (UTFSM).
-- MAT022 - Calculus and Algebra II (UTFSM).
-- DEEPLEARNING_001V - Introduction to Deep Learning (DUOC-UC).
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Universidad Federico Santa Maria</strong> <br>
+&nbsp MAT021 - Calculus and Algebra I <br>
+&nbsp 2017 - 2018
+</span>
+</p>
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Universidad Federico Santa Maria</strong> <br>
+&nbsp MAT022 - Calculus and Algebra II <br>
+&nbsp 2017 - 2018
+</span>
+</p>
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg/1526px-Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> DUOC UC </strong> <br>
+&nbsp DEEPLEARNING_001V - Introduction to Deep Learning <br>
+&nbsp 2022
+</span>
+</p>
+
+
 
