@@ -10,7 +10,7 @@
 [<img src="https://www.outsystems.com/forge/DownloadResource.aspx?FileName=&ImageBinaryId=60719"  width="90" height="90" align="left">](https://medium.com/@fralfaro/qu%C3%A9-es-el-test-driven-development-7d45160a5a5a)
 Esta sección busca dar señales de cómo abordar el desarrollo de software para Data Science usando Test Driven Development, una técnica ampliamente usada en otros rubros de la programación. <br>
 [Continue reading ➔](posts/2022/2021-07-15-tdd.ipynb)
-<hr size="30">
+
 
 ### Polars
 :fontawesome-brands-python: FastPages
@@ -20,7 +20,6 @@ Esta sección busca dar señales de cómo abordar el desarrollo de software para
 [<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
 Polars es una librería de DataFrames increíblemente rápida implementada en Rust utilizando Arrow Columnar Format de Apache como modelo de memoria.<br>
 [Continue reading ➔](posts/2022/2022-03-16-polars.ipynb)
-<hr size="30">
 
 ## 2021
 
@@ -34,7 +33,6 @@ Main objective is understand of the best way the challenge LearnPlatform
 COVID-19 Impact on Digital Learning proposed by Kaggle.<br>
 [Continue reading ➔](posts/2021/basic-analysis-impact-on-digital-learning.ipynb)
 <br><br>
-<hr size="30">
 
 ### Fastpages
 
@@ -47,7 +45,6 @@ Fastpages es una plataforma que te permite crear y alojar un blog de forma gratu
 con muchas funciones útiles. <br>
 [Continue reading ➔](posts/2021/2021-08-20-fastpages.ipynb)
 <br><br>
-<hr size="30">
 
 ### Buenas Prácticas
 
@@ -58,7 +55,6 @@ con muchas funciones útiles. <br>
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
 Una pregunta que surgue a menudo cuando uno se encuentra programando es saber cuál es la forma correcta de programar. La respuesta es que no existe la forma correcta de programar.<br>
 [Continue reading ➔](posts/2021/2021-08-31-buenas_practicas.ipynb)
-<hr size="30">
 
 
 ### Jupyter Book
@@ -72,7 +68,6 @@ Jupyter Book es un proyecto de código abierto para crear libros y
 documentos mediante Jupyter Notebooks y/o Markdown.<br>
 [Continue reading ➔](posts/2021/2021-08-11-jb.ipynb)<br>
 <br>
-<hr size="30">
 
 ### RISE
 
@@ -85,7 +80,6 @@ RISE es una extensión a los jupyter notebooks que permite transformar
  tus notebooks en presentaciones interactivas.<br>
 [Continue reading ➔](posts/2021/2021-08-05-rise.ipynb)<br>
 <br>
-<hr size="30">
 
 ### Jupyter Noteboook
 
@@ -96,4 +90,4 @@ RISE es una extensión a los jupyter notebooks que permite transformar
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/jupyter/2021/07/31/jupyter.html)
 Jupyter Notebook, es un entorno de trabajo interactivo que permite desarrollar código en Python de manera dinámica, a la vez que integrar en un mismo documento tanto bloques de código como texto, gráficas o imágenes.<br>
 [Continue reading ➔](posts/2021/2021-07-31-jupyter.ipynb)
-<hr size="30">
+
