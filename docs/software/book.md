@@ -1,6 +1,6 @@
 # Books
 
-## [kaggle-courses](https://fralfaro.github.io/kaggle-courses/)
+## [Kaggle Courses](https://fralfaro.github.io/kaggle-courses/)
 
 :fontawesome-brands-python: Python
 :octicons-calendar-24: Sep 10, 2022
@@ -21,7 +21,7 @@ The courses are provided at **no cost to you**, and you can now **earn certifica
 
 <hr size="30">
 
-## [python4ds-book](https://fralfaro.github.io/PythonDataScienceHandbook/)
+## [Python Data Science Handbook](https://fralfaro.github.io/PythonDataScienceHandbook/)
 
 :fontawesome-brands-python: Python
 :octicons-calendar-24: Aug 20, 2022
@@ -43,7 +43,7 @@ The text is released under the **CC-BY-NC-ND license**, and code is released und
 <hr size="30">
 
 
-## [r4ds-book](https://fralfaro.github.io/r4ds-book/)
+## [R for Data Science](https://fralfaro.github.io/r4ds-book/)
 
 :fontawesome-brands-r-project: R-Project
 :octicons-calendar-24: Aug 10, 2022
