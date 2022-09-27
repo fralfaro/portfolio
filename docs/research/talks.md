@@ -1,6 +1,11 @@
 # Talks
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"  width="45" height="45" align="left">](https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyConLatam2022_talk.pdf)
+Alfaro,F. (2022).  Importance of Test Driven Development.<br>
+**Python Chile Meetup**. Santiago, CHI.
+[Continue reading ➔](https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyConLatam2022_talk.pdf) <br> 
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"  width="45" height="45" align="left">](https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyConLatam2022_talk.pdf)
 Alfaro,F. (2022). Interactive Classes with Google Colab, Mkdocs and Github Actions.<br>
 **Pycon LATAM 2022**. Guadalajara, MX.
 [Continue reading ➔](https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyConLatam2022_talk.pdf) <br> 
