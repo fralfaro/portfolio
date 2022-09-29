@@ -37,7 +37,7 @@ style="float:left; width:200px; height:200px;">
 - **Personal Portfolio**: [link](https://fralfaro.github.io/portfolio/)
 - **Personal Blog**: [link](https://fralfaro.github.io/ds_blog/)
 - **Curriculum Vitae**: 
-    - English: [link](https://gitlab.com/fralfaro/cv/-/jobs/2912367658/artifacts/file/cv_english.pdf)
-    - Spanish: [link](https://gitlab.com/fralfaro/cv/-/jobs/2912367658/artifacts/file/cv_spanish.pdf)
+    - English: [link](https://gitlab.com/fralfaro/cv/-/jobs/3106112488/artifacts/file/cv_english.pdf)
+    - Spanish: [link](https://gitlab.com/fralfaro/cv/-/jobs/3106112488/artifacts/file/cv_spanish.pdf)
 
 
