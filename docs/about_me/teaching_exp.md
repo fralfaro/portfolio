@@ -28,4 +28,4 @@ style="float:left; width:65px; height:65px;">
 </p>
 
 * **Lecturer**. Introduction to Deep Learning.
-* **Specialist**. Work committee for the process of creating and updating study plans for the Department of Computer Science.
+* **Specialist**. Work committee for the process of planning, design and create new programs of study for the Department of Informatics.
