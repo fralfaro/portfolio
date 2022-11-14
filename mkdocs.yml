@@ -105,6 +105,8 @@ nav:
     - Blog:
       - Posts: blog/index.md
       - 2022:
+        - Causal Impact: blog/posts/2022/2022-10-12-causal_impact.ipynb
+        - Collaborative Filtering: blog/posts/2022/2022-10-12-implicit.ipynb
         - blog/posts/2022/2021-07-15-tdd.ipynb
         - blog/posts/2022/2022-03-16-polars.ipynb
       - 2021:

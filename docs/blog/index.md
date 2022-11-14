@@ -2,13 +2,31 @@
 
 ## 2022
 
+### Causal Impact
+:fontawesome-brands-python: Python
+:octicons-calendar-24: Oct 15, 2022
+:octicons-clock-24: 5 min read
+
+[<img src="https://cdn3.iconfinder.com/data/icons/tiny-charts-and-graphs/32/flat_line_graph-512.png"  width="90" height="90" align="left">](https://medium.com/@fralfaro/qu%C3%A9-es-el-test-driven-development-7d45160a5a5a)
+Inferir el impacto causal de un modelo que predice la respuesta contrafactual en un control sintético que habría ocurrido si no hubiera tenido lugar la intervención. <br>
+[Continue reading ➔](posts/2022/2022-10-12-causal_impact.ipynb)
+
+### Collaborative Filtering
+:fontawesome-brands-python: Python
+:octicons-calendar-24: Oct 12, 2022
+:octicons-clock-24: 5 min read
+
+[<img src="https://cdn-icons-png.flaticon.com/512/4221/4221419.png"  width="90" height="90" align="left">](https://medium.com/@fralfaro/qu%C3%A9-es-el-test-driven-development-7d45160a5a5a)
+Entender el algoritmo *User-based collaborative filtering* para realizar un mejor sistema de recomendación de películas. <br>
+[Continue reading ➔](posts/2022/2022-10-12-implicit.ipynb)
+
 ### Test Driven Development
 :fontawesome-brands-medium: medium
 :octicons-calendar-24: May 25, 2022
 :octicons-clock-24: 5 min read
 
 [<img src="https://www.outsystems.com/forge/DownloadResource.aspx?FileName=&ImageBinaryId=60719"  width="90" height="90" align="left">](https://medium.com/@fralfaro/qu%C3%A9-es-el-test-driven-development-7d45160a5a5a)
-Esta sección busca dar señales de cómo abordar el desarrollo de software para Data Science usando Test Driven Development, una técnica ampliamente usada en otros rubros de la programación. <br>
+Buscamos dar señales de cómo abordar el desarrollo de software para Data Science usando Test Driven Development. <br>
 [Continue reading ➔](posts/2022/2021-07-15-tdd.ipynb)
 
 
@@ -53,7 +71,7 @@ con muchas funciones útiles. <br>
 :octicons-clock-24: 5 min read
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
-Una pregunta que surgue a menudo cuando uno se encuentra programando es saber cuál es la forma correcta de programar. La respuesta es que no existe la forma correcta de programar.<br>
+En esta sección se mostrará algunos conceptos sencillos que te ayudarán a mejorar tus skills en el desarrollo de software (con Python).<br>
 [Continue reading ➔](posts/2021/2021-08-31-buenas_practicas.ipynb)
 
 
@@ -88,6 +106,6 @@ RISE es una extensión a los jupyter notebooks que permite transformar
 :octicons-clock-24: 5 min read
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/jupyter/2021/07/31/jupyter.html)
-Jupyter Notebook, es un entorno de trabajo interactivo que permite desarrollar código en Python de manera dinámica, a la vez que integrar en un mismo documento tanto bloques de código como texto, gráficas o imágenes.<br>
+Jupyter Notebook, es un entorno de trabajo interactivo que permite desarrollar código en Python de manera dinámica.<br>
 [Continue reading ➔](posts/2021/2021-07-31-jupyter.ipynb)
 
