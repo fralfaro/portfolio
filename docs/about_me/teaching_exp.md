@@ -53,4 +53,4 @@ style="float:left; width:60px; height:60px;">
 </span>
 </p>
 
-* **Intructor**. Data Science Teacher.
+* **Instructor**. Data Science Teacher.
