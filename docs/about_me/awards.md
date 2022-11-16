@@ -55,8 +55,8 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_SOMACHI.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<img src="../../images/somachi.png" alt="Smiley face image"
+style="float:left; width:60px; height:60px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Bronze Medal - National Mathematical Olympiad</strong> <br>
 &nbsp SOMACHI, Santiago. <br>

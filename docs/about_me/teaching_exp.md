@@ -17,6 +17,7 @@ to Machine Learning).
 * **Course Assistant**: Algebra, Calculus, Statistical Inference, Regression
 Analysis, Time Series, Statistical Methods, Real Analysis.
 <hr size="30">
+
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg/1526px-Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
@@ -28,4 +29,28 @@ style="float:left; width:65px; height:65px;">
 </p>
 
 * **Lecturer**. Introduction to Deep Learning.
-* **Specialist**. Work committee for the process of planning, design and create new programs of study for the Department of Informatics.
+* **Specialist**. Work committee for the process of planning, design and create new study programs for the Department of Informatics.
+<hr size="30">
+
+<p>
+<img src="../../images/practicum.png" alt="Smiley face image"
+style="float:left; width:60px; height:60px;">
+<span style="vertical-align:bottom">
+&nbsp <strong>Practicum</strong> <br>
+&nbsp 2022 <br>
+</span>
+</p>
+
+* **Data Science Tutor**. Solve student questions and prepare webinars.
+<hr size="30">
+
+<p>
+<img src="../../images/cd.png" alt="Smiley face image"
+style="float:left; width:60px; height:60px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Coding Dojo</strong> <br>
+&nbsp 2022 <br>
+</span>
+</p>
+
+* **Data Science Intructor**. Data Science Teacher.
