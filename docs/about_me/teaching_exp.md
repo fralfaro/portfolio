@@ -41,7 +41,7 @@ style="float:left; width:60px; height:60px;">
 </span>
 </p>
 
-* **Data Science Tutor**. Solve student questions and prepare webinars.
+* **Tutor**. Solve student questions and prepare webinars (Data Science).
 <hr size="30">
 
 <p>
@@ -53,4 +53,4 @@ style="float:left; width:60px; height:60px;">
 </span>
 </p>
 
-* **Data Science Intructor**. Data Science Teacher.
+* **Intructor**. Data Science Teacher.
