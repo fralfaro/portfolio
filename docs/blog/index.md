@@ -7,7 +7,7 @@
 :octicons-calendar-24: Oct 15, 2022
 :octicons-clock-24: 5 min read
 
-[<img src="https://cdn3.iconfinder.com/data/icons/tiny-charts-and-graphs/32/flat_line_graph-512.png"  width="90" height="90" align="left">](https://medium.com/@fralfaro/qu%C3%A9-es-el-test-driven-development-7d45160a5a5a)
+[<img src="https://cdn3.iconfinder.com/data/icons/tiny-charts-and-graphs/32/flat_line_graph-512.png"  width="90" height="90" align="left">](posts/2022/2022-10-12-causal_impact.ipynb)
 Inferir el impacto causal de un modelo que predice la respuesta contrafactual en un control sintético que habría ocurrido si no hubiera tenido lugar la intervención. <br>
 [Continue reading ➔](posts/2022/2022-10-12-causal_impact.ipynb)
 
@@ -16,7 +16,7 @@ Inferir el impacto causal de un modelo que predice la respuesta contrafactual en
 :octicons-calendar-24: Oct 12, 2022
 :octicons-clock-24: 5 min read
 
-[<img src="https://cdn-icons-png.flaticon.com/512/4221/4221419.png"  width="90" height="90" align="left">](https://medium.com/@fralfaro/qu%C3%A9-es-el-test-driven-development-7d45160a5a5a)
+[<img src="https://cdn-icons-png.flaticon.com/512/4221/4221419.png"  width="90" height="90" align="left">](posts/2022/2022-10-12-implicit.ipynb)
 Entender el algoritmo *User-based collaborative filtering* para realizar un mejor sistema de recomendación de películas. <br>
 [Continue reading ➔](posts/2022/2022-10-12-implicit.ipynb)
 
