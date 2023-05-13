@@ -1,12 +1,16 @@
 # About me
-<figure markdown>
-![Image title](images/yo.png)
-<figcaption> <strong> Mathematical Engineer </strong> <br>
-Associate Lecturer at Universidad Santa María  <br>
+<p>
+<center>
+<img src="images/yo.png" width="230" alt="My Image" /><br>
+<strong> Mathematical Engineer </strong> <br>
+Associate Lecturer at Universidad Santa María <br> 
 and Senior Data Scientist  at Walmart (Chile). <br>
 I like programming, learning and teaching <br>
-about different topics.</figcaption>
-</figure>
+about different topics.
+</center>
+</p>
+
+
 
 ## Interests
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
