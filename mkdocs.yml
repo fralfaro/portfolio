@@ -38,7 +38,7 @@ theme:
   name: material
   language: en
   logo: images/logo.bmp
-  favicon: images/faam_logo.gif
+  favicon: images/faam_logo_orange.gif
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default

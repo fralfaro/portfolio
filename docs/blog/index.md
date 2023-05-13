@@ -93,7 +93,7 @@ documentos mediante Jupyter Notebooks y/o Markdown.<br>
 :octicons-calendar-24:  Aug 5, 2021
 :octicons-clock-24:  5 min read
 
-[<img src="https://raw.githubusercontent.com/fralfaro/ds_blog/master/images/rise.png"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/jupyter/2021/08/05/rise.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/X-office-presentation.svg/2048px-X-office-presentation.svg.png"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/jupyter/2021/08/05/rise.html)
 RISE es una extensión a los jupyter notebooks que permite transformar
  tus notebooks en presentaciones interactivas.<br>
 [Continue reading ➔](posts/2021/2021-08-05-rise.ipynb)<br>

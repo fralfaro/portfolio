@@ -1,31 +1,28 @@
 # About me
-<p>
-<img src="images/yo.png" alt="Smiley face image"
-style="float:left; width:200px; height:200px;">
-<span style="vertical-align:bottom"><br>
-&nbsp &nbsp <strong> Mathematical Engineer </strong> <br>
-&nbsp &nbsp Associate Lecturer at Universidad Santa María  <br>
-&nbsp &nbsp and Senior Data Scientist  at Walmart (Chile). <br>
-&nbsp &nbsp I like programming, learning and teaching <br>
-&nbsp &nbsp about different topics.
-</span>
-</p>
-&nbsp;
+<figure markdown>
+![Image title](images/yo.png)
+<figcaption> <strong> Mathematical Engineer </strong> <br>
+Associate Lecturer at Universidad Santa María  <br>
+and Senior Data Scientist  at Walmart (Chile). <br>
+I like programming, learning and teaching <br>
+about different topics.</figcaption>
+</figure>
 
 ## Interests
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
 
-✅ Software Development.  <br>
-✅ Statistical Modelling, Time Series. <br> 
-✅ Machine/Deep Learning ,Cloud computing, Big Data.
+☑️ Software Development.  <br>
+☑️ Statistical Modelling, Time Series. <br> 
+☑️ Machine/Deep Learning ,Cloud computing, Big Data.
 
 ## Contact Information
 
-<a href="https://github.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://github.com/fralfaro"><img alt="Link" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
 <a href="https://gitlab.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://medium.com/@fralfaro"><img alt="Link" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://fralfaro.github.io/ds_blog/"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://medium.com/@fralfaro"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
 &nbsp;
 &nbsp;
 
