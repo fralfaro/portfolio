@@ -38,7 +38,7 @@ theme:
   name: material
   language: en
   logo: images/doberman.png
-  favicon: images/faam_logo_orange.gif
+  favicon: images/logo_fam.png
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default
