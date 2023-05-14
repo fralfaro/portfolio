@@ -21,19 +21,19 @@ The courses are provided at **no cost to you**, and you can now **earn certifica
 
 <hr size="30">
 
-## [Python Data Science Handbook](https://fralfaro.github.io/PythonDataScienceHandbook/)
+## [Python Data Science Handbook](https://fralfaro.github.io/python4ds-book/)
 
 :fontawesome-brands-python: Python
 :octicons-calendar-24: Aug 20, 2022
 :octicons-book-24: 6 Chapters
 
 [<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP2cEphZz7Nq5FCKv6a4XKPTNW2GfpQnUrr08mvkMgzGInnxsq" alt="img R" 
-     width="150" height="200"  align="right" >](https://fralfaro.github.io/PythonDataScienceHandbook/)
+     width="150" height="200"  align="right" >](https://fralfaro.github.io/python4ds-book/)
 This is the Jupyter notebook version of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas; the content is available [on GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).
 
-The text is released under the **CC-BY-NC-ND license**, and code is released under the **MIT license**. [Continue reading ➔](https://fralfaro.github.io/PythonDataScienceHandbook/)
+The text is released under the **CC-BY-NC-ND license**, and code is released under the **MIT license**. [Continue reading ➔](https://fralfaro.github.io/python4ds-book/)
 
-> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/python4ds-book](https://github.com/fralfaro/PythonDataScienceHandbook).
+> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/python4ds-book](https://github.com/fralfaro/python4ds-book).
 
 
 
