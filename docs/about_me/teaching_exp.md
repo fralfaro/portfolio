@@ -41,11 +41,11 @@ style="float:left; width:60px; height:60px;">
 </span>
 </p>
 
-* **Tutor**. Solve student questions and prepare webinars (Data Science).
+* **Tutor**. Data Science Teacher.
 <hr size="30">
 
 <p>
-<img src="../../images/cd_02.png" alt="Smiley face image"
+<img src="../../images/cd_03.png" alt="Smiley face image"
 style="float:left; width:60px; height:60px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coding Dojo</strong> <br>
