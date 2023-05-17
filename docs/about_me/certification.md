@@ -18,6 +18,24 @@ style="float:left; width:55px; height:55px;">
 </p>
 
 <p>
+<img src="https://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" alt="Smiley face image" 
+style="float:left; width:55px; height:55px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> DeepLearning.AI TensorFlow Developer </strong> <br>
+&nbsp DeepLearning.AI
+</span>
+</p>
+
+<p>
+<img src="https://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" alt="Smiley face image" 
+style="float:left; width:55px; height:55px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Machine Learning </strong> <br>
+&nbsp DeepLearning.AI
+</span>
+</p>
+
+<p>
 <img src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" alt="Smiley face image"
 style="float:left; width:55px; height:55px;">
 <span style="vertical-align:bottom">
@@ -53,14 +71,7 @@ style="float:left; width:55px; height:55px;">
 </span>
 </p>
 
-<p>
-<img src="https://149396518.v2.pressablecdn.com/wp-content/uploads/2020/12/cropped-android-chrome-512x512-1.png" alt="Smiley face image" 
-style="float:left; width:55px; height:55px;">
-<span style="vertical-align:bottom">
-&nbsp <strong> DeepLearning.AI TensorFlow Developer </strong> <br>
-&nbsp Coursera
-</span>
-</p>
+
 
 <p>
 <img src="https://149396518.v2.pressablecdn.com/wp-content/uploads/2020/12/cropped-android-chrome-512x512-1.png" alt="Smiley face image" 
@@ -116,6 +127,14 @@ style="float:left; width:55px; height:55px;">
 </span>
 </p>
 
+<p>
+<img src="https://149396518.v2.pressablecdn.com/wp-content/uploads/2020/12/cropped-android-chrome-512x512-1.png" alt="Smiley face image"
+style="float:left; width:55px; height:55px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> University Teaching </strong> <br>
+&nbsp Coursera
+</span>
+</p>
 
 
 
