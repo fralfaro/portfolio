@@ -21,7 +21,16 @@ style="float:left; width:55px; height:55px;">
 <img src="https://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" alt="Smiley face image" 
 style="float:left; width:55px; height:55px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> DeepLearning.AI TensorFlow Developer </strong> <br>
+&nbsp <strong> TensorFlow Developer </strong> <br>
+&nbsp DeepLearning.AI
+</span>
+</p>
+
+<p>
+<img src="https://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png" alt="Smiley face image" 
+style="float:left; width:55px; height:55px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Deep Learning </strong> <br>
 &nbsp DeepLearning.AI
 </span>
 </p>
