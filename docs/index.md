@@ -36,7 +36,7 @@ about different topics.
 - **Phone**: +56 9 94541139
 - **Email**: francisco.alfaro.496@gmail.com
 - **Personal Portfolio**: [link](https://fralfaro.github.io/portfolio/)
-- **Personal Blog**: [link](https://fralfaro.github.io/ds_blog/)
+- **Personal Blog**: [link](https://fralfaro.github.io/portfolio/blog/)
 - **Curriculum Vitae**: 
     - English: [link](https://gitlab.com/fralfaro/cv/-/jobs/3106112488/artifacts/file/cv_english.pdf)
     - Spanish: [link](https://gitlab.com/fralfaro/cv/-/jobs/3106112488/artifacts/file/cv_spanish.pdf)
