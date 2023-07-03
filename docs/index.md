@@ -2,7 +2,12 @@
 <p>
 <center>
 <img src="images/yo.png" width="230" alt="My Image" /><br>
-<strong> Mathematical Engineer </strong> <br>
+<font size="5">  
+    <strong>  Mathematical Engineer  </strong>
+</font>  
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
+</p>
 Associate Lecturer at Universidad Santa María <br> 
 and Senior Data Scientist  at Walmart (Chile). <br>
 I like programming, learning and teaching <br>
@@ -21,16 +26,15 @@ about different topics.
 
 ## Contact Information
 
-<a href="https://github.com/fralfaro"><img alt="Link" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://gitlab.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://fralfaro.github.io/ds_blog/"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://medium.com/@fralfaro"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-&nbsp;
-&nbsp;
+<p align="left"> 
+<a href="https://www.github.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="32" height="32" /></a>
+<a href="https://gitlab.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/faam" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/12886284/fralfaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/@fralfaro" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" width="32" height="32" /></a>
+<a href="https://www.kaggle.com/faamds" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
+</p>
 
-&nbsp;
 
 - **Name**: Francisco Antonio Alfaro Medina
 - **Phone**: +56 9 94541139
@@ -38,7 +42,7 @@ about different topics.
 - **Personal Portfolio**: [link](https://fralfaro.github.io/portfolio/)
 - **Personal Blog**: [link](https://fralfaro.github.io/portfolio/blog/)
 - **Curriculum Vitae**: 
-    - English: [link](https://gitlab.com/fralfaro/cv/-/jobs/3106112488/artifacts/file/cv_english.pdf)
-    - Spanish: [link](https://gitlab.com/fralfaro/cv/-/jobs/3106112488/artifacts/file/cv_spanish.pdf)
+    - English: [link](https://drive.google.com/file/d/1X-iYm9jzQmjO95-LkrKeDGUXigUbHfxI/view?usp=sharing)
+    - Spanish: [link](https://drive.google.com/file/d/1dgGfEKgSJwr9lObHGAOYQjSN9m0Grk_7/view?usp=sharing)
 
 
