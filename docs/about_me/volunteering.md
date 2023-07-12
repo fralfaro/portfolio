@@ -2,7 +2,7 @@
 
 <p>
 <img src="https://pyday.cl/images/pythonchile.png" alt="Smiley face image"
-style="float:left; width:80px; height:80px;">
+style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coordination</strong> <br>
 &nbsp Python Chile <br>
