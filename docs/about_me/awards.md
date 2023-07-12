@@ -14,8 +14,8 @@ style="float:left; width:65px; height:52px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong>  Award - Best student in the Mathematical Engineer Class of 2011</strong> <br>
-&nbsp Universidad Federico Santa Maria, Valparaiso. <br>
+&nbsp <strong>  Award - Best student (Class of 2011)</strong> <br>
+&nbsp UTFSM, Valparaiso. <br>
 &nbsp 2016
 </span>
 </p>
@@ -25,8 +25,8 @@ style="float:left; width:65px; height:65px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Award - Best student in the Statistics Area Class of 2011</strong> <br>
-&nbsp Universidad Federico Santa Maria, Valparaiso. <br>
+&nbsp <strong> Award - Best student (Statistic Area)</strong> <br>
+&nbsp UTFSM, Valparaiso. <br>
 &nbsp 2015
 </span>
 </p>
@@ -37,7 +37,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Honors - Honor Roll</strong> <br>
-&nbsp Universidad Federico Santa Maria, Valparaiso. <br>
+&nbsp UTFSM, Valparaiso. <br>
 &nbsp 2015
 </span>
 </p>
@@ -48,7 +48,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Scholarship - Academic Excellence</strong> <br>
-&nbsp Universidad Federico Santa Maria, Valparaiso. <br>
+&nbsp UTFSM, Valparaiso. <br>
 &nbsp 2011
 </span>
 </p>
