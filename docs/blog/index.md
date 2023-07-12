@@ -35,11 +35,10 @@ Cómo abordar el desarrollo de software para Data Science usando Test Driven Dev
 :octicons-calendar-24: Mar 16, 2022
 :octicons-clock-24: 5 min read
 
-[<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg"  width="150" height="120" align="left">](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
+[<img src="https://www.rust-lang.org/logos/rust-logo-512x512.png"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
 Polars es una librería de DataFrames increíblemente rápida y eficiente  implementada en Rust.<br>
 [Continue reading ➔](posts/2022/2022-03-16-polars.ipynb)
 
-<br>
 
 ## 2021
 
