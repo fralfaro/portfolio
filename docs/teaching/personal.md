@@ -30,7 +30,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Structures and Algorithms</strong> <br>
-&nbsp Data structures and algorithms with Python  <br>
+&nbsp DSA with Python  <br>
 &nbsp <img src="https://cdn-icons-png.flaticon.com/512/5968/5968813.png" alt="Girl in a jacket" width="18" height="18"> <a href="">link</a>
 </span>
 </p>
@@ -42,7 +42,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Machine Learning</strong> <br>
-&nbsp  Basic concepts about Machine Learning (numpy, pandas, scikit-learn) <br>
+&nbsp  ML with Scikit-learn <br>
 &nbsp <img src="https://cdn-icons-png.flaticon.com/512/5968/5968813.png" alt="Girl in a jacket" width="18" height="18"> <a href="https://gitlab.com/fralfaro/python_machine_learning">link</a>
 </span>
 </p>
@@ -54,7 +54,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Deep Learning</strong> <br>
-&nbsp  Basic concepts about Deep Learning with Tensorflow and Keras  <br>
+&nbsp  DL with Tensorflow  <br>
 &nbsp <img src="https://cdn-icons-png.flaticon.com/512/5968/5968813.png" alt="Girl in a jacket" width="18" height="18"> <a href="">link</a>
 </span>
 </p>
@@ -66,7 +66,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Big Data</strong> <br>
-&nbsp Basic concepts about Big Data with Pyspark and Polars  <br>
+&nbsp BD with Pyspark  <br>
 &nbsp <img src="https://cdn-icons-png.flaticon.com/512/5968/5968813.png" alt="Girl in a jacket" width="18" height="18"> <a href="https://gitlab.com/fralfaro/python_big_data">link</a>
 </span>
 </p>
@@ -78,7 +78,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Software Design</strong> <br>
-&nbsp  Basic concepts about software design (version control, testing, etc.)  <br>
+&nbsp  Linters, testing, docs, etc.  <br>
 &nbsp <img src="https://cdn-icons-png.flaticon.com/512/5968/5968813.png" alt="Girl in a jacket" width="18" height="18"> <a href="https://gitlab.com/fralfaro/python_sdk1">link</a>
 </span>
 </p>

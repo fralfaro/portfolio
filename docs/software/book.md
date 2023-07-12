@@ -12,8 +12,7 @@
 The goal of [Kaggle's courses](https://www.kaggle.com/learn) is to give you the skills you need to do independent data science projects. 
 We pare down complex topics to their key practical components, so you gain usable skills in a few hours (instead of weeks or months).
 
-The courses are provided at **no cost to you**, and you can now **earn certificates**. [Continue reading ➔](https://fralfaro.github.io/kaggle-courses/)
-
+The courses are provided at **no cost to you**, and you can now **earn certificates**.
 > **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/kaggle-courses](https://fralfaro.github.io/kaggle-courses/).
 
 &nbsp;
@@ -31,7 +30,7 @@ The courses are provided at **no cost to you**, and you can now **earn certifica
      width="150" height="200"  align="right" >](https://fralfaro.github.io/python4ds-book/)
 This is the Jupyter notebook version of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas; the content is available [on GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).
 
-The text is released under the **CC-BY-NC-ND license**, and code is released under the **MIT license**. [Continue reading ➔](https://fralfaro.github.io/python4ds-book/)
+The text is released under the **CC-BY-NC-ND license**, and code is released under the **MIT license**. 
 
 > **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/python4ds-book](https://github.com/fralfaro/python4ds-book).
 
@@ -54,8 +53,7 @@ The text is released under the **CC-BY-NC-ND license**, and code is released und
 This is the Jupyter notebook version of the [R for Data Science](https://www.oreilly.com/library/view/r-for-data/9781491910382/) by Hadley Wickham; the content is available [on GitHub](https://github.com/hadley/r4ds).
 
 The text will teach you how to do data science with R: You'll learn how to get your data into R, 
-get it into the most useful structure, transform it, visualise it and model it. [Continue reading ➔](https://fralfaro.github.io/r4ds-book/)
-
+get it into the most useful structure, transform it, visualise it and model it. 
 
 > **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/r4ds-book](https://github.com/fralfaro/r4ds-book).
 

@@ -18,7 +18,7 @@ This repo contains the User Guide for the Polars DataFrame library.
 ![GitHub Repo stars](https://img.shields.io/github/stars/faosorios/fastmatrix?style=social)
 
 
-[<img src="https://www.r-project.org/logo/Rlogo.png"  width="120" height="120" align="left">](https://github.com/faosorios/fastmatrix)
-_**Book documentation of the Polars DataFrame library**_
+[<img src="https://www.r-project.org/logo/Rlogo.png"  width="150" height="120" align="left">](https://github.com/faosorios/fastmatrix)
+_**Book documentation of the Fastmatrix library**_
 
 This repo contains the User Guide for the Fastmatrix library.
