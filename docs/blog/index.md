@@ -35,9 +35,11 @@ Cómo abordar el desarrollo de software para Data Science usando Test Driven Dev
 :octicons-calendar-24: Mar 16, 2022
 :octicons-clock-24: 5 min read
 
-[<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
-Polars es una librería de DataFrames increíblemente rápida y eficiente implementada en Rust.<br>
+[<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg"  width="150" height="120" align="left">](https://fralfaro.github.io/ds_blog/python/2022/03/16/polars.html)
+Polars es una librería de DataFrames increíblemente rápida y eficiente  implementada en Rust.<br>
 [Continue reading ➔](posts/2022/2022-03-16-polars.ipynb)
+
+<br>
 
 ## 2021
 
@@ -58,7 +60,7 @@ Competition Solution:  LearnPlatform  COVID-19 Impact on Digital Learning propos
 :octicons-clock-24: 5 min read
 
 [<img src="https://raw.githubusercontent.com/fralfaro/ds_blog/master/images/fastpages.png"  width="90" height="90" align="left">](https://medium.com/@fralfaro/qu%C3%A9-es-el-test-driven-development-7d45160a5a5a)
-Fastpages es una plataforma que te permite crear y alojar un blog con jupyter notebooks. <br>
+Fastpages es una plataforma que te permite crear y alojar un blog con Jupyter Notebooks. <br>
 [Continue reading ➔](posts/2021/2021-08-20-fastpages.ipynb)
 <br><br>
 
@@ -91,7 +93,7 @@ Jupyter Book es una herramienta para crear documentos mediante Jupyter Notebooks
 :octicons-clock-24:  5 min read
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/X-office-presentation.svg/2048px-X-office-presentation.svg.png"  width="90" height="90" align="left">](https://fralfaro.github.io/ds_blog/jupyter/2021/08/05/rise.html)
-RISE es una extensión a los jupyter notebooks que permite transformar
+RISE es una extensión a los Jupyter Notebooks que permite transformar
  tus notebooks en presentaciones interactivas.<br>
 [Continue reading ➔](posts/2021/2021-08-05-rise.ipynb)<br>
 <br>
