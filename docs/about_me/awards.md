@@ -16,7 +16,7 @@ style="float:left; width:65px; height:52px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  UTFSM </strong> <br>
-&nbsp Valparaiso<br>
+&nbsp Valparaiso<br><br>
 </span>
 </p>
 
@@ -33,10 +33,10 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <img src="../../images/somachi_svg.svg" alt="Smiley face image"
-style="float:left; width:70px; height:70px;">
+style="float:left; width:70px; height:50px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> SOMACHI</strong> <br>
-&nbsp Santiago <br> <br>
+&nbsp Santiago <br>
 </span>
 </p>
 
@@ -46,10 +46,10 @@ style="float:left; width:70px; height:70px;">
 
 <p>
 <img src="../../images/sochifi.png" alt="Smiley face image"
-style="float:left; width:65px; height:70px;">
+style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> SOCHIFI </strong> <br>
-&nbsp Santiago<br> <br>
+&nbsp Santiago<br><br>
 </span>
 </p>
 
@@ -59,10 +59,10 @@ style="float:left; width:65px; height:70px;">
 
 <p>
 <img src="../../images/a1.png" alt="Smiley face image"
-style="float:left; width:75px; height:70px;">
+style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Liceo Octavio Palma Perez</strong> <br>
-&nbsp Arica <br> <br>
+&nbsp Arica <br><br>
 </span>
 </p>
 

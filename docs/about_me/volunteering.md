@@ -2,7 +2,7 @@
 
 <p>
 <img src="https://pyday.cl/images/pythonchile.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+style="float:left; width:80px; height:80px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coordination</strong> <br>
 &nbsp Python Chile <br>
@@ -12,7 +12,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <img src="../../images/somachi_svg.svg" alt="Smiley face image"
-style="float:left; width:70px; height:70px;">
+style="float:left; width:91px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Partner</strong> <br>
 &nbsp SOMACHI <br>
