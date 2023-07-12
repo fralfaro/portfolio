@@ -1,8 +1,10 @@
 # Talks
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2023_talk.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+      style="float:left; width:65px; height:65px;">
+</a>
 <span style="vertical-align:bottom">
 &nbsp <strong>Solving your first Kaggle competition</strong> <br>
 &nbsp  Alfaro,F., (2023). PyDay Chile.
@@ -12,8 +14,10 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/cd_intro_ds_talk.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+      style="float:left; width:65px; height:65px;">
+</a>
 <span style="vertical-align:bottom">
 &nbsp <strong>Data Science Fundamentals</strong> <br>
 &nbsp  Alfaro,F., (2023). Coding Dojo Webinar.
@@ -23,8 +27,10 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/workshop_optimization_talk.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+      style="float:left; width:65px; height:65px;">
+</a>
 <span style="vertical-align:bottom">
 &nbsp <strong>Optimization in the World of Retail</strong> <br>
 &nbsp  Alfaro,F., (2022). V-Encuentro de Optimización.
@@ -34,8 +40,23 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/MeetupPythonChile_20220929_talk.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+      style="float:left; width:65px; height:65px;">
+</a>
+<span style="vertical-align:bottom">
+&nbsp <strong>Importance of Test Driven Development</strong> <br>
+&nbsp  Alfaro,F., (2022). Meetup Python Chile.
+</span>
+</p>
+
+<hr size="30">
+
+<p>
+<a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyConLatam2022_talk.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+      style="float:left; width:65px; height:65px;">
+</a>
 <span style="vertical-align:bottom">
 &nbsp <strong>Interactive Classes with Google Colab, Mkdocs and Github Actions</strong> <br>
 &nbsp  Alfaro,F., (2022). Pycon LATAM.
@@ -45,8 +66,10 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2022_talk.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+      style="float:left; width:65px; height:65px;">
+</a>
 <span style="vertical-align:bottom">
 &nbsp <strong>Interactive Classes with Google Colab, Mkdocs and Github Actions</strong> <br>
 &nbsp  Alfaro,F., (2022). PyDay Chile.
@@ -56,8 +79,10 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/FNE33_talk.pdf">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+      style="float:left; width:65px; height:65px;">
+</a>
 <span style="vertical-align:bottom">
 &nbsp <strong>Reciprocal effects: Happiness and Job Performance</strong> <br>
 &nbsp  Alfaro,F. (2018). FNE33/CLATSE13 Congress.
