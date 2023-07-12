@@ -4,11 +4,11 @@
 style="float:left; width:65px; height:52px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  CONICYT </strong> <br>
-&nbsp Santiago <br>
+&nbsp Santiago, 2017 <br>
 </span>
 </p>
 
-* National Master's Scholarship - 2017
+* National Master's Scholarship
 <hr size="30">
 
 <p>
@@ -16,14 +16,14 @@ style="float:left; width:65px; height:52px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  UTFSM </strong> <br>
-&nbsp Valparaiso<br><br>
+&nbsp Valparaiso, 2011 - 2016<br><br>
 </span>
 </p>
 
-* Award: Best student (Class of 2011) - 2016
-* Award: Best student (Statistic Area) - 2015
-* Honors: Honor Roll - 2015
-* Scholarship: Academic Excellence - 2011
+* Award: Best student (Class of 2011)
+* Award: Best student (Statistic Area)
+* Honors: Honor Roll
+* Scholarship: Academic Excellence
 
 
 <hr size="30">
@@ -36,11 +36,11 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:70px; height:50px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> SOMACHI</strong> <br>
-&nbsp Santiago <br>
+&nbsp Santiago, 2010 <br>
 </span>
 </p>
 
-* Bronze Medal (National Mathematical Olympiad) - 2010
+* Bronze Medal (National Math Olympiad)
 
 <hr size="30">
 
@@ -49,11 +49,11 @@ style="float:left; width:70px; height:50px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> SOCHIFI </strong> <br>
-&nbsp Santiago<br><br>
+&nbsp Santiago, 2010<br><br>
 </span>
 </p>
 
-* Participation (National Physics Olympiad) - 2010
+* Participation (National Physics Olympiad)
 
 <hr size="30">
 
@@ -62,12 +62,12 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Liceo Octavio Palma Perez</strong> <br>
-&nbsp Arica <br><br>
+&nbsp Arica, 2010 <br><br>
 </span>
 </p>
 
 
-* Award: Best Scientist - 2010
+* Award: Best Scientist
 
 
 
