@@ -1,8 +1,8 @@
 # Students
 
 <p>
-<img src="https://static.thenounproject.com/png/40364-200.png" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<img src="https://cdn-icons-png.flaticon.com/512/4645/4645229.png" alt="Smiley face image"
+style="float:left; width:90px; height:70px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>Prediction and classification of course of a bank benefit.</strong> <br>
 &nbsp Juan Briceño, (2022). <br>

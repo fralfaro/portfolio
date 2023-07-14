@@ -2,7 +2,7 @@
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2023_talk.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+    <img src="https://cdn.icon-icons.com/icons2/806/PNG/512/chat-44_icon-icons.com_65944.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -15,7 +15,7 @@
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/cd_intro_ds_talk.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+    <img src="https://cdn.icon-icons.com/icons2/806/PNG/512/chat-44_icon-icons.com_65944.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -28,7 +28,7 @@
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/workshop_optimization_talk.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+    <img src="https://cdn.icon-icons.com/icons2/806/PNG/512/chat-44_icon-icons.com_65944.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -41,7 +41,7 @@
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/MeetupPythonChile_20220929_talk.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+    <img src="https://cdn.icon-icons.com/icons2/806/PNG/512/chat-44_icon-icons.com_65944.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -54,7 +54,7 @@
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyConLatam2022_talk.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+    <img src="https://cdn.icon-icons.com/icons2/806/PNG/512/chat-44_icon-icons.com_65944.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -67,7 +67,7 @@
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2022_talk.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+    <img src="https://cdn.icon-icons.com/icons2/806/PNG/512/chat-44_icon-icons.com_65944.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -80,7 +80,7 @@
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/FNE33_talk.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Line-style-icons-chat.svg/1280px-Line-style-icons-chat.svg.png"
+    <img src="https://cdn.icon-icons.com/icons2/806/PNG/512/chat-44_icon-icons.com_65944.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
