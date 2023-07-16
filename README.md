@@ -11,4 +11,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
-**This is my Personal Portfolio**: [Link](https://fralfaro.github.io/portfolio/)
+
+### More About Me:
+
+* 🌍 I'm based in Chile
+* 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/)
+* ✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com)
+* 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
+* 🤝 I'm open to collaborating on Education Projects
+* 💬 Ask me about anything tech related, I am happy to help
