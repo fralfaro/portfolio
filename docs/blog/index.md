@@ -16,7 +16,7 @@
 :octicons-calendar-24: Oct 12, 2022
 :octicons-clock-24: 5 min read
 
-[<img src="https://cdn-icons-png.flaticon.com/512/4221/4221419.png"  width="90" height="90" align="left">](posts/2022/2022-10-12-implicit.ipynb)
+[<img src="https://icons-for-free.com/iconfiles/ico/256/color+cinema+icons+Documentary-1320567852829864650.ico"  width="90" height="90" align="left">](posts/2022/2022-10-12-implicit.ipynb)
 *User-based collaborative filtering* para realizar un mejor sistema de recomendación de películas. <br>
 [Continue reading ➔](posts/2022/2022-10-12-implicit.ipynb)
 
