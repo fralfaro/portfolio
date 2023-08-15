@@ -45,7 +45,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Importance of Test Driven Development</strong> <br>
+&nbsp <strong>TDD Introduction</strong> <br>
 &nbsp  Alfaro,F., (2022). Meetup Python Chile.
 </span>
 </p>
@@ -85,7 +85,7 @@
 </a>
 <span style="vertical-align:bottom">
 &nbsp <strong>Reciprocal effects: Happiness and Job Performance</strong> <br>
-&nbsp  Alfaro,F. (2018). FNE33/CLATSE13 Congress.
+&nbsp  Alfaro,F. (2018). FNE33 Congress.
 </span>
 </p>
 
