@@ -98,6 +98,7 @@ nav:
     - Software:
       - Books: software/book.md
       - Collaboration: software/collaboration.md
+      - Projects: software/projects.md
       - Python Packages: software/software.md
     - Teaching:
       - University Courses: teaching/universities.md
