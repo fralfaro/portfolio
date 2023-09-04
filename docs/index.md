@@ -1,4 +1,5 @@
 # About me
+
 <p>
 <center>
 <img src="images/yo.png" width="230" alt="My Image" /><br>
@@ -33,10 +34,9 @@ Associate Lecturer (UTFSM - Chile)
 </p>
 
 
-- **Name**: Francisco Antonio Alfaro Medina
-- **Phone**: +56 9 94541139
 - **Email**: francisco.alfaro.496@gmail.com
 - **Websites**: [Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/portfolio/blog/)
 - **Curriculum Vitae**: [English](https://drive.google.com/file/d/1X-iYm9jzQmjO95-LkrKeDGUXigUbHfxI/view?usp=sharing), [Spanish](https://drive.google.com/file/d/1dgGfEKgSJwr9lObHGAOYQjSN9m0Grk_7/view?usp=sharing)
+- **Streamlit Version**: [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portfolio-st.streamlit.app/)
 
 

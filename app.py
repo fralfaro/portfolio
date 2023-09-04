@@ -71,7 +71,6 @@ def cs_sidebar():
 </p>
 
 
-- **Phone**: +56 9 94541139
 - **Email**: <small>francisco.alfaro.496@gmail.com</small>
 - **Websites**: <small>[Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/portfolio/blog/)</small>
 - **Curriculum Vitae**: <small>[English](https://drive.google.com/file/d/1X-iYm9jzQmjO95-LkrKeDGUXigUbHfxI/view?usp=sharing), [Spanish](https://drive.google.com/file/d/1dgGfEKgSJwr9lObHGAOYQjSN9m0Grk_7/view?usp=sharing)</small>
