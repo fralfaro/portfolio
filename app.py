@@ -87,7 +87,7 @@ def cs_body():
 
     # Tab menu.
     tab1, tab2, tab3, tab4 = st.tabs(
-        ["Activity", "Software", "Fixtures", "Blog"]
+        ["Activity", "Software", "Courses", "Blog"]
     )
 
     # Activity Section
