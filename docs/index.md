@@ -1,42 +1,62 @@
-# About me
+# Personal Portfolio
 
-<p>
-<center>
-<img src="images/yo.png" width="230" alt="My Image" /><br>
-<font size="5">  
-    <strong>  Mathematical Engineer  </strong>
-</font>  
+### Hi 👋 My name is Francisco Alfaro
+
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
-</p>
-Senior Data Scientist (Walmart - Chile)<br>
-Associate Lecturer (UTFSM - Chile)
-</center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
-## Interests
-🎮 Gaming | 🏀 Basketball | 💡 Learning 
+### More About Me
 
-☑️ Software Development.  <br>
-☑️ Statistical Modelling, Time Series. <br> 
-☑️ Machine/Deep Learning.  <br> 
-☑️ Cloud computing, Big Data.
+* 🌍 I'm based in Chile
+* 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/)
+* ✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com)
+* 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
+* 🤝 I'm open to collaborating on Education Projects
+* 💬 Ask me about anything tech related, I am happy to help
 
-## Contact Information
+### Sections
 
-<p align="left"> 
-<a href="https://www.github.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="32" height="32" /></a>
-<a href="https://gitlab.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/faam" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" width="32" height="32" /></a> 
-<a href="https://www.stackoverflow.com/users/12886284/fralfaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="http://www.medium.com/@fralfaro" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" width="32" height="32" /></a>
-<a href="https://www.kaggle.com/faamds" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
-</p>
+::cards:: cols=1
 
+- title: About Me
+  content: "
+  Personal Overview ( presentation, work and education experience, 
+  tech stack, education, etc.)
+  "
+  image: https://cdn-icons-png.flaticon.com/512/5524/5524802.png
+  url: ./about_me/me/
 
-- **Email**: francisco.alfaro.496@gmail.com
-- **Websites**: [Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/portfolio/blog/)
-- **Curriculum Vitae**: [English](https://drive.google.com/file/d/1X-iYm9jzQmjO95-LkrKeDGUXigUbHfxI/view?usp=sharing), [Spanish](https://drive.google.com/file/d/1dgGfEKgSJwr9lObHGAOYQjSN9m0Grk_7/view?usp=sharing)
-- **Streamlit Version**: [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portfolio-st.streamlit.app/)
+::/cards::
 
+::cards:: cols=2
+
+- title: Activity
+  content: "
+  Information regarding research activities, technical talks, and collaborations with students.
+  "
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wikt_bookdictionary_logo.svg/600px-Wikt_bookdictionary_logo.svg.png
+  url: ./research/research/
+
+- title: Software
+  content: Content about my personal projects and collaborations in the open-source community.
+  image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Python_Windows_interpreter_icon_2006%E2%80%932016_Vista.png
+  url: ./software/book/
+
+- title: Teaching
+  content: "
+  My teaching courses, with a focus on mathematics and scientific computing
+  "
+  image: https://images.emojiterra.com/google/android-12l/512px/1f393.png
+  url: ./teaching/universities/
+
+- title: Blog
+  content: "
+  Various articles covering topics 
+  related to data science and teaching.
+  "
+  image: https://cdn-icons-png.flaticon.com/512/10473/10473077.png
+  url: ./blog/
+
+::/cards::
 
