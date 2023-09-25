@@ -37,13 +37,10 @@ markdown_extensions:
 
 extra_css:
   - css/neoteroi-mkdocs.css
-  - stylesheets/dark_theme.css
-  - stylesheets/codehilite.css
 
 # Theme
 theme:
   name: material
-  custom_dir: 'theme'
   language: en
   logo: images/doberman.png
   favicon: images/logo_fam.png
