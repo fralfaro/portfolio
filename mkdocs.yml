@@ -54,8 +54,6 @@ extra:
 
 # Plugins
 plugins:
-  - mkdocs-jupyter:
-      kernel_name: python3
   - search
 
  #TOC
