@@ -32,7 +32,7 @@ def cs_sidebar():
     """
     st.sidebar.markdown(
         '''[<img src='data:image/png;base64,{}' class='img-fluid' width=150 >](https://streamlit.io/)'''.format(
-            img_to_bytes("https://raw.githubusercontent.com/fralfaro/portfolio/main/docs/images/yo.png")), unsafe_allow_html=True)
+            img_to_bytes("https://raw.githubusercontent.com/fralfaro/portfolio/main/docs/images/yo2.png")), unsafe_allow_html=True)
 
     st.sidebar.header('Francisco Alfaro Medina')
     st.sidebar.markdown('**Mathematician & Data Scientist**')
@@ -93,7 +93,7 @@ def cs_body():
     # Activity Section
     with tab1:
         # Create columns for layout
-        col1, col2, col3 = st.columns(3)
+        col1, col2, col3, col4 = st.columns(4)
 
         # Research
         with col1:
@@ -147,7 +147,7 @@ def cs_body():
     with tab2:
 
         # Create columns for layout
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2, col3, col4, col5 = st.columns(5)
 
         # Books
         with col1:
@@ -212,7 +212,7 @@ def cs_body():
     # Teaching Section
     with tab3:
         # Create columns for layout
-        col1, col2 = st.columns(2)
+        col1, col2, col3 = st.columns(3)
 
         # University Courses
         with col1:
@@ -251,7 +251,7 @@ def cs_body():
     # Blog Section
     with tab4:
         # Create columns for layout
-        col1, col2 = st.columns(2)
+        col1, col2, col3, col4 = st.columns(4)
 
         # 2022
         with col1:
@@ -262,10 +262,10 @@ def cs_body():
                         "https://raw.githubusercontent.com/fralfaro/portfolio/main/docs/images/icons/blog.png")),
                 unsafe_allow_html=True)
             st.markdown('''
-                                     * [Causal Impact](https://fralfaro.github.io/portfolio/blog/posts/2022/2022-10-12-causal_impact/)
-                                     * [Collaborative Filtering](https://fralfaro.github.io/portfolio/blog/posts/2022/2022-10-12-implicit/)
-                                     * [TDD](https://fralfaro.github.io/portfolio/blog/posts/2022/2021-07-15-tdd/)
-                                     * [Polars](https://fralfaro.github.io/portfolio/blog/posts/2022/2022-03-16-polars/)
+                                     * [Causal Impact](https://fralfaro.github.io//DS-Blog/blog/posts/2022/2022-10-12-causal_impact/)
+                                     * [Collaborative Filtering](https://fralfaro.github.io//DS-Blog/blog/posts/2022/2022-10-12-implicit/)
+                                     * [TDD](https://fralfaro.github.io//DS-Blog/blog/posts/2022/2021-07-15-tdd/)
+                                     * [Polars](https://fralfaro.github.io//DS-Blog/blog/posts/2022/2022-03-16-polars/)
                                      ''')
 
         # 2021
@@ -277,12 +277,12 @@ def cs_body():
                         "https://raw.githubusercontent.com/fralfaro/portfolio/main/docs/images/icons/blog.png")),
                 unsafe_allow_html=True)
             st.markdown('''
-                                     * [Impact on Digital Learning](https://fralfaro.github.io/portfolio/blog/posts/2021/basic-analysis-impact-on-digital-learning/)
-                                     * [Fastpages](https://fralfaro.github.io/portfolio/blog/posts/2021/2021-08-20-fastpages/)
-                                     * [Buenas Prácticas](https://fralfaro.github.io/portfolio/blog/posts/2021/2021-08-31-buenas_practicas/)
-                                     * [Jupyter Book](https://fralfaro.github.io/portfolio/blog/posts/2021/2021-08-11-jb/)
-                                     * [RISE](https://fralfaro.github.io/portfolio/blog/posts/2021/2021-08-05-rise/)
-                                     * [Jupyter Noteboook](https://fralfaro.github.io/portfolio/blog/posts/2021/2021-07-31-jupyter/)
+                                     * [Impact on Digital Learning](https://fralfaro.github.io//DS-Blog/blog/posts/2021/basic-analysis-impact-on-digital-learning/)
+                                     * [Fastpages](https://fralfaro.github.io//DS-Blog/blog/posts/2021/2021-08-20-fastpages/)
+                                     * [Buenas Prácticas](https://fralfaro.github.io//DS-Blog/blog/posts/2021/2021-08-31-buenas_practicas/)
+                                     * [Jupyter Book](https://fralfaro.github.io//DS-Blog/blog/posts/2021/2021-08-11-jb/)
+                                     * [RISE](https://fralfaro.github.io//DS-Blog/blog/posts/2021/2021-08-05-rise/)
+                                     * [Jupyter Noteboook](https://fralfaro.github.io//DS-Blog/blog/posts/2021/2021-07-31-jupyter/)
                                      ''')
 
     css = '''
