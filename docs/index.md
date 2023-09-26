@@ -17,7 +17,7 @@
 
 ### Sections
 
-::cards:: cols=1
+::cards:: cols=5
 
 - title: About Me
   content: "
@@ -27,9 +27,6 @@
   image: https://cdn-icons-png.flaticon.com/512/5524/5524802.png
   url: ./about_me/me/
 
-::/cards::
-
-::cards:: cols=2
 
 - title: Activity
   content: "
@@ -43,6 +40,7 @@
   image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Python_Windows_interpreter_icon_2006%E2%80%932016_Vista.png
   url: ./software/book/
 
+
 - title: Teaching
   content: "
   My teaching courses, with a focus on mathematics and scientific computing
@@ -52,11 +50,9 @@
 
 - title: Blog
   content: "
-  Various articles covering topics 
-  related to data science and teaching.
+  A collection of articles covering topics about programming and education.
   "
   image: https://cdn-icons-png.flaticon.com/512/10473/10473077.png
   url: ./blog/
 
 ::/cards::
-

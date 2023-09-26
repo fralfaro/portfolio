@@ -2,15 +2,21 @@
 
 ## [Data Science Cheat Sheets](https://github.com/fralfaro/DS-Cheat-Sheets)
 
-:fontawesome-brands-python: Python
-:octicons-calendar-24: Ago 20, 2023
-
-[<img src="https://raw.githubusercontent.com/fralfaro/DS-Cheat-Sheets/main/docs/images/cs.png" alt="img python"
-     width="300"  align="right" >](https://github.com/fralfaro/DS-Cheat-Sheets)
+<p>
+  <a href="https://github.com/fralfaro/DS-Cheat-Sheets">
+    <img src="https://www.git-tower.com/blog/assets/img/popups/cheat-sheet-package@2x.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;🌐 R-Project<br>
+    &nbsp;📅 Aug 20, 2023 <br> <br> 
+  </span>
+</p>
 
 
 This repository serves as a hub for various Cheat Sheets related to 
-the field of Data Science (with Python). What sets these Cheat Sheets apart is their 
+the field of Data Science (with Python and R). What sets these Cheat Sheets apart is their 
 multidimensional approach to enhancing the learning experience. 
 Each Cheat Sheet is made available in three distinct formats: **PDF**, **Streamlit**, and **Google Colab**.
 
@@ -26,12 +32,17 @@ a manner that aligns with their preferences and learning style.
 
 ## [Streamlit Examples](https://fralfaro.github.io/Streamlit-Examples/)
 
-:fontawesome-brands-python: Python
-:octicons-calendar-24: Ago 10, 2023
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" alt="img python"
-     width="200"  align="left" >](https://fralfaro.github.io/Streamlit-Examples/)
-
+<p>
+  <a href="https://fralfaro.github.io/Streamlit-Examples/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;♛ Streamlit<br>
+    &nbsp;📅 Aug 10, 2023 <br> <br> 
+  </span>
+</p>
 
 [Streamlit](https://streamlit.io/) is a Python 
 library that has revolutionized the way data scientists and 
@@ -51,11 +62,17 @@ turn your data analysis, visualizations, and models into dynamic and engaging we
 
 ## [Vizzu Examples](https://fralfaro.github.io/Vizzu-Examples/)
 
-:fontawesome-brands-python: Python
-:octicons-calendar-24: Ago 10, 2023
-
-[<img src="https://raw.githubusercontent.com/fralfaro/Vizzu-Examples/main/docs/images/vizzu_2.png" alt="img python"
-     width="200"  align="left" >](https://fralfaro.github.io/Vizzu-Examples/)
+<p>
+  <a href="https://fralfaro.github.io/Vizzu-Examples/">
+    <img src="https://raw.githubusercontent.com/fralfaro/Vizzu-Examples/main/docs/images/vizzu_2.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;📶 Vizzu<br>
+    &nbsp;📅 Aug 10, 2023 <br> <br> 
+  </span>
+</p>
 
 
 [Vizzu](https://vizzuhq.com/) is a free and open-source animated data 

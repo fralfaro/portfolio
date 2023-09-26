@@ -2,12 +2,20 @@
 
 ## [Kaggle Courses](https://fralfaro.github.io/kaggle-courses/)
 
-:fontawesome-brands-python: Python
-:octicons-calendar-24: Sep 10, 2022
-:octicons-book-24: 12 Chapters
 
-[<img src="../images/kaggle3.png" alt="img python"
-     width="150" height="180"  align="right" >](https://fralfaro.github.io/kaggle-courses/)
+<p>
+  <a href="https://fralfaro.github.io/kaggle-courses/">
+    <img src="../images/kaggle3.png" 
+      style="float:left; width:120px; height:140px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;📕 12 Chapters<br>
+    &nbsp;📅 Sep 10, 2022 <br> <br> <br>
+  </span>
+</p>
+
+
 
 The goal of [Kaggle's courses](https://www.kaggle.com/learn) is to give you the skills you need to do independent data science projects. 
 We pare down complex topics to their key practical components, so you gain usable skills in a few hours (instead of weeks or months).
@@ -22,12 +30,18 @@ The courses are provided at **no cost to you**, and you can now **earn certifica
 
 ## [Python Data Science Handbook](https://fralfaro.github.io/python4ds-book/)
 
-:fontawesome-brands-python: Python
-:octicons-calendar-24: Aug 20, 2022
-:octicons-book-24: 6 Chapters
+<p>
+  <a href="https://fralfaro.github.io/python4ds-book/">
+    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP2cEphZz7Nq5FCKv6a4XKPTNW2GfpQnUrr08mvkMgzGInnxsq" 
+      style="float:left; width:120px; height:140px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;📕 6 Chapters<br>
+    &nbsp;📅 Aug 20, 2022 <br> <br> <br>
+  </span>
+</p>
 
-[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP2cEphZz7Nq5FCKv6a4XKPTNW2GfpQnUrr08mvkMgzGInnxsq" alt="img R" 
-     width="150" height="200"  align="right" >](https://fralfaro.github.io/python4ds-book/)
 This is the Jupyter notebook version of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas; the content is available [on GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).
 
 The text is released under the **CC-BY-NC-ND license**, and code is released under the **MIT license**. 
@@ -44,12 +58,19 @@ The text is released under the **CC-BY-NC-ND license**, and code is released und
 
 ## [R for Data Science](https://fralfaro.github.io/r4ds-book/)
 
-:fontawesome-brands-r-project: R-Project
-:octicons-calendar-24: Aug 10, 2022
-:octicons-book-24: 6 Chapters
+<p>
+  <a href="https://fralfaro.github.io/r4ds-book/">
+    <img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png"
+      style="float:left; width:120px; height:140px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🌐 R-Project <br>
+    &nbsp;📕 6 Chapters<br>
+    &nbsp;📅 Aug 10, 2022 <br> <br> <br>
+  </span>
+</p>
 
-[<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" alt="img R" 
-     width="150" height="200"  align="right" >](https://fralfaro.github.io/r4ds-book/)
+
 This is the Jupyter notebook version of the [R for Data Science](https://www.oreilly.com/library/view/r-for-data/9781491910382/) by Hadley Wickham; the content is available [on GitHub](https://github.com/hadley/r4ds).
 
 The text will teach you how to do data science with R: You'll learn how to get your data into R, 

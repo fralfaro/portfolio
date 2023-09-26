@@ -1,18 +1,9 @@
-# About me
+## About me
 
-<p>
-<center>
-<img src="../../images/yo.png" width="230" alt="My Image" /><br>
-<font size="5">  
-    <strong>  Mathematical Engineer  </strong>
-</font>  
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
-</p>
-Senior Data Scientist (Walmart - Chile)<br>
-Associate Lecturer (UTFSM - Chile)
-</center>
-</p>
+* **Profession**: 📊 Mathematical Engineer
+* **Current Work**: 
+    * 💻 Senior Data Scientist (Walmart - Chile)
+    * 📖 Associate Lecturer (UTFSM - Chile)
 
 ## Interests
 🎮 Gaming | 🏀 Basketball | 💡 Learning 

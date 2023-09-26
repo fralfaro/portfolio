@@ -3,7 +3,7 @@
 
 
 <p>
-<img src="https://servicios.anid.cl/web/sinexbec2/assets/img/logo_conicyt1.1.svg" alt="Smiley face image"
+<img src="https://www.postgrado.usach.cl/sites/default/files/logo-conicyt.png" alt="Smiley face image"
 style="float:left; width:65px; height:52px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  CONICYT </strong> <br>
