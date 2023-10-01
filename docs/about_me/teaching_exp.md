@@ -4,8 +4,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Universidad Federico Santa Maria</strong> <br>
-&nbsp Valparaiso-Santiago, Chile. <br>
+&nbsp <strong> UTFSM</strong> <br>
+&nbsp Valparaiso, Chile. <br>
 &nbsp 2012 - 2023
 </span>
 </p>
@@ -37,6 +37,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:60px; height:60px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>TripleTen</strong> <br>
+&nbsp Bootcamp, Online. <br>
 &nbsp 2022-2023 <br>
 </span>
 </p>
@@ -48,7 +49,8 @@ style="float:left; width:60px; height:60px;">
 <img src="../../images/cd_03.png" alt="Smiley face image"
 style="float:left; width:60px; height:60px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Coding Dojo</strong> <br>
+&nbsp <strong> Coding Dojo</strong>  <br>
+&nbsp Bootcamp, Online. <br>
 &nbsp 2022-2023 <br>
 </span>
 </p>

@@ -6,7 +6,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Universidad Federico Santa Maria</strong> <br>
+&nbsp <strong> UTFSM</strong> <br>
 &nbsp Valparaiso-Santiago, Chile. <br>
 &nbsp 2019 - 2023
 </span>
@@ -29,7 +29,7 @@ style="float:left; width:65px; height:65px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Universidad Federico Santa Maria</strong> <br>
+&nbsp <strong> UTFSM </strong> <br>
 &nbsp MAT021 - Calculus and Algebra I <br>
 &nbsp 2017 - 2018
 </span>
@@ -39,7 +39,7 @@ style="float:left; width:65px; height:65px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Universidad Federico Santa Maria</strong> <br>
+&nbsp <strong> UTFSM</strong> <br>
 &nbsp MAT022 - Calculus and Algebra II <br>
 &nbsp 2017 - 2018
 </span>
