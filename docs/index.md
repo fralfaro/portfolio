@@ -53,6 +53,6 @@
   A collection of articles covering topics about programming and education.
   "
   image: https://cdn-icons-png.flaticon.com/512/10473/10473077.png
-  url: ./blog/
+  url: ./blog/posts/
 
 ::/cards::

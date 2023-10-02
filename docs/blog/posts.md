@@ -1,5 +1,17 @@
 # Posts
 
+## 2023
+
+::cards:: cols=3
+
+- title:  Gitlab PDF
+  content: "
+  ¿Cómo aprovechar GitLab CI/CD para generar archivos PDF utilizando los artefactos resultantes de un Pipeline?
+  "
+  image: https://future-architect.github.io/images/20230306a/gitlab-ci-cd-logo_2x.png
+  url: https://fralfaro.github.io/DS-Blog/blog/posts/2023/gitlab_pdf/
+::/cards::
+
 ## 2022
 
 ::cards:: cols=3
