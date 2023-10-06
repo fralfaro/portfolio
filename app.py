@@ -251,10 +251,23 @@ def cs_body():
     # Blog Section
     with tab4:
         # Create columns for layout
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2, col3, col4, col5 = st.columns(5)
+
+        # 2023
+        with col1:
+            st.subheader('2023')
+            st.markdown(
+                '''[<img src='data:image/png;base64,{}' class='img-fluid' width=100 >](https://fralfaro.github.io/portfolio/research/research/)'''.format(
+                    img_to_bytes(
+                        "https://raw.githubusercontent.com/fralfaro/portfolio/main/docs/images/icons/blog.png")),
+                unsafe_allow_html=True)
+            st.markdown('''
+                                     * [Documentación](https://fralfaro.github.io/DS-Blog/blog/posts/2023/art_docs/)
+                                     * [Gitlab PDF](https://fralfaro.github.io/DS-Blog/blog/posts/2023/gitlab_pdf/)
+                                     ''')
 
         # 2022
-        with col1:
+        with col2:
             st.subheader('2022')
             st.markdown(
                 '''[<img src='data:image/png;base64,{}' class='img-fluid' width=100 >](https://fralfaro.github.io/portfolio/research/research/)'''.format(
@@ -269,7 +282,7 @@ def cs_body():
                                      ''')
 
         # 2021
-        with col2:
+        with col3:
             st.subheader('2021')
             st.markdown(
                 '''[<img src='data:image/png;base64,{}' class='img-fluid' width=100 >](https://fralfaro.github.io/portfolio/research/research/)'''.format(

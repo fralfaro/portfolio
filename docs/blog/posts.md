@@ -4,6 +4,13 @@
 
 ::cards:: cols=3
 
+- title:  Documentación
+  content: "
+  Enteneder los pasos para crear una buena documentación en Python (más algunas recomendaciones).
+  "
+  image: https://raw.githubusercontent.com/fralfaro/DS-Blog/main/docs/blog/posts/2023/img/books.png
+  url: https://fralfaro.github.io/DS-Blog/blog/posts/2023/art_docs/
+
 - title:  Gitlab PDF
   content: "
   ¿Cómo aprovechar GitLab CI/CD para generar archivos PDF utilizando los artefactos de un Pipeline?
