@@ -1,5 +1,29 @@
 # Books
 
+## [Latex Manual](https://fralfaro.github.io/latex-manual/docs/index.html)
+
+
+<p>
+  <a href="https://fralfaro.github.io/latex-manual/docs/index.html">
+    <img src="../images/sticker.png" 
+      style="float:left; width:120px; height:140px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;📃 Latex <br>
+    &nbsp;📕 12 Chapters<br>
+    &nbsp;📅 Oct 10, 2023 <br> <br> <br>
+  </span>
+</p>
+
+
+
+This project will provide you with a concise introduction to [LaTeX](https://www.latex-project.org/), a document composition system widely used in the academic and technical community.
+
+LaTeX is especially known for its ability to produce high-quality documents that include mathematical content, tables, figures, and bibliographical references.
+
+> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/latex-manual](https://github.com/fralfaro/latex-manual).
+
+
 ## [Kaggle Courses](https://fralfaro.github.io/kaggle-courses/)
 
 
@@ -21,7 +45,7 @@ The goal of [Kaggle's courses](https://www.kaggle.com/learn) is to give you the 
 We pare down complex topics to their key practical components, so you gain usable skills in a few hours (instead of weeks or months).
 
 The courses are provided at **no cost to you**, and you can now **earn certificates**.
-> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/kaggle-courses](https://fralfaro.github.io/kaggle-courses/).
+> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/kaggle-courses](https://github.com/fralfaro/kaggle-courses/).
 
 &nbsp;
 &nbsp;
