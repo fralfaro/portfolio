@@ -72,7 +72,7 @@ def cs_sidebar():
 
 
 - **Email**: <small>francisco.alfaro.496@gmail.com</small>
-- **Websites**: <small>[Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/portfolio/blog/)</small>
+- **Websites**: <small>[Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/DS-Blog/)</small>
 - **Curriculum Vitae**: <small>[English](https://drive.google.com/file/d/1X-iYm9jzQmjO95-LkrKeDGUXigUbHfxI/view?usp=sharing), [Spanish](https://drive.google.com/file/d/1dgGfEKgSJwr9lObHGAOYQjSN9m0Grk_7/view?usp=sharing)</small>
 </small>
             ''', unsafe_allow_html=True)
@@ -87,7 +87,7 @@ def cs_body():
 
     # Tab menu.
     tab1, tab2, tab3, tab4 = st.tabs(
-        ["Activity", "Software", "Teaching", "Blog"]
+        ["📊 Activity", "💻 Software", "📖 Teaching", "🌐 Blog"]
     )
 
     # Activity Section
@@ -159,6 +159,7 @@ def cs_body():
                 unsafe_allow_html=True)
 
             st.markdown('''
+                 * [Latex Manual](https://fralfaro.github.io/latex-manual/docs/index.html)
                  * [Kaggle Courses](https://fralfaro.github.io/kaggle-courses/)
                  * [Python Data Science Handbook](https://fralfaro.github.io/python4ds-book/)
                  * [R for Data Science](https://fralfaro.github.io/r4ds-book/)

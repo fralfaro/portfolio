@@ -8,12 +8,12 @@
 
 ### More About Me
 
-* 🌍 I'm based in Chile
-* 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/)
-* ✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com)
+* 🌍 I'm based in Chile.
+* 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/).
+* ✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com).
 * 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
-* 🤝 I'm open to collaborating on Education Projects
-* 💬 Ask me about anything tech related, I am happy to help
+* 🤝 I'm open to collaborating on Education Projects.
+* 💬 Ask me about anything tech related, I am happy to help.
 
 ### Sections
 

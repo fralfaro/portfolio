@@ -26,7 +26,7 @@
 
 
 - **Email**: francisco.alfaro.496@gmail.com
-- **Websites**: [Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/portfolio/blog/)
+- **Websites**: [Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/DS-Blog/)
 - **Curriculum Vitae**: [English](https://drive.google.com/file/d/1X-iYm9jzQmjO95-LkrKeDGUXigUbHfxI/view?usp=sharing), [Spanish](https://drive.google.com/file/d/1dgGfEKgSJwr9lObHGAOYQjSN9m0Grk_7/view?usp=sharing)
 - **Streamlit Version**: [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portfolio-st.streamlit.app/)
 
