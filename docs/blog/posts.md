@@ -4,6 +4,17 @@
 
 ::cards:: cols=3
 
+- title:  Compartir datos
+  content: "
+  Cómo Compartir Datos de Manera Efectiva (desde el punto de vista estadístico) y no morir en el intento.
+  "
+  image: https://raw.githubusercontent.com/fralfaro/DS-Blog/main/docs/blog/posts/2023/img/share.png
+  url: https://fralfaro.github.io/DS-Blog/blog/posts/2023/data_sharing/
+
+::/cards::
+
+::cards:: cols=3
+
 - title:  Documentación
   content: "
   Enteneder los pasos para crear una buena documentación en Python (más algunas recomendaciones).
