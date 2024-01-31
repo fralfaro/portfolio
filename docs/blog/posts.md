@@ -45,7 +45,7 @@
   content: "
   *User-based collaborative filtering* para realizar un mejor sistema de recomendación de películas.
   "
-  image: https://icons-for-free.com/iconfiles/ico/256/color+cinema+icons+Documentary-1320567852829864650.ico
+  image: https://cdn-icons-png.flaticon.com/512/2133/2133009.png
   url: https://fralfaro.github.io/DS-Blog/blog/posts/2022/2022-10-12-implicit/
 
 ::/cards::
