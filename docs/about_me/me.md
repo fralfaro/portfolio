@@ -6,7 +6,7 @@
     * 📖 Associate Lecturer (UTFSM)
 
 ## Interests
-🎮 Gaming | 🏀 Basketball | 💡 Learning 
+🎮🦊[SSBM-Dark](https://www.youtube.com/watch?v=xwDHs6UXgR8) | 🏀👑[Basketball-LBJ](https://www.youtube.com/watch?v=6fQk1Od5kUw)
 
 ☑️ Software Development.  <br>
 ☑️ Statistical Modelling, Time Series. <br> 
@@ -26,7 +26,7 @@
 
 
 - **Email**: francisco.alfaro.496@gmail.com
-- **Websites**: [Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/DS-Blog/)
+- **Websites**: [Portfolio](https://fralfaro.github.io/portfolio/), [Blog](https://fralfaro.github.io/blog/)
 - **Curriculum Vitae**: [English](https://drive.google.com/file/d/1X-iYm9jzQmjO95-LkrKeDGUXigUbHfxI/view?usp=sharing), [Spanish](https://drive.google.com/file/d/1dgGfEKgSJwr9lObHGAOYQjSN9m0Grk_7/view?usp=sharing)
 - **Streamlit Version**: [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portfolio-st.streamlit.app/)
 

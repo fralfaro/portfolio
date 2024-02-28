@@ -59,7 +59,7 @@ within the distribution centers.
 <br>
 <hr size="30">
  <p>
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/swxkvohz4ymax38uzlz7" alt="Smiley face image"
+<img src="../../images/uplanner.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
@@ -107,7 +107,7 @@ Researcher in charge of the following projects:
 <br>
 <hr size="30">
  <p>
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/swxkvohz4ymax38uzlz7" alt="Smiley face image"
+<img src="../../images/uplanner.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>

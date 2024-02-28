@@ -14,6 +14,8 @@
 * 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
 * 🤝 I'm open to collaborating on Education Projects.
 * 💬 Ask me about anything tech related, I am happy to help.
+* 🎮🦊 I'm fascinated by the competitive scene of SSBM. My nickname is [Dark](https://www.youtube.com/watch?v=xwDHs6UXgR8).
+* 🏀👑 As a sports enthusiast, enjoy playing basketball. [Lebron James](https://www.youtube.com/watch?v=6fQk1Od5kUw) fans.
 
 ### Sections
 
@@ -24,7 +26,7 @@
   Personal Overview ( presentation, work and education experience, 
   tech stack, education, etc.)
   "
-  image: https://cdn-icons-png.flaticon.com/512/5524/5524802.png
+  image: images/logo_01.png
   url: ./about_me/me/
 
 
@@ -32,12 +34,12 @@
   content: "
   Information regarding research activities, technical talks, and collaborations with students.
   "
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wikt_bookdictionary_logo.svg/600px-Wikt_bookdictionary_logo.svg.png
+  image: images/logo_02.png
   url: ./research/research/
 
 - title: Software
   content: Content about my personal projects and collaborations in the open-source community.
-  image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Python_Windows_interpreter_icon_2006%E2%80%932016_Vista.png
+  image: images/logo_03.png
   url: ./software/book/
 
 
@@ -45,14 +47,14 @@
   content: "
   My teaching courses, with a focus on mathematics and scientific computing
   "
-  image: https://images.emojiterra.com/google/android-12l/512px/1f393.png
+  image: images/logo_04.png
   url: ./teaching/universities/
 
 - title: Blog
   content: "
   A collection of articles covering topics about programming and education.
   "
-  image: https://cdn-icons-png.flaticon.com/512/10473/10473077.png
+  image: images/logo_05.png
   url: ./blog/posts/
 
 ::/cards::
