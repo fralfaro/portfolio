@@ -2,7 +2,7 @@
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/students/memoria_juan.pdf">
-    <img src="https://images.emojiterra.com/google/android-12l/512px/1f393.png" alt="Smiley face image"
+    <img src="../../images/hat.png" alt="Smiley face image"
 style="float:left; width:90px; height:70px;">
 </a>
 <span style="vertical-align:bottom">

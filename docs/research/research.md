@@ -2,7 +2,7 @@
 
 
 <p>
-<img src="https://freesvg.org/img/Anonymous_Paper_4_icon.png" alt="Smiley face image"
+<img src="../../images/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> University Retention</strong> <br>
@@ -13,7 +13,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://freesvg.org/img/Anonymous_Paper_4_icon.png" alt="Smiley face image"
+<img src="../../images/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Reciprocal effects: Happiness and Job Performance</strong> <br>
@@ -25,7 +25,7 @@ style="float:left; width:65px; height:65px;">
 
 
 <p>
-<img src="https://freesvg.org/img/Anonymous_Paper_4_icon.png" alt="Smiley face image"
+<img src="../../images/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> University Retention - Construction Engineering</strong> <br>
@@ -36,7 +36,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://freesvg.org/img/Anonymous_Paper_4_icon.png" alt="Smiley face image"
+<img src="../../images/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Spatial-Statistics for 3D Kriging</strong> <br>
@@ -47,7 +47,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://freesvg.org/img/Anonymous_Paper_4_icon.png" alt="Smiley face image"
+<img src="../../images/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Fraud detection in drinking water consumption</strong> <br>
