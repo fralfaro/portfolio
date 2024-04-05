@@ -6,8 +6,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
-### More About Me
-
 * 🌍 I'm based in Chile.
 * 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/).
 * ✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com).
@@ -22,38 +20,28 @@
 ::cards:: cols=5
 
 - title: About Me
-  content: "
-  Personal Overview ( presentation, work and education experience, 
-  tech stack, education, etc.)
-  "
+  content: Personal information.
   image: images/logo_01.png
   url: ./about_me/me/
 
-
 - title: Activity
-  content: "
-  Information regarding research activities, technical talks, and collaborations with students.
-  "
+  content: Research, talks and students.
   image: images/logo_02.png
   url: ./research/research/
 
 - title: Software
-  content: Content about my personal projects and collaborations in the open-source community.
+  content: Projects and collaborations.
   image: images/logo_03.png
   url: ./software/book/
 
 
 - title: Teaching
-  content: "
-  My teaching courses, with a focus on mathematics and scientific computing
-  "
+  content: University and personal courses.
   image: images/logo_04.png
   url: ./teaching/universities/
 
 - title: Blog
-  content: "
-  A collection of articles covering topics about programming and education.
-  "
+  content: A collection of articles.
   image: images/logo_05.png
   url: ./blog/posts/
 
