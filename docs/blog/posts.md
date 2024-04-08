@@ -1,5 +1,19 @@
 # Posts
 
+## 2024
+
+::cards:: cols=3
+
+- title:  Github Profile (soon)
+  content: "
+  Comprender los pasos necesarios para crear un perfil de GitHub de alta calidad.
+  "
+  image: ../images/profile.png
+  url: 
+
+
+::/cards::
+
 ## 2023
 
 ::cards:: cols=3
