@@ -2,8 +2,6 @@
 
 [![example workflow](https://github.com/fralfaro/portfolio/actions/workflows/documentation.yml/badge.svg)](https://github.com/fralfaro/portfolio/actions)
 [![documentation](https://img.shields.io/badge/🌐-Portfolio-blue)](https://fralfaro.github.io/portfolio/)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://portfolio-st.streamlit.app/)
-
 
 ## Hi 👋 My name is Francisco Alfaro
 
