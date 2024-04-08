@@ -1,6 +1,26 @@
 # Work Experience
 
 <p>
+<img src="https://s3-symbol-logo.tradingview.com/grupo-security-sa--600.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Senior Data Scientist</strong> <br>
+&nbsp  Walmart Chile  <br>
+&nbsp 2021 – Present
+</span>
+</p>
+
+Lead the development and implementation of algorithms (Tech Department):
+
+* Prospects: Strategies and customer acquisition in life insurance.
+* Analyzed former clients to improve retention in life insurance.
+* Successful implementation of a life insurance fraud detection model.
+* Managed efficient handling of redemptions and transfers of Mutual Funds.
+* Contributed to the formulation and development of policies related to Artificial Intelligence
+(AI).
+<br>
+
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Walmart_Spark.svg/1200px-Walmart_Spark.svg.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">

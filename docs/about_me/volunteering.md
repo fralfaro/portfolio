@@ -1,7 +1,17 @@
 # Volunteering
 
 <p>
-<img src="https://pyday.cl/images/pythonchile.png" alt="Smiley face image"
+<img src="../images/js.png" alt="Smiley face image"
+style="float:left; width:91px; height:91px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Speaker</strong> <br>
+&nbsp Java Script Chile <br>
+&nbsp 2024 <br><br>
+</span>
+</p>
+
+<p>
+<img src="../images/pythonchile.png" alt="Smiley face image"
 style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coordination</strong> <br>

@@ -46,12 +46,6 @@ theme:
   favicon: images/logo_fam.png
 
 
-# Customization
-extra:
-  social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
-
 # Plugins
 plugins:
   - search
