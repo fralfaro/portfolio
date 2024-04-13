@@ -4,12 +4,12 @@
 
 ::cards:: cols=3
 
-- title:  Github Profile (soon)
+- title:  Github Profile
   content: "
   Comprender los pasos necesarios para crear un perfil de GitHub de alta calidad.
   "
   image: ../images/profile.png
-  url: 
+  url: https://fralfaro.github.io/blog/posts/2024/github_profile
 
 
 ::/cards::
