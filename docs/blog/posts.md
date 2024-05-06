@@ -4,6 +4,25 @@
 
 ::cards:: cols=3
 
+- title:  Github Actions
+  content: "
+  Aprender conceptos básicos de Github Actions y Github Pages.
+  "
+  image: ../images/actions2.png
+  url: https://fralfaro.github.io/blog/posts/2024/github_actions
+
+
+::/cards::
+
+::cards:: cols=3
+
+- title:  Github Repository
+  content: "
+  Comprender los pasos necesarios para mostrar tus repositorios en Github.
+  "
+  image: ../images/repos3.png
+  url: https://fralfaro.github.io/blog/posts/2024/github_repos
+
 - title:  Github Profile
   content: "
   Comprender los pasos necesarios para crear un perfil de GitHub de alta calidad.
@@ -41,7 +60,7 @@
   content: "
   Cómo abordar el desarrollo de software para Data Science usando Test Driven Development. 
   "
-  image: https://www.outsystems.com/forge/DownloadResource.aspx?FileName=&ImageBinaryId=60719
+  image: ../images/tdd.png
   url: https://fralfaro.github.io/blog/posts/2022/2021-07-15-tdd
 
 - title:  Polars
