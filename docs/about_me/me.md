@@ -1,11 +1,11 @@
-## About me
+### About me
 
 * **Profession**: 📊 Mathematical Engineer
 * **Current Work**: 
     * 💻 Head of Advanced Analytics (Grupo Security)
     * 📖 Associate Lecturer (UTFSM)
 
-## Interests
+### Interests
 🎮🦊[SSBM-Dark](https://www.youtube.com/watch?v=xwDHs6UXgR8) | 🏀👑[Basketball-LBJ](https://www.youtube.com/watch?v=6fQk1Od5kUw)
 
 ☑️ Software Development.  <br>
@@ -13,7 +13,7 @@
 ☑️ Machine/Deep Learning.  <br> 
 ☑️ Cloud computing, Big Data.
 
-## Contact Information
+### Contact Information
 
 <p align="left"> 
 <a href="https://www.github.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="32" height="32" /></a>

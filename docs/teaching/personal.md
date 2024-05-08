@@ -1,7 +1,4 @@
-
-# Personal Courses
-
-
+### Personal Courses
 
 ::cards:: cols=4
 

@@ -57,8 +57,42 @@
 </p>
 <hr size="30">
 
+## [TechScholl](https://github.com/JSConfCL/techschool)
+<a href="https://github.com/JSConfCL/techschool"><img alt="Link" src="https://img.shields.io/badge/Techscholl-workshop-blue" style="float:left; padding-right:10px" ></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/JSConfCL/techschool?style=social)
+![GitHub Repo forks](https://img.shields.io/github/forks/JSConfCL/techschool?style=social)
+
+<p>
+  <a href="https://github.com/JSConfCL/techschool">
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png"
+      style="float:left; width:80px; height:80px;">
+  </a>
+  <span style="vertical-align:bottom">
+    &nbsp;<strong>Workshops material - JS Chile</strong> <br>
+    &nbsp;Workshops material for students. <br> <br><br>
+  </span>
+</p>
+<hr size="30">
+
+## [AdvancedAnalyticsLabs](https://github.com/CBravoR/AdvancedAnalyticsLabs)
+<a href="https://github.com/CBravoR/AdvancedAnalyticsLabs"><img alt="Link" src="https://img.shields.io/badge/AdvancedAnalyticsLabs-course-blue" style="float:left; padding-right:10px" ></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/CBravoR/AdvancedAnalyticsLabs?style=social)
+![GitHub Repo forks](https://img.shields.io/github/forks/CBravoR/AdvancedAnalyticsLabs?style=social)
+
+<p>
+  <a href="https://github.com/CBravoR/AdvancedAnalyticsLabs">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+      style="float:left; width:80px; height:80px;">
+  </a>
+  <span style="vertical-align:bottom">
+    &nbsp;<strong>Statistics and Business course material - Cristian Bravo</strong> <br>
+    &nbsp;Analytics labs notebooks (for BSc and MSc courses).  <br> <br><br>
+  </span>
+</p>
+<hr size="30">
+
 ## [dviz-course](https://github.com/yy/dviz-course)
-<a href="https://github.com/pandas-dev/pandas"><img alt="Link" src="https://img.shields.io/badge/dviz--course-course-blue" style="float:left; padding-right:10px" ></a>
+<a href="https://github.com/yy/dviz-course"><img alt="Link" src="https://img.shields.io/badge/dviz--course-course-blue" style="float:left; padding-right:10px" ></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/yy/dviz-course?style=social)
 ![GitHub Repo forks](https://img.shields.io/github/forks/yy/dviz-course?style=social)
 
@@ -73,4 +107,3 @@
   </span>
 </p>
 <hr size="30">
-

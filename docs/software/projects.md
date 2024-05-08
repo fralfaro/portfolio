@@ -1,9 +1,113 @@
-# Projects
+## Projects
 
-## [Data Science Cheat Sheets](https://github.com/fralfaro/DS-Cheat-Sheets)
+### [Github Introduction](https://github.com/fralfaro/Github-Intro)
 
 <p>
-  <a href="https://github.com/fralfaro/DS-Cheat-Sheets">
+  <a href="https://github.com/fralfaro/Github-Intro">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;📃 Markdown <br>
+    &nbsp;🌐 Github <br>
+    &nbsp;📅 May 03, 2024 <br> <br> 
+  </span>
+</p>
+
+
+This repository is designed to provide practical tutorials on various GitHub concepts, 
+ranging from enhancing your GitHub Profile to utilizing GitHub Actions and GitHub Pages. 
+
+The primary goal is to offer hands-on learning experiences that empower users
+to become proficient in GitHub's features effectively.
+
+
+&nbsp;
+&nbsp;
+
+<hr size="30">
+
+### [Online CV](https://fralfaro.github.io/online-cv/)
+
+<p>
+  <a href="https://fralfaro.github.io/online-cv/">
+    <img src="https://cdn-icons-png.freepik.com/512/3447/3447294.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;📃 Mkdocs <br>
+    &nbsp;📅 Apr 25, 2024 <br> <br> 
+  </span>
+</p>
+
+
+Creating an online resume (CV) with Mkdocs and GitHub Actions offers a modern and efficient way to showcase your professional experience,
+skills, and achievements to potential employers or collaborators. 
+
+Mkdocs, a static site generator, combined with GitHub Actions for automated deployment,
+provides a seamless workflow for maintaining and updating your online resume with ease.
+
+
+&nbsp;
+&nbsp;
+
+<hr size="30">
+
+### [Personal Agency Website](https://fralfaro.github.io/agency-website/)
+
+<p>
+  <a href="https://fralfaro.github.io/agency-website/">
+    <img src="https://www.svgrepo.com/show/373698/jekyll.svg"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🧪 Jekyll <br>
+    &nbsp;🌐 Github <br>
+    &nbsp;📅 Apr 05, 2024 <br> <br> 
+  </span>
+</p>
+
+
+
+Jekyll Agency Bootstrap theme offers a sophisticated and customizable framework for building stunning and functional websites for digital agencies, 
+startups, or any business looking to establish a strong online presence. 
+
+By combining the power and flexibility of Jekyll, a static site generator, with the modern design elements and components of the Bootstrap framework, developers can create dynamic and responsive websites with ease.
+
+&nbsp;
+&nbsp;
+
+<hr size="30">
+
+### [Data Science project](https://github.com/fralfaro/python_project)
+
+<p>
+  <a href="https://github.com/fralfaro/python_project">
+    <img src="https://www.kindpng.com/picc/b/73-731236_transparent-science-icons-png-data-science-icon-png.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;🤖 Machine Learning<br>
+    &nbsp;📅 Feb 20, 2024 <br> <br> 
+  </span>
+</p>
+
+
+This repository serves as a comprehensive framework designed to streamline the process of executing data science projects. 
+
+It offers a meticulously structured template that encompasses various phases of project development, from initial data collection to final model deployment.
+
+&nbsp;
+&nbsp;
+
+<hr size="30">
+
+### [Data Science Cheat Sheets](https://fralfaro.github.io/DS-Cheat-Sheets/)
+
+<p>
+  <a href="https://fralfaro.github.io/DS-Cheat-Sheets/">
     <img src="https://www.git-tower.com/blog/assets/img/popups/cheat-sheet-package@2x.png"
       style="float:left; width:120px; height:120px;">
   </a>
@@ -23,14 +127,14 @@ Each Cheat Sheet is made available in three distinct formats: **PDF**, **Streaml
 This threefold approach to guarantee that learners can interact with the content in 
 a manner that aligns with their preferences and learning style.
 
-> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/DS-Cheat-Sheets](https://github.com/fralfaro/DS-Cheat-Sheets).
+> **Note**:  You can find the repository at the following link: [fralfaro/DS-Cheat-Sheets](https://github.com/fralfaro/DS-Cheat-Sheets).
 
 &nbsp;
 &nbsp;
 
 <hr size="30">
 
-## [Streamlit Examples](https://fralfaro.github.io/Streamlit-Examples/)
+### [Streamlit Examples](https://fralfaro.github.io/Streamlit-Examples/)
 
 <p>
   <a href="https://fralfaro.github.io/Streamlit-Examples/">
@@ -60,7 +164,7 @@ turn your data analysis, visualizations, and models into dynamic and engaging we
 
 <hr size="30">
 
-## [Vizzu Examples](https://fralfaro.github.io/Vizzu-Examples/)
+### [Vizzu Examples](https://fralfaro.github.io/Vizzu-Examples/)
 
 <p>
   <a href="https://fralfaro.github.io/Vizzu-Examples/">
@@ -91,6 +195,30 @@ Vizzu allows displaying different perspectives of the data that viewers can easi
 &nbsp;
 &nbsp;
 
-<hr size="30">
 
 
+## Python Packages
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Python </strong> <br>
+&nbsp Machine Learning Packeges <br><br>
+</span>
+</p>
+
+
+I contribute as developer/maintainer of the following Python packages:
+
+
+### [Fastmatrix](https://gitlab.com/fralfaro/fastmatrix)
+<a href="https://gitlab.com/FAAM/fastmatrix"><img alt="Link" src="https://img.shields.io/badge/fastmatrix-package-blue" style="float:left; padding-right:10px" ></a>
+<a href="https://www.python.org/downloads/release/python-380/"><img alt="Link" src="https://img.shields.io/badge/python-3.8-blue.svg" style="float:left; padding-right:10px" ></a>
+&nbsp;
+
+_**Fast computation of some matrices useful in statistics**_
+
+Yet another R package for matrices. It contains a small set of functions to fast computation of some matrices and operations useful in statistics.
+
+> **Note**: This repository is an alternative to [faosorios/fastmatrix](https://github.com/faosorios/fastmatrix). This repository is just a transformation of packages from R to Python.

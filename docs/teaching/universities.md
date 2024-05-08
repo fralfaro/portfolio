@@ -1,6 +1,6 @@
-# University Courses
+## University Courses
 
-## MAT281 - Applications of Mathematics in Engineering
+### MAT281 - Applications of Mathematics in Engineering
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
@@ -23,7 +23,7 @@ style="float:left; width:65px; height:65px;">
 - **Repository**:  [2023](https://github.com/fralfaro/MAT281_2023) (current version)
 
 
-## Previous Courses
+### Previous Courses
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"

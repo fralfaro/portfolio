@@ -52,30 +52,21 @@ plugins:
 
  #TOC
 nav:
-    - Home: index.md
-    - About Me:
+    - 🏠 Home: index.md
+    - 👑 About Me:
       - Presentation: about_me/me.md
-      - Tech Stack:  about_me/stack.md
-      - Certifications:  about_me/certification.md
       - Education:  about_me/education.md
-      - Work Experience:  about_me/work_exp.md
-      - Teaching Experience:  about_me/teaching_exp.md
-      - Honors & Awards:  about_me/awards.md
-      - Volunteering:  about_me/volunteering.md
-    - Activity:
-      - Research: research/research.md
-      - Talks: research/talks.md
-      - Students: research/students.md
-    - Software:
-      - Books: software/book.md
-      - Collaboration: software/collaboration.md
+      - Experience:  about_me/work_exp.md
+      - More:  about_me/awards.md
+    - 🚀️ Portfolio:
+      - Knowledge Hub: research/research.md
       - Projects: software/projects.md
-      - Packages: software/software.md
-    - Teaching:
+      - Documentation: software/book.md
+      - Collaboration: software/collaboration.md
+    - ⭐ More:
       - University Courses: teaching/universities.md
       - Personal Courses: teaching/personal.md
-    - Blog:
-        - Posts: blog/posts.md
+      - Blog Posts: blog/posts.md
 
 
 

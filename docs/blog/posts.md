@@ -1,6 +1,6 @@
-# Posts
+## Blog Posts
 
-## 2024
+### 2024
 
 ::cards:: cols=3
 
@@ -33,7 +33,7 @@
 
 ::/cards::
 
-## 2023
+### 2023
 
 ::cards:: cols=3
 
@@ -52,7 +52,7 @@
   url: https://fralfaro.github.io/blog/posts/2023/gitlab_pdf
 ::/cards::
 
-## 2022
+### 2022
 
 ::cards:: cols=3
 
@@ -74,7 +74,7 @@
 
 ::/cards::
 
-## 2021
+### 2021
 
 ::cards:: cols=3
 

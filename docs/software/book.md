@@ -1,6 +1,8 @@
-# Books
+# Documentation
 
-## [Latex Manual](https://fralfaro.github.io/latex-manual/docs/index.html)
+## Books
+
+### [Latex Manual](https://fralfaro.github.io/latex-manual/docs/index.html)
 
 
 <p>
@@ -21,10 +23,10 @@ This project will provide you with a concise introduction to [LaTeX](https://www
 
 LaTeX is especially known for its ability to produce high-quality documents that include mathematical content, tables, figures, and bibliographical references.
 
-> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/latex-manual](https://github.com/fralfaro/latex-manual).
+> **Note**: You can find the repository at the following link: [fralfaro/latex-manual](https://github.com/fralfaro/latex-manual).
 
 
-## [Kaggle Courses](https://fralfaro.github.io/kaggle-courses/)
+### [Kaggle Courses](https://fralfaro.github.io/kaggle-courses/)
 
 
 <p>
@@ -45,14 +47,14 @@ The goal of [Kaggle's courses](https://www.kaggle.com/learn) is to give you the 
 We pare down complex topics to their key practical components, so you gain usable skills in a few hours (instead of weeks or months).
 
 The courses are provided at **no cost to you**, and you can now **earn certificates**.
-> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/kaggle-courses](https://github.com/fralfaro/kaggle-courses/).
+> **Note**: You can find the repository at the following link: [fralfaro/kaggle-courses](https://github.com/fralfaro/kaggle-courses/).
 
 &nbsp;
 &nbsp;
 
 <hr size="30">
 
-## [Python Data Science Handbook](https://fralfaro.github.io/python4ds-book/)
+### [Python Data Science Handbook](https://fralfaro.github.io/python4ds-book/)
 
 <p>
   <a href="https://fralfaro.github.io/python4ds-book/">
@@ -70,7 +72,7 @@ This is the Jupyter notebook version of the [Python Data Science Handbook](http:
 
 The text is released under the **CC-BY-NC-ND license**, and code is released under the **MIT license**. 
 
-> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/python4ds-book](https://github.com/fralfaro/python4ds-book).
+> **Note**: You can find the repository at the following link: [fralfaro/python4ds-book](https://github.com/fralfaro/python4ds-book).
 
 
 
@@ -80,7 +82,7 @@ The text is released under the **CC-BY-NC-ND license**, and code is released und
 <hr size="30">
 
 
-## [R for Data Science](https://fralfaro.github.io/r4ds-book/)
+### [R for Data Science](https://fralfaro.github.io/r4ds-book/)
 
 <p>
   <a href="https://fralfaro.github.io/r4ds-book/">
@@ -100,7 +102,33 @@ This is the Jupyter notebook version of the [R for Data Science](https://www.ore
 The text will teach you how to do data science with R: You'll learn how to get your data into R, 
 get it into the most useful structure, transform it, visualise it and model it. 
 
-> **Note**: This new documentation was developed by [fralfaro](https://github.com/fralfaro). You can find the repository at the following link: [fralfaro/r4ds-book](https://github.com/fralfaro/r4ds-book).
+> **Note**: You can find the repository at the following link: [fralfaro/r4ds-book](https://github.com/fralfaro/r4ds-book).
+
+&nbsp;
+
+&nbsp;
+
+
+## Projects
+
+### [Awesome GitHub Profile README](https://fralfaro.github.io/awesome-github-profile-readme/)
+
+<p>
+  <a href="https://fralfaro.github.io/awesome-github-profile-readme/">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png"
+      style="float:left; width:120px; height:140px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;📃 Markdown <br>
+    &nbsp;📕 4 Chapters<br>
+    &nbsp;📅 May 02, 2024 <br> <br> <br>
+  </span>
+</p>
+
+
+😎 A curated list of awesome GitHub Profile READMEs 📝.
+
+> **Note**:  You can find the repository at the following link: [fralfaro/awesome-github-profile-readme](https://github.com/fralfaro/awesome-github-profile-readme).
 
 &nbsp;
 
@@ -109,3 +137,54 @@ get it into the most useful structure, transform it, visualise it and model it.
 
 <hr size="30">
 
+### [Awesome README](https://fralfaro.github.io/awesome-readme/)
+
+<p>
+  <a href="https://fralfaro.github.io/awesome-readme/">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png"
+      style="float:left; width:120px; height:140px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;📃 Markdown <br>
+    &nbsp;📕 4 Chapters<br>
+    &nbsp;📅 Apr 22, 2024 <br> <br> <br>
+  </span>
+</p>
+
+
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+
+> **Note**:  You can find the repository at the following link: [fralfaro/awesome-readme](https://github.com/fralfaro/awesome-readme).
+
+&nbsp;
+
+&nbsp;
+
+
+<hr size="30">
+
+### [Mkdocs - catalog](https://fralfaro.github.io/catalog/)
+
+<p>
+  <a href="https://fralfaro.github.io/catalog/">
+    <img src="https://www.markdownguide.org/assets/images/tool-icons/mkdocs.png"
+      style="float:left; width:120px; height:140px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;📕 4 Chapters<br>
+    &nbsp;📅 Apr 12, 2024 <br> <br> <br>
+  </span>
+</p>
+
+
+This list contains 260 awesome open-source projects grouped into 17 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you want to add or update projects, feel free to open an [issue](https://github.com/mkdocs/catalog/issues/new/choose), submit a [pull request](https://github.com/mkdocs/catalog/pulls), or directly edit the [projects.yaml](https://github.com/mkdocs/catalog/edit/main/projects.yaml). Contributions are very welcome!
+
+> **Note**:  You can find the repository at the following link: [fralfaro/catalog](https://github.com/fralfaro/catalog).
+
+&nbsp;
+
+&nbsp;
+
+
+<hr size="30">
