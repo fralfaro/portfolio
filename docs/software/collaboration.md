@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/pandas-dev/pandas">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/270px-Pandas_mark.svg.png"
+    <img src="../../images/research/pandas.png"
       style="float:left; width:80px; height:80px;">
   </a>
   <span style="vertical-align:bottom">
@@ -29,7 +29,7 @@
 
 <p>
   <a href="https://github.com/pola-rs/polars-book">
-    <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg"
+    <img src="../../images/research/polars.png"
       style="float:left; width:120px; height:80px;">
   </a>
   <span style="vertical-align:bottom">
@@ -47,7 +47,7 @@
 
 <p>
   <a href="https://github.com/fralfaro/fastmatrix-book">
-    <img src="https://www.r-project.org/logo/Rlogo.png"
+    <img src="../../images/research/rlogo.png"
       style="float:left; width:80px; height:80px;">
   </a>
   <span style="vertical-align:bottom">
@@ -64,7 +64,7 @@
 
 <p>
   <a href="https://github.com/JSConfCL/techschool">
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png"
+    <img src="../../images/research/js.png"
       style="float:left; width:80px; height:80px;">
   </a>
   <span style="vertical-align:bottom">
@@ -81,7 +81,7 @@
 
 <p>
   <a href="https://github.com/CBravoR/AdvancedAnalyticsLabs">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+    <img src="../../images/research/gh.png"
       style="float:left; width:80px; height:80px;">
   </a>
   <span style="vertical-align:bottom">
@@ -98,7 +98,7 @@
 
 <p>
   <a href="https://github.com/yy/dviz-course">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+    <img src="../../images/research/gh.png"
       style="float:left; width:80px; height:80px;">
   </a>
   <span style="vertical-align:bottom">

@@ -36,12 +36,12 @@
 
 - title: Knowledge Hub
   content: About my Research, Talks and Students
-  image: https://www.svgrepo.com/show/13667/idea.svg
+  image: images/icons/idea.png
   url: ./research/research/
 
 - title: Projects
   content: Creative and innovative personal projects
-  image: https://cdn-icons-png.freepik.com/256/5956/5956592.png?semt=ais_hybrid
+  image: images/icons/project.png
   url: ./software/projects/
 
 - title: Documentation
@@ -52,7 +52,7 @@
 
 - title: Collaboration
   content: Support open source community 
-  image: https://cdn-icons-png.freepik.com/512/3391/3391904.png
+  image: images/icons/collab.png
   url: ./software/collaboration/
 
 
@@ -64,17 +64,17 @@
 
 - title: University Courses
   content: My courses at University
-  image: https://cdn-icons-png.flaticon.com/512/5526/5526527.png
+  image: images/icons/uni.png
   url: ./teaching/universities/
 
 - title: Personal Courses
   content: My personal courses
-  image: https://cdn-icons-png.flaticon.com/512/8521/8521795.png
+  image: images/icons/courses.png
   url: ./teaching/personal/
 
 - title: Blog
   content: Dive into our blog posts
-  image: https://cdn-icons-png.freepik.com/512/4659/4659050.png
+  image: images/icons/blog.png
   url: ./blog/posts/
 
 

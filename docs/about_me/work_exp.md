@@ -3,7 +3,7 @@
 ### Work Experience
 
 <p>
-<img src="https://s3-symbol-logo.tradingview.com/grupo-security-sa--600.png" alt="Smiley face image"
+<img src="../../images/about_me/gs.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Head of Advanced Analytics</strong> <br>
@@ -23,7 +23,7 @@ Lead the development and implementation of algorithms (Tech Department):
 <br>
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Walmart_Spark.svg/1200px-Walmart_Spark.svg.png" alt="Smiley face image"
+<img src="../../images/about_me/walmart.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Senior Data Scientist</strong> <br>
@@ -41,7 +41,7 @@ Walmart Commercial Department:
 <br>
 <hr size="30">
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banco_Ita%C3%BA_logo.svg/1011px-Banco_Ita%C3%BA_logo.svg.png" alt="Smiley face image"
+<img src="../../images/about_me/itau.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Senior Data Scientist</strong> <br>
@@ -60,7 +60,7 @@ Bank).
 <br>
 <hr size="30">
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cencosud_logo.svg/2560px-Cencosud_logo.svg.png" alt="Smiley face image"
+<img src="../../images/about_me/cenco.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
@@ -81,7 +81,7 @@ within the distribution centers.
 <br>
 <hr size="30">
  <p>
-<img src="../../images/uplanner.jpg" alt="Smiley face image"
+<img src="../../images/about_me/uplanner.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
@@ -99,7 +99,7 @@ company:
 <br>
 <hr size="30">
  <p>
-<img src="https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/7603/Ic.png" alt="Smiley face image"
+<img src="../../images/about_me/ic.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
@@ -113,7 +113,7 @@ area) applied techniques of Natural Language Processing.
 <br>
 <hr size="30">
  <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/PUCV_Escudo2016.svg/1725px-PUCV_Escudo2016.svg.png" alt="Smiley face image"
+<img src="../../images/about_me/pucv.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Researcher</strong> <br>
@@ -129,7 +129,7 @@ Researcher in charge of the following projects:
 <br>
 <hr size="30">
  <p>
-<img src="../../images/uplanner.jpg" alt="Smiley face image"
+<img src="../../images/about_me/uplanner.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Data Scientist</strong> <br>
@@ -150,7 +150,7 @@ of the company:
 ### Teaching Experience
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
+<img src="../../images/about_me/usm.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> UTFSM</strong> <br>
@@ -168,7 +168,7 @@ Analysis, Time Series, Statistical Methods, Real Analysis.
 <hr size="30">
 
 <p>
-<img src="../images/mads.png" alt="Smiley face image"
+<img src="../../images/about_me/mads.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> MADSc</strong> <br>
@@ -183,7 +183,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg/1526px-Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg.png" alt="Smiley face image"
+<img src="../../images/about_me/puc.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> DUOC UC</strong> <br>
@@ -197,7 +197,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="../../images/tripleten.png" alt="Smiley face image"
+<img src="../../images/about_me/tripleten.png" alt="Smiley face image"
 style="float:left; width:60px; height:60px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>TripleTen</strong> <br>
@@ -210,7 +210,7 @@ style="float:left; width:60px; height:60px;">
 <hr size="30">
 
 <p>
-<img src="../../images/cd_03.png" alt="Smiley face image"
+<img src="../../images/about_me/cd_03.png" alt="Smiley face image"
 style="float:left; width:60px; height:60px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coding Dojo</strong>  <br>

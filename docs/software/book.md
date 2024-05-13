@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://fralfaro.github.io/latex-manual/docs/index.html">
-    <img src="../images/sticker.png" 
+    <img src="../../images/research/latex.png" 
       style="float:left; width:120px; height:140px;">
   </a>
   <span style="vertical-align:bottom">
@@ -31,7 +31,7 @@ LaTeX is especially known for its ability to produce high-quality documents that
 
 <p>
   <a href="https://fralfaro.github.io/kaggle-courses/">
-    <img src="../images/kaggle3.png" 
+    <img src="../../images/research/kaggle3.png" 
       style="float:left; width:120px; height:140px;">
   </a>
   <span style="vertical-align:bottom">
@@ -58,7 +58,7 @@ The courses are provided at **no cost to you**, and you can now **earn certifica
 
 <p>
   <a href="https://fralfaro.github.io/python4ds-book/">
-    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP2cEphZz7Nq5FCKv6a4XKPTNW2GfpQnUrr08mvkMgzGInnxsq" 
+    <img src="../../images/research/cover_python.jpg" 
       style="float:left; width:120px; height:140px;">
   </a>
   <span style="vertical-align:bottom">
@@ -86,7 +86,7 @@ The text is released under the **CC-BY-NC-ND license**, and code is released und
 
 <p>
   <a href="https://fralfaro.github.io/r4ds-book/">
-    <img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png"
+    <img src="../../images/research/cover_r.png"
       style="float:left; width:120px; height:140px;">
   </a>
   <span style="vertical-align:bottom">
@@ -115,7 +115,7 @@ get it into the most useful structure, transform it, visualise it and model it.
 
 <p>
   <a href="https://fralfaro.github.io/wtfpython/">
-    <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f631.png"
+    <img src="../../images/research/face.png"
       style="float:left; width:120px; height:140px;">
   </a>
   <span style="vertical-align:bottom">
@@ -142,7 +142,7 @@ Exploring and understanding Python through surprising snippets.
 
 <p>
   <a href="https://fralfaro.github.io/awesome-github-profile-readme/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png"
+    <img src="../../images/research/awesome.png"
       style="float:left; width:120px; height:140px;">
   </a>
   <span style="vertical-align:bottom">
@@ -168,7 +168,7 @@ Exploring and understanding Python through surprising snippets.
 
 <p>
   <a href="https://fralfaro.github.io/awesome-readme/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png"
+    <img src="../../images/research/awesome.png"
       style="float:left; width:120px; height:140px;">
   </a>
   <span style="vertical-align:bottom">
@@ -194,7 +194,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 <p>
   <a href="https://fralfaro.github.io/catalog/">
-    <img src="https://www.markdownguide.org/assets/images/tool-icons/mkdocs.png"
+    <img src="../../images/research/mkdocs.png"
       style="float:left; width:120px; height:140px;">
   </a>
   <span style="vertical-align:bottom">

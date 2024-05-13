@@ -16,12 +16,12 @@
 ### Contact Information
 
 <p align="left"> 
-<a href="https://www.github.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="32" height="32" /></a>
-<a href="https://gitlab.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/faam" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" width="32" height="32" /></a> 
-<a href="https://www.stackoverflow.com/users/12886284/fralfaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="http://www.medium.com/@fralfaro" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" width="32" height="32" /></a>
-<a href="https://www.kaggle.com/faamds" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
+<a href="https://www.github.com/fralfaro" target="_blank" rel="noreferrer"><img src="../../images/about_me/gh.png" width="32" height="32" /></a>
+<a href="https://gitlab.com/fralfaro" target="_blank" rel="noreferrer"><img src="../../images/about_me/gitlab.png" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/faam" target="_blank" rel="noreferrer"><img src="../../images/about_me/in.png" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/12886284/fralfaro" target="_blank" rel="noreferrer"><img src="../../images/about_me/stack.png" width="32" height="32" /></a>
+<a href="http://www.medium.com/@fralfaro" target="_blank" rel="noreferrer"><img src="../../images/about_me/medium.png" width="32" height="32" /></a>
+<a href="https://www.kaggle.com/faamds" target="_blank" rel="noreferrer"><img src="../../images/about_me/kaggle.png" width="32" height="32" /></a>
 </p>
 
 

@@ -3,7 +3,7 @@
 ### Honors & Awards
 
 <p>
-<img src="https://www.postgrado.usach.cl/sites/default/files/logo-conicyt.png" alt="Smiley face image"
+<img src="../../images/about_me/conicyt.png" alt="Smiley face image"
 style="float:left; width:65px; height:52px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  CONICYT </strong> <br>
@@ -15,7 +15,7 @@ style="float:left; width:65px; height:52px;">
 <hr size="30">
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
+<img src="../../images/about_me/usm.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  UTFSM </strong> <br>
@@ -35,7 +35,7 @@ style="float:left; width:65px; height:65px;">
 
 
 <p>
-<img src="../../images/somachi_svg.svg" alt="Smiley face image"
+<img src="../../images/about_me/somachi.png" alt="Smiley face image"
 style="float:left; width:70px; height:50px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> SOMACHI</strong> <br>
@@ -48,7 +48,7 @@ style="float:left; width:70px; height:50px;">
 <hr size="30">
 
 <p>
-<img src="../../images/sochifi.png" alt="Smiley face image"
+<img src="../../images/about_me/sochifi.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> SOCHIFI </strong> <br>
@@ -61,7 +61,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="../../images/a1.png" alt="Smiley face image"
+<img src="../../images/about_me/a1.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Liceo Octavio Palma Perez</strong> <br>
@@ -79,7 +79,7 @@ style="float:left; width:65px; height:65px;">
 ### Volunteering
 
 <p>
-<img src="../images/js.png" alt="Smiley face image"
+<img src="../../images/about_me/js.png" alt="Smiley face image"
 style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Speaker</strong> <br>
@@ -89,7 +89,7 @@ style="float:left; width:91px; height:91px;">
 </p>
 
 <p>
-<img src="../images/pythonchile.png" alt="Smiley face image"
+<img src="../../images/about_me/pythonchile.png" alt="Smiley face image"
 style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coordination</strong> <br>
@@ -99,7 +99,7 @@ style="float:left; width:91px; height:91px;">
 </p>
 
 <p>
-<img src="../../images/somachi_svg.svg" alt="Smiley face image"
+<img src="../../images/about_me/somachi.png" alt="Smiley face image"
 style="float:left; width:91px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Partner</strong> <br>

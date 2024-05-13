@@ -3,7 +3,7 @@
 ### MAT281 - Applications of Mathematics in Engineering
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
+<img src="../../images/teaching/usm.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> UTFSM</strong> <br>
@@ -26,7 +26,7 @@ style="float:left; width:65px; height:65px;">
 ### Previous Courses
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
+<img src="../../images/teaching/usm.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> UTFSM </strong> <br>
@@ -36,7 +36,7 @@ style="float:left; width:65px; height:65px;">
 </p>
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" alt="Smiley face image"
+<img src="../../images/teaching/usm.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> UTFSM</strong> <br>
@@ -46,7 +46,7 @@ style="float:left; width:65px; height:65px;">
 </p>
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg/1526px-Escudo_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.svg.png" alt="Smiley face image"
+<img src="../../images/teaching/puc.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> DUOC UC </strong> <br>

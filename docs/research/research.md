@@ -3,7 +3,7 @@
 ### Research
 
 <p>
-<img src="../../images/paper.png" alt="Smiley face image"
+<img src="../../images/research/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> University Retention</strong> <br>
@@ -14,7 +14,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="../../images/paper.png" alt="Smiley face image"
+<img src="../../images/research/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Reciprocal effects: Happiness and Job Performance</strong> <br>
@@ -26,7 +26,7 @@ style="float:left; width:65px; height:65px;">
 
 
 <p>
-<img src="../../images/paper.png" alt="Smiley face image"
+<img src="../../images/research/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> University Retention - Construction Engineering</strong> <br>
@@ -37,7 +37,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="../../images/paper.png" alt="Smiley face image"
+<img src="../../images/research/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Spatial-Statistics for 3D Kriging</strong> <br>
@@ -48,7 +48,7 @@ style="float:left; width:65px; height:65px;">
 <hr size="30">
 
 <p>
-<img src="../../images/paper.png" alt="Smiley face image"
+<img src="../../images/research/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Fraud detection in drinking water consumption</strong> <br>
@@ -62,7 +62,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/icmat_intro.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -75,7 +75,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/python_excel.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -89,7 +89,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/MAT283_2024S1_talk.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -102,7 +102,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2023_talk.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -115,7 +115,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/cd_intro_ds_talk.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -128,7 +128,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/workshop_optimization_talk.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -141,7 +141,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/MeetupPythonChile_20220929_talk.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -154,7 +154,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyConLatam2022_talk.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -167,7 +167,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2022_talk.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -180,7 +180,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/FNE33_talk.pdf">
-    <img src="../../images/talk.png"
+    <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
@@ -197,7 +197,7 @@ style="float:left; width:65px; height:65px;">
 
 <p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/students/memoria_juan.pdf">
-    <img src="../../images/hat.png" alt="Smiley face image"
+    <img src="../../images/research/hat.png" alt="Smiley face image"
 style="float:left; width:90px; height:70px;">
 </a>
 <span style="vertical-align:bottom">

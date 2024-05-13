@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://github.com/fralfaro/Github-Intro">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+    <img src="../../images/research/gh.png"
       style="float:left; width:120px; height:120px;">
   </a>
   <span style="vertical-align:bottom">
@@ -31,7 +31,7 @@ to become proficient in GitHub's features effectively.
 
 <p>
   <a href="https://fralfaro.github.io/online-cv/">
-    <img src="https://cdn-icons-png.freepik.com/512/3447/3447294.png"
+    <img src="../../images/research/cv.png"
       style="float:left; width:120px; height:120px;">
   </a>
   <span style="vertical-align:bottom">
@@ -58,7 +58,7 @@ provides a seamless workflow for maintaining and updating your online resume wit
 
 <p>
   <a href="https://gitlab.com/fralfaro/cv">
-    <img src="https://cdn-icons-png.freepik.com/512/6588/6588143.png"
+    <img src="../../images/research/cv2.png"
       style="float:left; width:120px; height:120px;">
   </a>
   <span style="vertical-align:bottom">
@@ -88,7 +88,7 @@ Why?  I made this toy project as a means to:
 
 <p>
   <a href="https://fralfaro.github.io/agency-website/">
-    <img src="https://www.svgrepo.com/show/373698/jekyll.svg"
+    <img src="../../images/research/jekyll.png"
       style="float:left; width:120px; height:120px;">
   </a>
   <span style="vertical-align:bottom">
@@ -114,7 +114,7 @@ By combining the power and flexibility of Jekyll, a static site generator, with 
 
 <p>
   <a href="https://github.com/fralfaro/python_project">
-    <img src="https://www.kindpng.com/picc/b/73-731236_transparent-science-icons-png-data-science-icon-png.png"
+    <img src="../../images/research/ds.png"
       style="float:left; width:120px; height:120px;">
   </a>
   <span style="vertical-align:bottom">
@@ -138,7 +138,7 @@ It offers a meticulously structured template that encompasses various phases of 
 
 <p>
   <a href="https://fralfaro.github.io/DS-Cheat-Sheets/">
-    <img src="https://www.git-tower.com/blog/assets/img/popups/cheat-sheet-package@2x.png"
+    <img src="../../images/research/paper2.png"
       style="float:left; width:120px; height:120px;">
   </a>
   <span style="vertical-align:bottom">
@@ -168,7 +168,7 @@ a manner that aligns with their preferences and learning style.
 
 <p>
   <a href="https://fralfaro.github.io/Streamlit-Examples/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"
+    <img src="../../images/research/streamlit.png"
       style="float:left; width:120px; height:120px;">
   </a>
   <span style="vertical-align:bottom">
@@ -198,7 +198,7 @@ turn your data analysis, visualizations, and models into dynamic and engaging we
 
 <p>
   <a href="https://fralfaro.github.io/Vizzu-Examples/">
-    <img src="https://raw.githubusercontent.com/fralfaro/Vizzu-Examples/main/docs/images/vizzu_2.png"
+    <img src="../../images/research/vizzu.png"
       style="float:left; width:120px; height:120px;">
   </a>
   <span style="vertical-align:bottom">
@@ -230,7 +230,7 @@ Vizzu allows displaying different perspectives of the data that viewers can easi
 ## Python Packages
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Smiley face image"
+<img src="../../images/research/python.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Python </strong> <br>
