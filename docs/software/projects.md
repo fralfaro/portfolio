@@ -54,6 +54,36 @@ provides a seamless workflow for maintaining and updating your online resume wit
 
 <hr size="30">
 
+### [Curriculum Vitae](https://gitlab.com/fralfaro/cv)
+
+<p>
+  <a href="https://gitlab.com/fralfaro/cv">
+    <img src="https://cdn-icons-png.freepik.com/512/6588/6588143.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🦊 Gitlab <br>
+    &nbsp;📃 Mkdocs <br>
+    &nbsp;📅 Apr 15, 2024 <br> <br> 
+  </span>
+</p>
+
+
+A continuous Integration Pipeline project to get nice curricula effortlessly (with Gitlab).
+
+Why?  I made this toy project as a means to:
+
+* Version my CV
+* Automatize the process to update my curriculum
+* Learn more about Continuous Integration.
+* Learn how to use Gitlab CI/CD Pipelines
+
+
+&nbsp;
+&nbsp;
+
+<hr size="30">
+
 ### [Personal Agency Website](https://fralfaro.github.io/agency-website/)
 
 <p>

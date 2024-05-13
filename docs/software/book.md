@@ -111,6 +111,33 @@ get it into the most useful structure, transform it, visualise it and model it.
 
 ## Projects
 
+### [What the f*ck Python? 😱](https://fralfaro.github.io/wtfpython/)
+
+<p>
+  <a href="https://fralfaro.github.io/wtfpython/">
+    <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f631.png"
+      style="float:left; width:120px; height:140px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;📃 Markdown <br>
+    &nbsp;📕 2 Chapters<br>
+    &nbsp;📅 May 12, 2024 <br> <br> <br>
+  </span>
+</p>
+
+
+Exploring and understanding Python through surprising snippets.
+
+> **Note**:  You can find the repository at the following link: [fralfaro/wtfpython](https://github.com/fralfaro/wtfpython).
+
+&nbsp;
+
+&nbsp;
+
+
+<hr size="30">
+
+
 ### [Awesome GitHub Profile README](https://fralfaro.github.io/awesome-github-profile-readme/)
 
 <p>
