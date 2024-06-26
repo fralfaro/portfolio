@@ -61,6 +61,19 @@ style="float:left; width:65px; height:65px;">
 ### Talks
 
 <p>
+<a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2024_talk.pdf">
+    <img src="../../images/research/talk.png"
+      style="float:left; width:65px; height:65px;">
+</a>
+<span style="vertical-align:bottom">
+&nbsp <strong>Improve Your GitHub Profile</strong> <br>
+&nbsp  Alfaro,F., (2024). PyDay Chile.
+</span>
+</p>
+
+<hr size="30">
+
+<p>
 <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/icmat_intro.pdf">
     <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
