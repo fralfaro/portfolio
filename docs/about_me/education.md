@@ -38,7 +38,7 @@
   <span style="vertical-align:bottom">
     &nbsp;<strong>Certification  </strong><br>
     &nbsp;University Teaching<br>
-    &nbsp;UTFSM - 2023
+    &nbsp;UTFSM - 2024
   </span>
 </p>
 

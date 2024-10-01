@@ -5,12 +5,38 @@
 ### Talks
 
 <p>
+<a href="https://fralfaro.github.io/MADS-Workshops/">
+    <img src="../../images/research/talk.png"
+      style="float:left; width:65px; height:65px;">
+</a>
+<span style="vertical-align:bottom">
+&nbsp <a href="https://fralfaro.github.io/MADS-Workshops/">MADS Workshops - November 2024</a> (Soon)<br>
+&nbsp Alfaro, F., (2024). UTFSM-MADS.
+</span>
+</p>
+
+<hr size="30">
+
+<p>
 <a href="https://fralfaro.github.io/DMAT-SJ-Olimpiadas/">
     <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>USM School Mathematics Olympiad (Soon)</strong> <br>
+&nbsp <a href="https://fralfaro.github.io/DMAT-SJ-Olimpiadas/">Fun Maths with Python</a> (Soon)<br>
+&nbsp Alfaro, F., (2024). UTFSM-DMAT.
+</span>
+</p>
+
+<hr size="30">
+
+<p>
+<a href="https://fralfaro.github.io/DMAT-SJ-Olimpiadas/">
+    <img src="../../images/research/talk.png"
+      style="float:left; width:65px; height:65px;">
+</a>
+<span style="vertical-align:bottom">
+&nbsp <a href="https://fralfaro.github.io/DMAT-SJ-Olimpiadas/">Integrating Python into Mathematics Teaching</a> (Soon)<br>
 &nbsp  Alfaro,F., (2024). UTFSM-DMAT.
 </span>
 </p>
@@ -24,7 +50,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>From Numbers to Narrative (Soon) </strong>  <br>
+&nbsp <a href="https://github.com/Seth-Nut/resources/tree/main/files">From Numbers to Narrative</a> (Soon)<br>
 &nbsp  Alfaro,F., (2024). DUOC UC.
 </span>
 </p>
@@ -38,7 +64,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Understanding the Data Protection Act (Soon)</strong> <br>
+&nbsp <a href="https://github.com/Seth-Nut/resources/tree/main/files">Understanding the Data Protection Act</a> (Soon)<br>
 &nbsp  Alfaro,F., (2024). DUOC UC.
 </span>
 </p>
@@ -52,7 +78,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Perfect Prompts, Powerful Answers</strong> <br>
+&nbsp <a href="https://github.com/Seth-Nut/resources/blob/main/files/2024_09_13_chatgpt.pdf">Perfect Prompts, Powerful Answers</a><br>
 &nbsp  Alfaro,F., (2024). DUOC UC.
 </span>
 </p>
@@ -66,7 +92,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Python and Data Science</strong> <br>
+&nbsp <a href="https://pyschool.cl/">Python and Data Science</a> <br>
 &nbsp  Alfaro,F. (2024). Pyschool.
 
 </span>
@@ -81,7 +107,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Improve Your GitHub Profile</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2024_talk.pdf">Improve Your GitHub Profile</a> <br>
 &nbsp  Alfaro,F., (2024). PyDay Chile.
 </span>
 </p>
@@ -94,7 +120,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>ICMAT Profile</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/icmat_intro.pdf">ICMAT Profile</a> <br>
 &nbsp  Alfaro,F., (2024). UTFSM-DMAT.
 </span>
 </p>
@@ -107,7 +133,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Python for Excel Lovers</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/python_excel.pdf">Python for Excel Lovers</a> <br>
 &nbsp  Alfaro,F., (2024). TechSchool.
 </span>
 </p>
@@ -121,7 +147,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>University Retention</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/MAT283_2024S1_talk.pdf">University Retention</a> <br>
 &nbsp  Alfaro,F., (2024). UTFSM-DMAT.
 </span>
 </p>
@@ -134,7 +160,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Solving your first Kaggle competition</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2023_talk.pdf">Solving your first Kaggle competition</a> <br>
 &nbsp  Alfaro,F., (2023). PyDay Chile.
 </span>
 </p>
@@ -147,7 +173,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Data Science Fundamentals</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/cd_intro_ds_talk.pdf">Data Science Fundamentals</a> <br>
 &nbsp  Alfaro,F., (2023). Coding Dojo Webinar.
 </span>
 </p>
@@ -160,7 +186,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Optimization in the World of Retail</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/workshop_optimization_talk.pdf">Optimization in the World of Retail</a> <br>
 &nbsp  Alfaro,F., (2022). V-Encuentro de Optimización.
 </span>
 </p>
@@ -173,7 +199,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>TDD Introduction</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/MeetupPythonChile_20220929_talk.pdf">TDD Introduction</a> <br>
 &nbsp  Alfaro,F., (2022). Meetup Python Chile.
 </span>
 </p>
@@ -186,7 +212,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Interactive Classes with Google Colab, Mkdocs and Github Actions</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyConLatam2022_talk.pdf">Interactive Classes with Google Colab, Mkdocs and Github Actions</a> <br>
 &nbsp  Alfaro,F., (2022). Pycon LATAM.
 </span>
 </p>
@@ -199,7 +225,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Interactive Classes with Google Colab, Mkdocs and Github Actions</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/PyDayChile2022_talk.pdf">Interactive Classes with Google Colab, Mkdocs and Github Actions</a> <br>
 &nbsp  Alfaro,F., (2022). PyDay Chile.
 </span>
 </p>
@@ -212,7 +238,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Reciprocal effects: Happiness and Job Performance</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/talks/FNE33_talk.pdf">Reciprocal effects: Happiness and Job Performance</a> <br>
 &nbsp  Alfaro,F. (2018). FNE33 Congress.
 </span>
 </p>
@@ -286,7 +312,7 @@ style="float:left; width:65px; height:65px;">
 style="float:left; width:90px; height:70px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <strong>Prediction and classification of course of a bank benefit.</strong> <br>
+&nbsp <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/students/memoria_juan.pdf">Prediction and classification of course of a bank benefit.</a> <br>
 &nbsp Juan Briceño, (2022). <br>
 </span> <br>
 </p>
