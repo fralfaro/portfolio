@@ -1,6 +1,6 @@
 ## Projects
 
-### [Cybersecurity and Data Protection Laws](https://leyes-data-chile.streamlit.app/)
+### [Cybersecurity and Data Protection Laws](https://leyes-datos-chile.streamlit.app/)
 
 <p>
   <a href="https://github.com/fralfaro/st_leyes">
