@@ -1,5 +1,26 @@
 ## Projects
 
+### [Cybersecurity and Data Protection Laws](https://leyes-data-chile.streamlit.app/)
+
+<p>
+  <a href="https://github.com/fralfaro/st_leyes">
+    <img src="../../images/research/law.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python<br>
+    &nbsp;🧪 Data Science <br>
+    &nbsp;📅 Oct 01, 2024 <br> <br> 
+  </span>
+</p>
+
+The goal of this project is to present, through an interactive **Streamlit** application, the key articles of the **Cybersecurity Framework Law** and the **Personal Data Protection Law**, along with clear summaries and practical exercises, so users can learn dynamically.
+
+* You can access the interactive web application at the following link: [App](https://leyes-datos-chile.streamlit.app/).  
+* The project source code is available on the official repository: [GitHub](https://github.com/fralfaro/st_leyes).
+
+
+
 ### [Github Introduction](https://github.com/fralfaro/Github-Intro)
 
 <p>
