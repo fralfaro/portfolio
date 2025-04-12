@@ -34,6 +34,8 @@ markdown_extensions:
   - neoteroi.cards
   - neoteroi.timeline
   - neoteroi.projects
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra_css:
   - css/neoteroi-mkdocs.css
@@ -44,7 +46,8 @@ theme:
   language: en
   logo: images/yo2.png
   favicon: images/logo_fam.png
-
+  features:
+    - content.tabs.link
 
 # Plugins
 plugins:
@@ -65,8 +68,8 @@ nav:
       - Collaboration: software/collaboration.md
     - ⭐ More:
       - University Courses: teaching/universities.md
-      - Personal Courses: teaching/personal.md
-      - Blog Posts: blog/posts.md
+      - Bootcamps: teaching/bootcamps.md
+      - Resources: blog/extras.md
 
 
 

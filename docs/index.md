@@ -67,15 +67,15 @@
   image: images/icons/uni.png
   url: ./teaching/universities/
 
-- title: Personal Courses
-  content: My personal courses
+- title: Bootcamps
+  content:  DS & MLE training programs
   image: images/icons/courses.png
-  url: ./teaching/personal/
+  url: ./teaching/bootcamps/
 
-- title: Blog
-  content: Dive into our blog posts
+- title: Resources
+  content: Blog, Events, Courses
   image: images/icons/blog.png
-  url: ./blog/posts/
+  url: ./blog/extras/
 
 
 

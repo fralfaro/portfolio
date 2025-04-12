@@ -75,6 +75,39 @@
 * TensorFlow Developer
 * Deep Learning
 * Machine Learning
+* **Short Courses**: 
+    * Building and Evaluating Advanced RAG
+    * ChatGPT Prompt Engineering for Developers
+    * Functions, Tools and Agents with LangChain
+    * LangChain Chat with Your Data
+    * LangChain for LLM Application Development
+    * Attention in Transformers: Concepts and Code in PyTorch
+    * Building Systems with the ChatGPT API
+    * Building toward Computer Use with Anthropic
+    * Event-Driven Agentic Document Workflows
+    * How Transformer LLMs Work
+    * Multi AI Agent Systems with crewAI
+
+
+
+<hr size="30">
+
+<p>
+  <img src="../../images/about_me/coursera.png" alt="Smiley face image"
+    style="float:left; width:55px; height:55px;">
+  <span style="vertical-align:bottom">
+    &nbsp;<strong>Coursera</strong><br>
+    &nbsp;Online Certifications
+  </span>
+</p>
+
+* DevOps on AWS
+* Machine Learning
+* Preparing for Google Cloud Certification: Machine Learning Engineer
+* Microsoft Azure Machine Learning for Data Scientists
+* How to Manage a Remote Team
+* University Teaching
+
 
 <hr size="30">
 
@@ -108,20 +141,18 @@
 <hr size="30">
 
 <p>
-  <img src="../../images/about_me/coursera.png" alt="Smiley face image"
+  <img src="../../images/about_me/databricks.png" alt="Smiley face image"
     style="float:left; width:55px; height:55px;">
   <span style="vertical-align:bottom">
-    &nbsp;<strong>Coursera</strong><br>
+    &nbsp;<strong>Databricks</strong><br>
     &nbsp;Online Certifications
   </span>
 </p>
 
-* DevOps on AWS
-* Machine Learning
-* Preparing for Google Cloud Certification: Machine Learning Engineer
-* Microsoft Azure Machine Learning for Data Scientists
-* How to Manage a Remote Team
-* University Teaching
+* Generative AI Fundamentals
+* Lakehouse Fundamentals
+
+
 
 <br>
 

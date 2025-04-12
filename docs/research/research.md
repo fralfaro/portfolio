@@ -1,8 +1,23 @@
 ## Knowledge Hub
 
 
-
 ### Talks
+
+
+<p>
+<a href="https://sethnut.com/talks/shiny_2025/presentacion.html#/title-slide">
+    <img src="../../images/research/talk.png"
+      style="float:left; width:65px; height:65px;">
+</a>
+<span style="vertical-align:bottom">
+&nbsp <a href="https://sethnut.com/talks/shiny_2025/presentacion.html#/title-slide">From Data to Narrative: Interactive Storytelling with Shiny</a><br>
+&nbsp Alfaro, F., (2025). ShinyConf 2025.
+</span>
+</p>
+
+<hr size="30">
+
+
 
 <p>
 <a href="https://fralfaro.github.io/MADS-Workshops/">
@@ -248,12 +263,42 @@
 
 ### Research
 
+
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> University Retention</strong> <br>
-&nbsp  Alfaro,F., (2023). UTFSM.
+&nbsp <strong> SIARM: Integrated Support System for Thesis Writing</strong> <br>
+&nbsp  Alfaro,F., Olivares,P.,Villegas,D.,Canales,V. (2025). UTFSM.
+</span>
+</p>
+
+
+
+<hr size="30">
+
+<p>
+<img src="../../images/research/paper.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Study of Territorial Contextualization in Higher Education Institutions</strong> <br>
+&nbsp  Alfaro,F., Villegas,D.,Canales,V. (2025) UTFSM.
+</span>
+</p>
+
+
+
+
+
+
+<hr size="30">
+
+<p>
+<img src="../../images/research/paper.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> University Retention (Telematics Engineering)</strong> <br>
+&nbsp  Alfaro,F., Olivares,P.(2024). UTFSM.
 </span>
 </p>
 

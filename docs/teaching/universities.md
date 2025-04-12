@@ -8,7 +8,7 @@ style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> UTFSM</strong> <br>
 &nbsp Valparaiso-Santiago, Chile. <br>
-&nbsp 2019 - 2023
+&nbsp 2019 - 2024
 </span>
 </p>
 
@@ -20,7 +20,7 @@ style="float:left; width:65px; height:65px;">
 - **Academic Unit that teaches it**: Department of Mathematics.
 - **Training axis**: Applied Engineering and Integration.
 - **Information**: [file](https://github.com/fralfaro/portfolio/blob/main/docs/files/teaching/mat281.pdf).
-- **Repository**:  [2024](https://github.com/fralfaro/MAT281_2024) (current version)
+- **Repository**:  [fralfaro/MAT281](https://github.com/fralfaro/MAT281) (current version)
 
 
 ### Previous Courses
