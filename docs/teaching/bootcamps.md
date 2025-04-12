@@ -14,8 +14,8 @@ style="float:left; width:65px; height:65px;">
 
 - **Description**:  
 Bootcamp focused on the fundamentals of Data Science, using Python and SQL to solve business problems through data analysis.
-    - **Information**: [link](https://cdn2.codingdojo.com/files/data_science_course_packet.pdf)  
-    - **Notes**: [link](https://github.com/fralfaro/CodingDojo-Data-Course)
+    - **Information**: [link](https://tripleten.com/data-science/)  
+    - **Projects**: [link](https://github.com/fralfaro/Practicum-Projects)
 - **Main Topics**:
     - Data cleaning and preprocessing  
     - Exploratory Data Analysis (EDA)  
@@ -42,8 +42,8 @@ style="float:left; width:65px; height:65px;">
 
 - **Description**:  
 Advanced bootcamp covering end-to-end Data Science projects with Machine Learning techniques applied to real-world datasets.
-    - **Information**: [link](https://tripleten.com/data-science/)  
-    - **Projects**: [link](https://github.com/fralfaro/Practicum-Projects)
+    - **Information**: [link](https://cdn2.codingdojo.com/files/data_science_course_packet.pdf)  
+    - **Notes**: [link](https://github.com/fralfaro/CodingDojo-Data-Course)
 - **Main Topics**:
     - Supervised and unsupervised learning  
     - Time series forecasting  
