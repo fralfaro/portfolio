@@ -153,32 +153,50 @@ of the company:
 <img src="../../images/about_me/usm.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> UTFSM</strong> <br>
+&nbsp <strong> Universidad Técnica Federico Santa María (UTFSM)</strong> <br>
 &nbsp Valparaiso, Chile. <br>
 &nbsp 2012 - 2024
 </span>
 </p>
 
 * **Co-Adviser**. Juan Briceño. Prediction and classification of course of a bank benefit.
-* **Lecturer**. Algebra, Calculus and Applied Mathematics ( Introduction
-to Machine Learning).
+* **Lecturer**. Algebra, Calculus, Programming, Statistics Projects, Applied Mathematics.
 * **Support Teacher**. Design the material related to the exercises, quizzes and tests of the Algebra and Calculus courses.
 * **Course Assistant**: Algebra, Calculus, Statistical Inference, Regression
 Analysis, Time Series, Statistical Methods, Real Analysis.
+
 <hr size="30">
 
+
+
 <p>
-<img src="../../images/about_me/mads.png" alt="Smiley face image"
+<img src="../../images/about_me/uss.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> MADSc</strong> <br>
-&nbsp Valparaiso, Chile. <br>
-&nbsp 2023-2024
+&nbsp <strong> Universidad San Sebastián (USS)</strong> <br>
+&nbsp Santiago, Chile. <br>
+&nbsp 2025
 </span>
 </p>
 
-* **Lecturer**. Python Introduction.
+* **Lecturer**. Statistics and Data Visualization.
 * **Coordination**. Supporting in the organization (courses, website, events).
+
+<hr size="30">
+
+<p>
+<img src="../../images/about_me/um2.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Universidad Montevideo (UM)</strong> <br>
+&nbsp Montevideo, Uruguay. <br>
+&nbsp 2025
+</span>
+</p>
+
+* **Co-Adviser**. Natalia Ripa, Felipe Renom, Verónica Suárez. Predictive model for estimating house prices in Montevideo.
+* **Coordination**. Supporting in the organization (courses, website, events).
+
 
 <hr size="30">
 
