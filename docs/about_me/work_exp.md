@@ -155,7 +155,7 @@ style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Universidad Técnica Federico Santa María (UTFSM)</strong> <br>
 &nbsp Valparaiso, Chile. <br>
-&nbsp 2012 - 2024
+&nbsp 2012 - 2025
 </span>
 </p>
 
