@@ -57,7 +57,7 @@
 </p>
 <hr size="30">
 
-## [TechScholl](https://github.com/JSConfCL/techschool)
+## [TechSchool](https://github.com/JSConfCL/techschool)
 <a href="https://github.com/JSConfCL/techschool"><img alt="Link" src="https://img.shields.io/badge/Techscholl-workshop-blue" style="float:left; padding-right:10px" ></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/JSConfCL/techschool?style=social)
 ![GitHub Repo forks](https://img.shields.io/github/forks/JSConfCL/techschool?style=social)
