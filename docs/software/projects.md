@@ -1,5 +1,37 @@
 ## Projects
 
+### [Data Science Cheat Sheets](https://fralfaro.github.io/DS-Cheat-Sheets/)
+
+<p>
+  <a href="https://fralfaro.github.io/DS-Cheat-Sheets/">
+    <img src="../../images/research/paper2.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <a href="https://ds-cheat-sheets.streamlit.app/" target="_parent"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a> 
+    <br> &nbsp;🐍 Python <br>
+    &nbsp;🌐 R-Project<br>
+    &nbsp;📅 Aug 20, 2023 <br> 
+    <br> 
+  </span>
+</p>
+
+
+This repository serves as a hub for various Cheat Sheets related to 
+the field of Data Science (with Python and R). What sets these Cheat Sheets apart is their 
+multidimensional approach to enhancing the learning experience. 
+Each Cheat Sheet is made available in three distinct formats: **PDF**, **Streamlit**, and **Google Colab**.
+
+This threefold approach to guarantee that learners can interact with the content in 
+a manner that aligns with their preferences and learning style.
+
+> **Note**:  You can find the repository at the following link: [fralfaro/DS-Cheat-Sheets](https://github.com/fralfaro/DS-Cheat-Sheets).
+
+&nbsp;
+&nbsp;
+
+<hr size="30">
+
 ### [Cybersecurity and Data Protection Laws](https://leyes-datos-chile.streamlit.app/)
 
 <p>
@@ -149,36 +181,6 @@ By combining the power and flexibility of Jekyll, a static site generator, with 
 This repository serves as a comprehensive framework designed to streamline the process of executing data science projects. 
 
 It offers a meticulously structured template that encompasses various phases of project development, from initial data collection to final model deployment.
-
-&nbsp;
-&nbsp;
-
-<hr size="30">
-
-### [Data Science Cheat Sheets](https://fralfaro.github.io/DS-Cheat-Sheets/)
-
-<p>
-  <a href="https://fralfaro.github.io/DS-Cheat-Sheets/">
-    <img src="../../images/research/paper2.png"
-      style="float:left; width:120px; height:120px;">
-  </a>
-  <span style="vertical-align:bottom">
-    <br> &nbsp;🐍 Python <br>
-    &nbsp;🌐 R-Project<br>
-    &nbsp;📅 Aug 20, 2023 <br> <br> 
-  </span>
-</p>
-
-
-This repository serves as a hub for various Cheat Sheets related to 
-the field of Data Science (with Python and R). What sets these Cheat Sheets apart is their 
-multidimensional approach to enhancing the learning experience. 
-Each Cheat Sheet is made available in three distinct formats: **PDF**, **Streamlit**, and **Google Colab**.
-
-This threefold approach to guarantee that learners can interact with the content in 
-a manner that aligns with their preferences and learning style.
-
-> **Note**:  You can find the repository at the following link: [fralfaro/DS-Cheat-Sheets](https://github.com/fralfaro/DS-Cheat-Sheets).
 
 &nbsp;
 &nbsp;
