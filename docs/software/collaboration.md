@@ -106,4 +106,3 @@
     &nbsp;Data visualization course material. <br> <br><br>
   </span>
 </p>
-<hr size="30">

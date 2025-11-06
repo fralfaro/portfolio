@@ -21,6 +21,7 @@ Lead the development and implementation of algorithms (Tech Department):
 * Contributed to the formulation and development of policies related to Artificial Intelligence
 (AI).
 <br>
+<hr size="30">
 
 <p>
 <img src="../../images/about_me/walmart.png" alt="Smiley face image"
@@ -40,6 +41,7 @@ Walmart Commercial Department:
 * Lead career development plan for different Data Science profiles.
 <br>
 <hr size="30">
+
 <p>
 <img src="../../images/about_me/itau.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
@@ -59,6 +61,7 @@ Bank).
 * Lead career development plan for different Data Science profiles.
 <br>
 <hr size="30">
+
 <p>
 <img src="../../images/about_me/cenco.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
@@ -80,6 +83,7 @@ and each worker availability.
 within the distribution centers.
 <br>
 <hr size="30">
+
  <p>
 <img src="../../images/about_me/uplanner.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">

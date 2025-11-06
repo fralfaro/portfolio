@@ -25,6 +25,7 @@ LaTeX is especially known for its ability to produce high-quality documents that
 
 > **Note**: You can find the repository at the following link: [fralfaro/latex-manual](https://github.com/fralfaro/latex-manual).
 
+---
 
 ### [Kaggle Courses](https://fralfaro.github.io/kaggle-courses/)
 
@@ -49,10 +50,7 @@ We pare down complex topics to their key practical components, so you gain usabl
 The courses are provided at **no cost to you**, and you can now **earn certificates**.
 > **Note**: You can find the repository at the following link: [fralfaro/kaggle-courses](https://github.com/fralfaro/kaggle-courses/).
 
-&nbsp;
-&nbsp;
-
-<hr size="30">
+---
 
 ### [Python Data Science Handbook](https://fralfaro.github.io/python4ds-book/)
 
@@ -74,13 +72,7 @@ The text is released under the **CC-BY-NC-ND license**, and code is released und
 
 > **Note**: You can find the repository at the following link: [fralfaro/python4ds-book](https://github.com/fralfaro/python4ds-book).
 
-
-
-&nbsp;
-&nbsp;
-
-<hr size="30">
-
+---
 
 ### [R for Data Science](https://fralfaro.github.io/r4ds-book/)
 
@@ -106,7 +98,6 @@ get it into the most useful structure, transform it, visualise it and model it.
 
 &nbsp;
 
-&nbsp;
 
 
 ## Projects
@@ -130,12 +121,7 @@ Exploring and understanding Python through surprising snippets.
 
 > **Note**:  You can find the repository at the following link: [fralfaro/wtfpython](https://github.com/fralfaro/wtfpython).
 
-&nbsp;
-
-&nbsp;
-
-
-<hr size="30">
+---
 
 
 ### [Awesome GitHub Profile README](https://fralfaro.github.io/awesome-github-profile-readme/)
@@ -157,12 +143,7 @@ Exploring and understanding Python through surprising snippets.
 
 > **Note**:  You can find the repository at the following link: [fralfaro/awesome-github-profile-readme](https://github.com/fralfaro/awesome-github-profile-readme).
 
-&nbsp;
-
-&nbsp;
-
-
-<hr size="30">
+---
 
 ### [Awesome README](https://fralfaro.github.io/awesome-readme/)
 
@@ -183,12 +164,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 > **Note**:  You can find the repository at the following link: [fralfaro/awesome-readme](https://github.com/fralfaro/awesome-readme).
 
-&nbsp;
-
-&nbsp;
-
-
-<hr size="30">
+---
 
 ### [Mkdocs - catalog](https://fralfaro.github.io/catalog/)
 
@@ -209,9 +185,3 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 > **Note**:  You can find the repository at the following link: [fralfaro/catalog](https://github.com/fralfaro/catalog).
 
-&nbsp;
-
-&nbsp;
-
-
-<hr size="30">

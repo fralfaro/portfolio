@@ -27,10 +27,7 @@ a manner that aligns with their preferences and learning style.
 
 > **Note**:  You can find the repository at the following link: [fralfaro/DS-Cheat-Sheets](https://github.com/fralfaro/DS-Cheat-Sheets).
 
-&nbsp;
-&nbsp;
-
-<hr size="30">
+---
 
 ### [Cybersecurity and Data Protection Laws](https://leyes-datos-chile.streamlit.app/)
 
@@ -51,7 +48,7 @@ The goal of this project is to present, through an interactive **Streamlit** app
 * You can access the interactive web application at the following link: [App](https://leyes-datos-chile.streamlit.app/).  
 * The project source code is available on the official repository: [GitHub](https://github.com/fralfaro/st_leyes).
 
-
+---
 
 ### [Github Introduction](https://github.com/fralfaro/Github-Intro)
 
@@ -74,11 +71,7 @@ ranging from enhancing your GitHub Profile to utilizing GitHub Actions and GitHu
 The primary goal is to offer hands-on learning experiences that empower users
 to become proficient in GitHub's features effectively.
 
-
-&nbsp;
-&nbsp;
-
-<hr size="30">
+---
 
 ### [Online CV](https://fralfaro.github.io/online-cv/)
 
@@ -101,11 +94,7 @@ skills, and achievements to potential employers or collaborators.
 Mkdocs, a static site generator, combined with GitHub Actions for automated deployment,
 provides a seamless workflow for maintaining and updating your online resume with ease.
 
-
-&nbsp;
-&nbsp;
-
-<hr size="30">
+---
 
 ### [Curriculum Vitae](https://gitlab.com/fralfaro/cv)
 
@@ -132,10 +121,7 @@ Why?  I made this toy project as a means to:
 * Learn how to use Gitlab CI/CD Pipelines
 
 
-&nbsp;
-&nbsp;
-
-<hr size="30">
+---
 
 ### [Personal Agency Website](https://fralfaro.github.io/agency-website/)
 
@@ -158,10 +144,7 @@ startups, or any business looking to establish a strong online presence.
 
 By combining the power and flexibility of Jekyll, a static site generator, with the modern design elements and components of the Bootstrap framework, developers can create dynamic and responsive websites with ease.
 
-&nbsp;
-&nbsp;
-
-<hr size="30">
+---
 
 ### [Data Science project](https://github.com/fralfaro/python_project)
 
@@ -182,10 +165,7 @@ This repository serves as a comprehensive framework designed to streamline the p
 
 It offers a meticulously structured template that encompasses various phases of project development, from initial data collection to final model deployment.
 
-&nbsp;
-&nbsp;
-
-<hr size="30">
+---
 
 ### [Streamlit Examples](https://fralfaro.github.io/Streamlit-Examples/)
 
@@ -212,10 +192,7 @@ turn your data analysis, visualizations, and models into dynamic and engaging we
 > **Note:** This repository is a simplified adaptation of the [official documentation](https://streamlit.io/) in Spanish.
 
 
-&nbsp;
-&nbsp;
-
-<hr size="30">
+---
 
 ### [Vizzu Examples](https://fralfaro.github.io/Vizzu-Examples/)
 

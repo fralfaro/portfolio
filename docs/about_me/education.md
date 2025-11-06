@@ -26,9 +26,8 @@
   </span>
 </p>
 
+<hr size="30">
 
-<br>
-**Extras**
 
 <p>
   <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/magister.pdf">
