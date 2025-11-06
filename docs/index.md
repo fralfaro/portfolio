@@ -81,7 +81,7 @@
   url: ./software/collaboration/
 
 - title: Resources
-  content: Blog, Events, Courses
+  content: Blogs, events, and courses on data and education.
   image: images/icons/blog.png
   url: ./blog/extras/
 
