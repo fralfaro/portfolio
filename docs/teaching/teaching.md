@@ -77,6 +77,7 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
+---
 
 
 ## Bootcamps
@@ -107,7 +108,6 @@ Bootcamp focused on the fundamentals of Data Science, using Python and SQL to so
 
 
 
----
 
 ### Data Science & Machine Learning  
 
