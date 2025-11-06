@@ -12,7 +12,9 @@
   </span>
 </p>
 
-<hr size="30">
+---
+
+
 
 <p>
   <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/pregrado.pdf">
@@ -26,8 +28,10 @@
   </span>
 </p>
 
-<hr size="30">
+<br>
 
+
+#### Postgraduate
 
 <p>
   <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/magister.pdf">
@@ -37,7 +41,22 @@
   <span style="vertical-align:bottom">
     &nbsp;<strong>Certification  </strong><br>
     &nbsp;University Teaching<br>
-    &nbsp;UTFSM - 2024
+    &nbsp;UTFSM - 2025
+  </span>
+</p>
+
+---
+
+
+<p>
+  <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/magister.pdf">
+    <img src="../../images/about_me/uchile.gif" alt="Smiley face image"
+      style="float:left; width:90px; height:90px;">
+  </a>
+  <span style="vertical-align:bottom">
+    &nbsp;<strong>Certification  </strong><br>
+    &nbsp;Methodological and Evaluative Strategies for Labor Training<br>
+    &nbsp;UChile - 2025
   </span>
 </p>
 
