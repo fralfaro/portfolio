@@ -61,16 +61,16 @@ nav:
       - Education:  about_me/education.md
       - Experience:  about_me/work_exp.md
       - More:  about_me/awards.md
+    - 📖 Academics:
+      - Research: research/research.md
+      - Talks: research/talks.md
+      - Students: research/students.md
+      - Teaching: teaching/teaching.md
     - 🚀️ Portfolio:
-      - Knowledge Hub: research/research.md
       - Projects: software/projects.md
       - Documentation: software/book.md
       - Collaboration: software/collaboration.md
-    - ⭐ More:
-      - University Courses: teaching/universities.md
-      - Bootcamps: teaching/bootcamps.md
       - Resources: blog/extras.md
-
 
 
 

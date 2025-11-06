@@ -30,14 +30,39 @@
 
 ::/cards::
 
+
+### 📖 Academics
+
+::cards:: cols=5
+
+- title: Research
+  content: My Research work
+  image: images/icons/idea.png
+  url: ./research/research/
+
+- title: Talks & Workshops
+  content: Conferences and Seminars
+  image: images/research/talk.png
+  url: ./research/talks/
+
+- title: Students
+  content: My Students and Projects
+  image: images/research/hat.png
+  url: ./research/students/
+
+- title: Teaching
+  content: Courses and bootcamps
+  image: images/icons/book.png
+  url: ./teaching/teaching/
+
+
+
+::/cards::
+
 ### 🚀️ Portfolio
 
 ::cards:: cols=5
 
-- title: Knowledge Hub
-  content: About my Research, Talks and Students
-  image: images/icons/idea.png
-  url: ./research/research/
 
 - title: Projects
   content: Creative and innovative personal projects
@@ -55,28 +80,10 @@
   image: images/icons/collab.png
   url: ./software/collaboration/
 
-
-::/cards::
-
-### ⭐ More
-
-::cards:: cols=4
-
-- title: University Courses
-  content: My courses at University
-  image: images/icons/uni.png
-  url: ./teaching/universities/
-
-- title: Bootcamps
-  content:  DS & MLE training programs
-  image: images/icons/courses.png
-  url: ./teaching/bootcamps/
-
 - title: Resources
   content: Blog, Events, Courses
   image: images/icons/blog.png
   url: ./blog/extras/
 
-
-
 ::/cards::
+
