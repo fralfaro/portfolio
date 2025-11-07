@@ -34,7 +34,7 @@
 #### Postgraduate
 
 <p>
-  <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/magister.pdf">
+  <a href="">
     <img src="../../images/about_me/usm.png" alt="Smiley face image"
       style="float:left; width:90px; height:90px;">
   </a>
@@ -49,7 +49,7 @@
 
 
 <p>
-  <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/magister.pdf">
+  <a href="">
     <img src="../../images/about_me/uchile.gif" alt="Smiley face image"
       style="float:left; width:90px; height:90px;">
   </a>
