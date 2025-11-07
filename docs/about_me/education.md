@@ -74,9 +74,12 @@
   </span>
 </p>
 
-* Microsoft Certified: Azure Fundamentals
 * Microsoft Certified: Azure Data Engineer Associate
  Microsoft.
+* Microsoft Certified: Azure Fundamentals
+* Microsoft Certified: Microsoft Data Visualization Professional Certificate
+
+
 
 
 <hr size="30">
