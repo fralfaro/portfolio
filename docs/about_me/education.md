@@ -45,6 +45,9 @@
   </span>
 </p>
 
+
+
+
 ---
 
 
@@ -60,9 +63,26 @@
   </span>
 </p>
 
+
+
+---
+
+<p>
+  <a href="">
+    <img src="../../images/about_me/logo-sence.png" alt="Smiley face image"
+      style="float:left; width:90px; height:90px;">
+  </a>
+  <span style="vertical-align:bottom">
+    &nbsp;<strong>Certification  </strong><br>
+    &nbsp;Facilitator: PF1148 – Data Science & PF1145 – Data Analysis<br>
+    &nbsp;REUF SENCE - 2025
+  </span>
+</p>
+
 <br>
 
 ### Certifications
+
 
 
 <p>
