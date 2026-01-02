@@ -2,7 +2,6 @@
 
 <div class="card-grid">
   <div class="card">
-     <h3 style="margin-top: 0;"><a href="https://github.com/fralfaro/Github-Intro" target="_blank" style="text-decoration: none; ">Books</h3>
 
 
   <h3 style="margin-top: 0;"><a href="https://fralfaro.github.io/latex-manual/docs/index.html" target="_blank" style="text-decoration: none; ">Latex Manual</a></h3>
@@ -18,15 +17,15 @@
       </span>
     </div>
     <div style="flex: 1; min-width: 300px;">
-      <p style="margin-top: 0;">This project provides a concise introduction to <strong>LaTeX</strong>, a document composition system widely used in the academic and technical community for high-quality mathematical and technical documents.</p>
+      <p style="margin-top: 0;">This project provides a concise introduction to <strong>LaTeX</strong>, a document composition system widely used in the academic and technical community for high-quality technical documents.</p>
       <blockquote style="margin: 10px 0 0 0; padding-left: 15px; border-left: 4px solid #ccc; font-style: italic;">
         <strong>Note:</strong> Repository available at: <a href="https://github.com/fralfaro/latex-manual" target="_blank">fralfaro/latex-manual</a>.
       </blockquote>
     </div>
   </div>
+ </div>
 
-<hr>
-
+<div class="card">
   <h3 style="margin-top: 0;"><a href="https://fralfaro.github.io/kaggle-courses/" target="_blank" style="text-decoration: none; ">Kaggle Courses</a></h3>
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 0 0 auto;">
@@ -47,8 +46,8 @@
     </div>
   </div>
 
-<hr>
-
+ </div>
+<div class="card">
   <h3 style="margin-top: 0;"><a href="https://fralfaro.github.io/python4ds-book/" target="_blank" style="text-decoration: none; ">Python Data Science Handbook</a></h3>
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 0 0 auto;">
@@ -69,8 +68,10 @@
     </div>
   </div>
 
-<hr>
+ </div>
 
+
+<div class="card">
   <h3 style="margin-top: 0;"><a href="https://fralfaro.github.io/r4ds-book/" target="_blank" style="text-decoration: none; ">R for Data Science</a></h3>
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 0 0 auto;">
@@ -93,12 +94,12 @@
 
 
 
+
   </div>
 
     <div class="card">
-     <h3 style="margin-top: 0;"><a href="https://github.com/fralfaro/Github-Intro" target="_blank" style="text-decoration: none; ">Projects</h3>
 
-  <h3 style="margin-top: 0;"><a href="https://fralfaro.github.io/wtfpython/" target="_blank" style="text-decoration: none; ">What the f*ck Python? 😱</a></h3>
+  <h3 style="margin-top: 0;"><a href="https://fralfaro.github.io/wtfpython/" target="_blank" style="text-decoration: none; ">What the f*ck Python?</a></h3>
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 0 0 auto;">
       <a href="https://fralfaro.github.io/wtfpython/"><img src="../../images/research/face.png" style="width: 120px; height: 140px; border-radius: 8px; display: block; object-fit: cover;"></a>
@@ -111,15 +112,17 @@
       </span>
     </div>
     <div style="flex: 1; min-width: 300px;">
-      <p style="margin-top: 0;">Exploring and understanding Python through surprising and tricky snippets to master the nuances of the language.</p> <br>
+      <p style="margin-top: 0;">Exploring and understanding Python through surprising and tricky snippets to master the nuances of the language.</p> 
       <blockquote style="margin: 10px 0 0 0; padding-left: 15px; border-left: 4px solid #ccc; font-style: italic;">
         <strong>Note:</strong> Repository available at: <a href="https://github.com/fralfaro/wtfpython" target="_blank">fralfaro/wtfpython</a>.
       </blockquote>
     </div>
+  </div> 
+
   </div>
+  
 
-  <hr>
-
+    <div class="card">
 
   <h3 style="margin-top: 0;"><a href="https://fralfaro.github.io/awesome-github-profile-readme/" target="_blank" style="text-decoration: none; ">Awesome GitHub Profile README</a></h3>
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -134,15 +137,18 @@
       </span>
     </div>
     <div style="flex: 1; min-width: 300px;">
-      <p style="margin-top: 0;">😎 A curated list of awesome GitHub Profile READMEs 📝 to inspire your personal profile design.</p> <br>
+      <p style="margin-top: 0;">😎 A curated list of awesome GitHub Profile READMEs 📝 to inspire your personal profile design.</p>
       <blockquote style="margin: 10px 0 0 0; padding-left: 15px; border-left: 4px solid #ccc; font-style: italic;">
         <strong>Note:</strong> Repository available at: <a href="https://github.com/fralfaro/awesome-github-profile-readme" target="_blank">fralfaro/awesome-github-profile-readme</a>.
       </blockquote>
     </div>
   </div>
 
-<hr>
+</div>
 
+
+
+  <div class="card">
   <h3 style="margin-top: 0;"><a href="https://fralfaro.github.io/catalog/" target="_blank" style="text-decoration: none; ">Mkdocs - catalog</a></h3>
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 0 0 auto;">
@@ -163,7 +169,7 @@
     </div>
   </div>
 
-    <hr>
+    
     
   </div>
   
