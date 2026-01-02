@@ -4,7 +4,7 @@
 <div class="card-grid">
   <div class="card">
     <h3 style="color: white; margin-top: 0;">University Courses</h3>
-    <h4>MAT281 - Applications of Mathematics in Engineering</h4>
+    <h4>MAT281 - Applications of Mathematics</h4>
 
 <p>
 <img src="../../images/teaching/usm.png" alt="Smiley face image"
