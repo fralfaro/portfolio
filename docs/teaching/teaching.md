@@ -12,7 +12,7 @@ style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> UTFSM</strong> <br>
 &nbsp Valparaiso-Santiago, Chile. <br>
-&nbsp 2019 - 2025
+&nbsp 2019 - 2026
 </span>
 </p>
 
@@ -100,6 +100,34 @@ style="float:left; width:65px; height:65px;">
  <div class="card">
     <h3 style="color: white; margin-top: 0;">Bootcamps</h3>
 
+
+    <h4>Data Analysis</h4>
+
+    <p style="overflow: auto;">
+        <img src="../../images/about_me/kibernum.png" alt="TripleTen Logo" style="float:left; width:65px; height:65px;">
+        <span style="vertical-align:bottom">
+            &nbsp; <strong>Kibernum IT Academy</strong> <br>
+            &nbsp; Santiago, Chile. <br>
+            &nbsp; 2025 - 2026
+        </span>
+    </p>
+
+<ul>
+    <li>
+        <strong>Description:</strong> Bootcamp focused on the fundamentals of Data Analysis, using Excel, Python, and SQL to support data-driven decision making.
+    </li>
+    <li>
+        <strong>Main Topics:</strong>
+        <ul>
+            <li>Data analysis with Excel (formulas, pivot tables, dashboards)</li>
+            <li>Data cleaning and preprocessing</li>
+            <li>Exploratory Data Analysis (EDA)</li>
+            <li>Data visualization with Python</li>
+            <li>SQL fundamentals and Tableau basics</li>
+        </ul>
+    </li>
+</ul>
+
     <h4>Data Science</h4>
 
     <p style="overflow: auto;">
@@ -113,10 +141,7 @@ style="float:left; width:65px; height:65px;">
 
     <ul>
         <li><strong>Description:</strong> Bootcamp focused on the fundamentals of Data Science, using Python and SQL to solve business problems through data analysis.
-            <ul>
-                <li><strong>Information:</strong> <a href="https://tripleten.com/data-science/" target="_blank">link</a></li>
-                <li><strong>Projects:</strong> <a href="https://github.com/fralfaro/Practicum-Projects" target="_blank">link</a></li>
-            </ul>
+
         </li>
         <li><strong>Main Topics:</strong>
             <ul>
@@ -129,7 +154,7 @@ style="float:left; width:65px; height:65px;">
         </li>
     </ul>
 
-    <h4>Data Science & Machine Learning</h4>
+    <h4>Data Science</h4>
 
     <p style="overflow: auto;">
         <img src="../../images/about_me/cd_03.png" alt="Coding Dojo Logo" style="float:left; width:65px; height:65px;">
@@ -141,11 +166,8 @@ style="float:left; width:65px; height:65px;">
     </p>
 
     <ul>
-        <li><strong>Description:</strong> Advanced bootcamp covering end-to-end Data Science projects with Machine Learning techniques applied to real-world datasets.
-            <ul>
-                <li><strong>Information:</strong> <a href="https://cdn2.codingdojo.com/files/data_science_course_packet.pdf" target="_blank">link</a></li>
-                <li><strong>Notes:</strong> <a href="https://github.com/fralfaro/CodingDojo-Data-Course" target="_blank">link</a></li>
-            </ul>
+        <li><strong>Description:</strong> Bootcamp  focused on end-to-end Data Science projects with Machine Learning techniques applied to real-world.
+
         </li>
         <li><strong>Main Topics:</strong>
             <ul>

@@ -117,7 +117,7 @@
 <ul>
 <li>Microsoft Certified: Azure Fundamentals </li>
 <li>Microsoft Certified: Azure Data Engineer Associate Microsoft</li>
-<li>Microsoft Certified: Microsoft Data Visualization Professional Certificate</li>
+<li>Microsoft Certified: Microsoft Data Visualization Certificate</li>
 </ul>
 
 
