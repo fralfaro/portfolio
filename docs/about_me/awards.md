@@ -1,8 +1,11 @@
 ## More
 
-### Honors & Awards
+<div class="card-grid">
 
-<p>
+  <div class="card">
+  <h3 style="color: white; margin-top: 0;">Honors & Awards</h3>
+
+  <p>
 <img src="../../images/about_me/conicyt.png" alt="Smiley face image"
 style="float:left; width:65px; height:52px;">
 <span style="vertical-align:bottom">
@@ -11,7 +14,7 @@ style="float:left; width:65px; height:52px;">
 </span>
 </p>
 
-* National Master's Scholarship
+National Master's Scholarship
 <hr size="30">
 
 <p>
@@ -23,10 +26,8 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
-* Award: Best student (Class of 2011)
-* Award: Best student (Statistic Area)
-* Honors: Honor Roll
-* Scholarship: Academic Excellence
+Award: Best student (Class of 2011), Award: Best student (Statistic Area),<br>
+Honors: Honor Roll, Scholarship: Academic Excellence
 
 
 <hr size="30">
@@ -43,7 +44,7 @@ style="float:left; width:70px; height:50px;">
 </span>
 </p>
 
-* Bronze Medal (National Math Olympiad)
+Bronze Medal (National Math Olympiad)
 
 <hr size="30">
 
@@ -56,7 +57,7 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
-* Participation (National Physics Olympiad)
+Participation (National Physics Olympiad)
 
 <hr size="30">
 
@@ -70,23 +71,11 @@ style="float:left; width:65px; height:65px;">
 </p>
 
 
-* Award: Best Scientist
+Award: Best Scientist
 
-
-<br>
-
-
-### Volunteering
-
-<p>
-<img src="../../images/about_me/js.png" alt="Smiley face image"
-style="float:left; width:91px; height:91px;">
-<span style="vertical-align:bottom">
-&nbsp <strong> Speaker</strong> <br>
-&nbsp Java Script Chile <br>
-&nbsp 2024 <br><br>
-</span>
-</p>
+  </div>
+  <div class="card">
+  <h3 style="color: white; margin-top: 0;">Volunteering</h3>
 
 <p>
 <img src="../../images/about_me/pythonchile.png" alt="Smiley face image"
@@ -94,9 +83,53 @@ style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coordination</strong> <br>
 &nbsp Python Chile <br>
-&nbsp 2022 <br><br>
+&nbsp 2022 - 2026
 </span>
 </p>
+
+
+<hr size="30">
+
+
+<p>
+<img src="../../images/about_me/techschool.png" alt="Smiley face image"
+style="float:left; width:91px; height:91px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Coordination</strong> <br>
+&nbsp Techschool Latam<br>
+&nbsp 2025 - 2026 
+</span>
+</p>
+
+<hr size="30">
+
+
+<p>
+<img src="../../images/about_me/js.png" alt="Smiley face image"
+style="float:left; width:91px; height:91px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Speaker</strong> <br>
+&nbsp Java Script Chile <br>
+&nbsp 2024 
+</span>
+</p>
+
+
+<hr size="30">
+
+
+<p>
+<img src="../../images/about_me/pythonchile.png" alt="Smiley face image"
+style="float:left; width:91px; height:91px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Coordination</strong> <br>
+&nbsp Python Chile <br>
+&nbsp 2022 
+</span>
+</p>
+
+<hr size="30">
+
 
 <p>
 <img src="../../images/about_me/somachi.png" alt="Smiley face image"
@@ -107,3 +140,13 @@ style="float:left; width:91px; height:65px;">
 &nbsp 2022
 </span>
 </p>
+
+
+
+  </div>
+
+</div>
+
+
+
+

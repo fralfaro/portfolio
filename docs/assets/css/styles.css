@@ -1,0 +1,197 @@
+/* Paleta Dracula para MkDocs */
+:root {
+  --dracula-bg: #282a36;
+  --dracula-current: #44475a;
+  --dracula-fg: #f8f8f2;
+  --dracula-comment: #6272a4;
+  --dracula-cyan: #8be9fd;
+  --dracula-green: #50fa7b;
+  --dracula-orange: #ffb86c;
+  --dracula-pink: #ff79c6;
+  --dracula-purple: #bd93f9;
+  --dracula-red: #ff5555;
+  --dracula-yellow: #f1fa8c;
+}
+
+/* Layout general */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--dracula-bg);
+  background-attachment: fixed;
+  color: var(--dracula-fg);
+}
+
+main.content {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  max-width: 980px;
+  margin-inline: auto;
+}
+
+main.content h1,
+main.content h2,
+main.content h3 {
+  color: var(--dracula-purple);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+main.content p {
+  line-height: 1.7;
+  color: var(--dracula-fg);
+}
+
+/* Navegación superior (MkDocs) */
+.md-header {
+  background-color: #191a21 !important; /* Un tono más oscuro que el bg */
+  border-bottom: 1px solid var(--dracula-comment);
+}
+
+/* Enlaces */
+a {
+  color: var(--dracula-fg);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: var(--dracula-pink);
+  text-decoration: underline;
+}
+
+/* Barra lateral / TOC */
+.md-sidebar--secondary #TOC, 
+#quarto-margin-sidebar #TOC {
+  background: var(--dracula-current);
+  border-radius: 1rem;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.4);
+  border: 1px solid var(--dracula-comment);
+}
+
+/* Hero / secciones principales */
+.content .home-hero {
+  position: relative;
+  background: var(--dracula-current);
+  border-radius: 1.5rem;
+  padding: 1.9rem 1.7rem;
+  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.3);
+  border-left: 4px solid var(--dracula-pink);
+  margin-bottom: 2.5rem;
+}
+
+.hero-photo {
+  border: 4px solid var(--dracula-purple);
+  box-shadow: 0 18px 35px rgba(0, 0, 0, 0.5);
+}
+
+/* Tarjetas */
+.card {
+  background: var(--dracula-current);
+  border-radius: 1rem;
+  padding: 1rem 1.3rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--dracula-comment);
+  transition: transform 180ms ease-out, border-color 180ms ease-out;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  border-color: var(--dracula-green);
+  box-shadow: 0 22px 45px rgba(0, 0, 0, 0.4);
+}
+
+/* Badges / etiquetas */
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(189, 147, 249, 0.2); /* Purple transparente */
+  color: var(--dracula-purple);
+  border: 1px solid var(--dracula-purple);
+  margin-right: 0.3rem;
+}
+
+.card .badge:nth-of-type(2) {
+  background: rgba(255, 121, 198, 0.2); /* Pink */
+  color: var(--dracula-pink);
+  border-color: var(--dracula-pink);
+}
+
+.card .badge:nth-of-type(3) {
+  background: rgba(80, 250, 123, 0.2); /* Green */
+  color: var(--dracula-green);
+  border-color: var(--dracula-green);
+}
+
+/* Switch de idioma */
+.lang-switch {
+  background: #191a21;
+  color: var(--dracula-fg);
+  border: 1px solid var(--dracula-comment);
+}
+
+.lang-switch button.active {
+  background: var(--dracula-purple);
+  color: #ffffff;
+  border-color: var(--dracula-purple);
+}
+
+/* Detalles (Accordion) */
+.lang-section {
+  background: var(--dracula-current);
+  border: 1px solid var(--dracula-comment);
+}
+
+.lang-summary {
+  background: #383a59; /* Un intermedio */
+  color: var(--dracula-green);
+}
+
+details[open] .lang-summary {
+  background: var(--dracula-current);
+  border-bottom: 1px solid var(--dracula-comment);
+}
+
+.talk-row {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.talk-left {
+  width: 180px;
+  flex-shrink: 0;
+  text-align: left;
+}
+
+.talk-left img {
+  width: 80px;
+  height: auto;
+  margin-bottom: 0.75rem;
+}
+
+.talk-tags {
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.talk-tags div {
+  margin-top: 0.25rem;
+}
+
+.talk-right {
+  flex: 1;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .talk-row {
+    flex-direction: column;
+  }
+
+  .talk-left {
+    width: 100%;
+  }
+}

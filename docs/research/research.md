@@ -1,5 +1,9 @@
 ### Research
 
+<div class="card-grid">
+
+  <div class="card">
+
 
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
@@ -12,7 +16,6 @@ style="float:left; width:65px; height:65px;">
 
 
 
-<hr size="30">
 
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
@@ -23,7 +26,6 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
-<hr size="30">
 
 
 <p>
@@ -37,7 +39,6 @@ style="float:left; width:65px; height:65px;">
 
 
 
-<hr size="30">
 
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
@@ -48,7 +49,6 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
-<hr size="30">
 
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
@@ -59,7 +59,6 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
-<hr size="30">
 
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
@@ -70,7 +69,6 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
-<hr size="30">
 
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
@@ -81,7 +79,6 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
-<hr size="30">
 
 
 <p>
@@ -93,7 +90,6 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
-<hr size="30">
 
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
@@ -104,7 +100,6 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
  
-<hr size="30">
 
 <p>
 <img src="../../images/research/paper.png" alt="Smiley face image"
@@ -119,4 +114,11 @@ style="float:left; width:65px; height:65px;">
 
 
 
+
+
+
+
+  </div>
+
+</div>
 

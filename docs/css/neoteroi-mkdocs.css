@@ -1397,3 +1397,54 @@ details .nt-timeline.vertical.center:not(.alternate) .nt-timeline-item .nt-timel
   box-shadow: 0 0.05rem 0 var(--md-default-bg-color) inset;
   transition: background-color 125ms;
 }
+
+
+/* Tarjetas */
+.card-grid {
+  display: grid;
+  gap: 1.2rem;
+}
+
+@media (min-width: 1200px) {
+  .card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.card {
+  background: #282a36;              /* Dracula background */
+  border-radius: 1rem;
+  padding: 1rem 1.3rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.45);
+  border: 1px solid #44475a;        /* Dracula current line */
+  color: #f8f8f2;                   /* Dracula foreground */
+  transition: transform 180ms ease-out,
+              box-shadow 180ms ease-out,
+              border-color 180ms ease-out;
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #bd93f9;                   /* Dracula purple */
+}
+
+.card p {
+  color: #f8f8f2;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 22px 45px rgba(0, 0, 0, 0.7);
+  border-color: #bd93f9;
+}
+
+/* Badges – Dracula palette */
+.card .badge:nth-of-type(2) {
+  background: rgba(255, 121, 198, 0.18); /* pink */
+  color: #ff79c6;
+}
+
+.card .badge:nth-of-type(3) {
+  background: rgba(80, 250, 123, 0.18);  /* green */
+  color: #50fa7b;
+}

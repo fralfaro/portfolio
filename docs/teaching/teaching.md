@@ -1,6 +1,10 @@
-## University Courses
 
-### MAT281 - Applications of Mathematics in Engineering
+## Teaching
+
+<div class="card-grid">
+  <div class="card">
+    <h3 style="color: white; margin-top: 0;">University Courses</h3>
+    <h4>MAT281 - Applications of Mathematics in Engineering</h4>
 
 <p>
 <img src="../../images/teaching/usm.png" alt="Smiley face image"
@@ -12,26 +16,41 @@ style="float:left; width:65px; height:65px;">
 </span>
 </p>
 
+<ul>
+        <li><strong>University:</strong> Universidad Técnica Federico Santa María (UTFSM).</li>
+        <li><strong>Course:</strong> Applications of Mathematics in Engineering.</li>
+        <li><strong>Course abbreviation:</strong> MAT281.</li>
+        <li><strong>Prerequisites:</strong> MAT270, MAT275, ELO320.</li>
+        <li><strong>Academic Unit that teaches it:</strong> Department of Mathematics.</li>
+        <li><strong>Training axis:</strong> Applied Engineering and Integration.</li>
+        <li><strong>Information:</strong> <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/teaching/mat281.pdf" target="_blank">file</a>.</li>
+        <li><strong>Repository:</strong> <a href="https://github.com/fralfaro/MAT281" target="_blank">fralfaro/MAT281</a> (current version)</li>
+    </ul>
 
-- **University**: Universidad Técnica Federico Santa María (UTFSM).
-- **Course**: Applications of Mathematics in Engineering.
-- **Course abbreviation**: MAT281.
-- **Prerequisites**: MAT270, MAT275, ELO320.
-- **Academic Unit that teaches it**: Department of Mathematics.
-- **Training axis**: Applied Engineering and Integration.
-- **Information**: [file](https://github.com/fralfaro/portfolio/blob/main/docs/files/teaching/mat281.pdf).
-- **Repository**:  [fralfaro/MAT281](https://github.com/fralfaro/MAT281) (current version)
+     
+
+    <h4>Previous Courses</h4>
 
 
-### Previous Courses
+
 
 <p>
-<img src="../../images/teaching/uss.png" alt="Smiley face image"
+<img src="../../images/about_me/pucv.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> USS (Postgraduate Studies) </strong> <br>
+&nbsp <strong> PUCV (Postgraduate Studies) </strong> <br>
 &nbsp Diploma in Data Science:  Data Visualization <br>
-&nbsp 2025
+&nbsp 2026
+</span>
+</p>
+
+<p>
+<img src="../../images/teaching/usm.png" alt="Smiley face image"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> UTFSM </strong> <br>
+&nbsp ICS294 - Econometrics <br>
+&nbsp 2026
 </span>
 </p>
 
@@ -76,61 +95,72 @@ style="float:left; width:65px; height:65px;">
 &nbsp 2022
 </span>
 </p>
+  </div>
 
----
+ <div class="card">
+    <h3 style="color: white; margin-top: 0;">Bootcamps</h3>
+
+    <h4>Data Science</h4>
+
+    <p style="overflow: auto;">
+        <img src="../../images/about_me/tripleten.png" alt="TripleTen Logo" style="float:left; width:65px; height:65px;">
+        <span style="vertical-align:bottom">
+            &nbsp; <strong>TripleTen</strong> <br>
+            &nbsp; Santiago, Chile. <br>
+            &nbsp; 2022 - 2023
+        </span>
+    </p>
+
+    <ul>
+        <li><strong>Description:</strong> Bootcamp focused on the fundamentals of Data Science, using Python and SQL to solve business problems through data analysis.
+            <ul>
+                <li><strong>Information:</strong> <a href="https://tripleten.com/data-science/" target="_blank">link</a></li>
+                <li><strong>Projects:</strong> <a href="https://github.com/fralfaro/Practicum-Projects" target="_blank">link</a></li>
+            </ul>
+        </li>
+        <li><strong>Main Topics:</strong>
+            <ul>
+                <li>Data cleaning and preprocessing</li>
+                <li>Exploratory Data Analysis (EDA)</li>
+                <li>Data visualization with Python</li>
+                <li>SQL for data extraction and manipulation</li>
+                <li>Machine Learning and Deep Learning</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h4>Data Science & Machine Learning</h4>
+
+    <p style="overflow: auto;">
+        <img src="../../images/about_me/cd_03.png" alt="Coding Dojo Logo" style="float:left; width:65px; height:65px;">
+        <span style="vertical-align:bottom">
+            &nbsp; <strong>Coding Dojo</strong> <br>
+            &nbsp; Santiago, Chile. <br>
+            &nbsp; 2022 - 2023
+        </span>
+    </p>
+
+    <ul>
+        <li><strong>Description:</strong> Advanced bootcamp covering end-to-end Data Science projects with Machine Learning techniques applied to real-world datasets.
+            <ul>
+                <li><strong>Information:</strong> <a href="https://cdn2.codingdojo.com/files/data_science_course_packet.pdf" target="_blank">link</a></li>
+                <li><strong>Notes:</strong> <a href="https://github.com/fralfaro/CodingDojo-Data-Course" target="_blank">link</a></li>
+            </ul>
+        </li>
+        <li><strong>Main Topics:</strong>
+            <ul>
+                <li>Supervised and unsupervised learning</li>
+                <li>Time series forecasting</li>
+                <li>Natural Language Processing (NLP)</li>
+                <li>Deep Learning fundamentals</li>
+                <li>End-to-end project development</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+</div>
 
 
-## Bootcamps
 
-### Data Science  
-
-<p>
-<img src="../../images/about_me/tripleten.png" alt="TripleTen Logo"
-style="float:left; width:65px; height:65px;">
-<span style="vertical-align:bottom">
-&nbsp <strong>TripleTen</strong> <br>
-&nbsp Santiago, Chile. <br>
-&nbsp 2022 - 2023
-</span>
-</p>
-
-- **Description**:  
-Bootcamp focused on the fundamentals of Data Science, using Python and SQL to solve business problems through data analysis.
-    - **Information**: [link](https://tripleten.com/data-science/)  
-    - **Projects**: [link](https://github.com/fralfaro/Practicum-Projects)
-- **Main Topics**:
-    - Data cleaning and preprocessing  
-    - Exploratory Data Analysis (EDA)  
-    - Data visualization with Python  
-    - SQL for data extraction and manipulation  
-    - Machine Learning  
-    - Deep Learning fundamentals 
-
-
-
-
-### Data Science & Machine Learning  
-
-<p>
-<img src="../../images/about_me/cd_03.png" alt="Coding Dojo Logo"
-style="float:left; width:65px; height:65px;">
-<span style="vertical-align:bottom">
-&nbsp <strong>Coding Dojo</strong> <br>
-&nbsp Santiago, Chile. <br>
-&nbsp 2022 - 2023
-</span>
-</p>
-
-- **Description**:  
-Advanced bootcamp covering end-to-end Data Science projects with Machine Learning techniques applied to real-world datasets.
-    - **Information**: [link](https://cdn2.codingdojo.com/files/data_science_course_packet.pdf)  
-    - **Notes**: [link](https://github.com/fralfaro/CodingDojo-Data-Course)
-- **Main Topics**:
-    - Supervised and unsupervised learning  
-    - Time series forecasting  
-    - Natural Language Processing (NLP)  
-    - Deep Learning fundamentals  
-    - End-to-end project development  
-  
 
 

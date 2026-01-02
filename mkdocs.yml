@@ -39,6 +39,7 @@ markdown_extensions:
 
 extra_css:
   - css/neoteroi-mkdocs.css
+  - assets/css/styles.css
 
 # Theme
 theme:
@@ -48,6 +49,8 @@ theme:
   favicon: images/logo_fam.png
   features:
     - content.tabs.link
+
+
 
 # Plugins
 plugins:
@@ -76,3 +79,24 @@ nav:
 
 
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fralfaro
+      name: GitHub
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/francisco-alfaro/
+      name: LinkedIn
+
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?user=XXXX
+      name: Google Scholar
+
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0000-0000-0000
+      name: ORCID
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:francisco.alfaro@security.cl
+      name: Email

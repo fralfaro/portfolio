@@ -1,6 +1,23 @@
 ### Education
 
-<p>
+
+<div class="card-grid">
+
+  <div class="card">
+
+    <p>
+  <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/magister.pdf">
+    <img src="../../images/about_me/usm.png" alt="Smiley face image"
+      style="float:left; width:90px; height:90px;">
+  </a>
+  <span style="vertical-align:bottom">
+    &nbsp;<strong>Master’s Degree </strong><br>
+    &nbsp;PhD in Electronics<br>
+    &nbsp;UTFSM - 2029
+  </span>
+</p>
+
+  <p>
   <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/magister.pdf">
     <img src="../../images/about_me/usm.png" alt="Smiley face image"
       style="float:left; width:90px; height:90px;">
@@ -11,10 +28,6 @@
     &nbsp;UTFSM - 2019
   </span>
 </p>
-
----
-
-
 
 <p>
   <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/pregrado.pdf">
@@ -28,10 +41,11 @@
   </span>
 </p>
 
-<br>
 
 
-#### Postgraduate
+  </div>
+
+  <div class="card">
 
 <p>
   <a href="">
@@ -44,12 +58,6 @@
     &nbsp;UTFSM - 2025
   </span>
 </p>
-
-
-
-
----
-
 
 <p>
   <a href="">
@@ -65,7 +73,6 @@
 
 
 
----
 
 <p>
   <a href="">
@@ -79,12 +86,24 @@
   </span>
 </p>
 
-<br>
+
+   </div>
+
+</div>
+
+
+
+
+
+
+
 
 ### Certifications
 
 
+<div class="card-grid">
 
+  <div class="card">
 <p>
   <img src="../../images/about_me/microsoft.png" alt="Microsoft logo"
     style="float:left; width:55px; height:55px;">
@@ -94,14 +113,15 @@
   </span>
 </p>
 
-* Microsoft Certified: Azure Fundamentals
-* Microsoft Certified: Azure Data Engineer Associate Microsoft
-* Microsoft Certified: Microsoft Data Visualization Professional Certificate
+
+<ul>
+<li>Microsoft Certified: Azure Fundamentals </li>
+<li>Microsoft Certified: Azure Data Engineer Associate Microsoft</li>
+<li>Microsoft Certified: Microsoft Data Visualization Professional Certificate</li>
+</ul>
 
 
 
-
-<hr size="30">
 
 <p>
   <img src="../../images/about_me/dlai.png" alt="Smiley face image"
@@ -112,44 +132,12 @@
   </span>
 </p>
 
-* TensorFlow Developer
-* Deep Learning
-* Machine Learning
-* **Short Courses**: 
-    * Building and Evaluating Advanced RAG
-    * ChatGPT Prompt Engineering for Developers
-    * Functions, Tools and Agents with LangChain
-    * LangChain Chat with Your Data
-    * LangChain for LLM Application Development
-    * Attention in Transformers: Concepts and Code in PyTorch
-    * Building Systems with the ChatGPT API
-    * Building toward Computer Use with Anthropic
-    * Event-Driven Agentic Document Workflows
-    * How Transformer LLMs Work
-    * Multi AI Agent Systems with crewAI
 
-
-
-<hr size="30">
-
-<p>
-  <img src="../../images/about_me/coursera.png" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
-  <span style="vertical-align:bottom">
-    &nbsp;<strong>Coursera</strong><br>
-    &nbsp;Online Certifications
-  </span>
-</p>
-
-* DevOps on AWS
-* Machine Learning
-* Preparing for Google Cloud Certification: Machine Learning Engineer
-* Microsoft Azure Machine Learning for Data Scientists
-* How to Manage a Remote Team
-* University Teaching
-
-
-<hr size="30">
+<ul>
+<li>TensorFlow Developer </li>
+<li>Deep Learning</li>
+<li>Machine Learning</li>
+</ul>
 
 
 <p>
@@ -161,10 +149,40 @@
   </span>
 </p>
 
-* Docker Mastery: with Kubernetes + Swarm from a Docker Captain
-* Taming Big Data with Apache Spark and Python - Hands On!
+<ul>
+<li>Docker Mastery: with Kubernetes + Swarm from a Docker Captain </li>
+<li>Taming Big Data with Apache Spark and Python - Hands On! </li>
+</ul>
 
-<hr size="30">
+
+
+
+
+
+
+  </div>
+
+  <div class="card">
+
+
+<p>
+  <img src="../../images/about_me/coursera.png" alt="Smiley face image"
+    style="float:left; width:55px; height:55px;">
+  <span style="vertical-align:bottom">
+    &nbsp;<strong>Coursera</strong><br>
+    &nbsp;Online Certifications
+  </span>
+</p>
+
+
+<ul>
+<li>DevOps on AWS</li>
+<li>Machine Learning</li>
+<li>How to Manage a Remote Team</li>
+<li>University Teaching</li>
+
+</ul>
+
 
 <p>
   <img src="../../images/about_me/gitlab.png" alt="Smiley face image"
@@ -175,10 +193,15 @@
   </span>
 </p>
 
-* Gitlab 101
-* Gitlab 201
+<ul>
+<li>Gitlab 101</li>
+<li>Gitlab 201</li>
+</ul>
 
-<hr size="30">
+
+
+
+
 
 <p>
   <img src="../../images/about_me/databricks.png" alt="Smiley face image"
@@ -189,26 +212,34 @@
   </span>
 </p>
 
-* Generative AI Fundamentals
-* Lakehouse Fundamentals
+<ul>
+<li>Generative AI Fundamentals</li>
+<li>Lakehouse Fundamentals</li>
+</ul>
 
 
 
-<br>
+
+   </div>
+
+</div>
+
+
+
+
+
 
 ### Stack
 
-#### Languages & Frameworks
-
+<div class="card-grid">
+  <div class="card">
 <p>
 <img alt="Link" src="../../images/about_me/python.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/rlogo.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/jupyter.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/databricks.png" style="float:left; padding-right:10px " width="50" height="50" >
 </p>
-<br>
-&nbsp;
-&nbsp;
+
 
 <p>
 <img alt="Link" src="../../images/about_me/c.png" style="float:left; padding-right:10px " width="50" height="50" >
@@ -216,33 +247,24 @@
 <img alt="Link" src="../../images/about_me/docker.png" style="float:left; padding-right:10px " width="55" height="55" >
 <img alt="Link" src="../../images/about_me/fastapi.png" style="float:left; padding-right:10px " width="55" height="55" >
 </p>
-<br>
-&nbsp;
-&nbsp;&nbsp;
-
-
-
-
-
-#### Cloud
+  </div>
+  <div class="card">
 <p>
 <img alt="Link" src="../../images/about_me/google.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/aws.png" style="float:left; padding-right:10px " width="50" height="30" >
 <img alt="Link" src="../../images/about_me/azure.png" style="float:left; padding-right:10px " width="50" height="50" >
+<img alt="Link" src="../../images/about_me/linux.png" style="float:left; padding-right:10px " width="50" height="50" >
 </p>
-&nbsp;
-&nbsp;
 
 
-#### Tools and Others
 
 <p>
-<img alt="Link" src="../../images/about_me/linux.png" style="float:left; padding-right:10px " width="50" height="50" >
+
 <img alt="Link" src="../../images/about_me/redis.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/git.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/pycharm.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/vs.png" style="float:left; padding-right:10px " width="50" height="50" >
 </p>
-<br>
-&nbsp;
-&nbsp;
+  </div>
+
+</div>
