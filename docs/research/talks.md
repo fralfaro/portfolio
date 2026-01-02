@@ -1,4 +1,4 @@
-##  Talks & Workshops
+## Talks & Workshops
 
 <div class="card-grid">
 

@@ -1,9 +1,5 @@
 ## Documentation
 
-
-
-
-
 <div class="card-grid">
   <div class="card">
      <h3 style="margin-top: 0;"><a href="https://github.com/fralfaro/Github-Intro" target="_blank" style="text-decoration: none; ">Books</h3>

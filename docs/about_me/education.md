@@ -1,4 +1,4 @@
-### Education
+## Education
 
 
 <div class="card-grid">
@@ -11,9 +11,9 @@
       style="float:left; width:90px; height:90px;">
   </a>
   <span style="vertical-align:bottom">
-    &nbsp;<strong>Master’s Degree </strong><br>
+    &nbsp;<strong>Doctorate</strong><br>
     &nbsp;PhD in Electronics<br>
-    &nbsp;UTFSM - 2029
+    &nbsp;UTFSM - 2029 (Expected graduation)
   </span>
 </p>
 
@@ -234,36 +234,49 @@
 <div class="card-grid">
   <div class="card">
 <p>
-<img alt="Link" src="../../images/about_me/python.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/rlogo.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/jupyter.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/databricks.png" style="float:left; padding-right:10px " width="50" height="50" >
+  <img src="../../images/about_me/python.png" class="icon" data-tooltip="Python" width="50" height="50">
+  <img src="../../images/about_me/rlogo.png" class="icon" data-tooltip="R" width="50" height="50">
+  <img src="../../images/about_me/jupyter.png" class="icon" data-tooltip="Jupyter Notebook" width="50" height="50">
+  <img src="../../images/about_me/openai.png" class="icon" data-tooltip="Python" width="50" height="50">
+  <img src="../../images/about_me/gemini.png" class="icon" data-tooltip="R" width="50" height="50">
+  <img src="../../images/about_me/langchain4.png" class="icon" data-tooltip="Jupyter Notebook" width="50" height="50">
+  <img src="../../images/about_me/llamaindex.png" class="icon" data-tooltip="Databricks" width="50" height="50">
 </p>
+
 
 
 <p>
-<img alt="Link" src="../../images/about_me/c.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/tf.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/docker.png" style="float:left; padding-right:10px " width="55" height="55" >
-<img alt="Link" src="../../images/about_me/fastapi.png" style="float:left; padding-right:10px " width="55" height="55" >
+    <img src="../../images/about_me/databricks.png" class="icon" data-tooltip="Databricks" width="50" height="50">
+
+  <img src="../../images/about_me/quarto.png" class="icon" data-tooltip="C / C++" width="50" height="50">
+  <img src="../../images/about_me/tf.png" class="icon" data-tooltip="TensorFlow" width="50" height="50">
+  <img src="../../images/about_me/docker.png" class="icon" data-tooltip="Docker" width="50" height="50">
+  <img src="../../images/about_me/fastapi.png" class="icon" data-tooltip="FastAPI" width="50" height="50">
+  <img src="../../images/about_me/dvc.png" class="icon" data-tooltip="FastAPI" width="50" height="50">
+  <img src="../../images/about_me/airflow.png" class="icon" data-tooltip="FastAPI" width="50" height="50">
 </p>
+
   </div>
   <div class="card">
 <p>
 <img alt="Link" src="../../images/about_me/google.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/aws.png" style="float:left; padding-right:10px " width="50" height="30" >
+<img alt="Link" src="../../images/about_me/aws.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/azure.png" style="float:left; padding-right:10px " width="50" height="50" >
+<img alt="Link" src="../../images/about_me/redis.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/linux.png" style="float:left; padding-right:10px " width="50" height="50" >
+
 </p>
 
 
 
 <p>
 
-<img alt="Link" src="../../images/about_me/redis.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/git.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="../../images/about_me/pycharm.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/vs.png" style="float:left; padding-right:10px " width="50" height="50" >
+<img alt="Link" src="../../images/about_me/vsc.png" style="float:left; padding-right:10px " width="50" height="50" >
+<img alt="Link" src="../../images/about_me/cursor.png" style="float:left; padding-right:10px " width="50" height="50" >
+<img alt="Link" src="../../images/about_me/copilot2.png" style="float:left; padding-right:10px " width="50" height="50" >
+
 </p>
   </div>
 
